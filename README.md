@@ -1,2 +1,74 @@
-# eracom-typotheque.github.io
-Typothèque de l'Eracom
+# T Y P O T H E Q U E - E R A C O M
+
+# ⚠️ Principes d'usage (charte)
+
+La signature de la charte d'utilisation des polices éracom est obligatoire pour avoir accès aux fichiers de police.
+
+### ‼️ Police = Logiciel
+### ‼️ License = L'utilisateur paye pour avoir le droit d'utiliser le logiciel (le logiciel ne lui appartient pas)
+
+### ✅ Utiliser les polices dans le cadre de projets à l'éracom
+### ✅ Abc
+
+### ⛔️ Utiliser les polices pour d'autres projets que ceux inclut dans le cursus de l'éracom  
+(personnel, employeur ou pour son propre studio)
+### ⛔️ Modificer les fichiers  
+(nom du fichier, courbes, etc.)
+### ⛔️ Stocker les fichiers de polices sur les serveurs de l'école  
+(OTF, TTF, WOFF, WOFF2, EOT, SVG)
+### ⛔️ Stocker les fichiers de polices sur des serveurs tiers accessibles publiquement  
+(teams, onedrive, dropbox, googledrive,…)
+
+### ‼️ A la fin du cursus ou des rapports de travail, chaque étudiant, enseignant ou personne du corps administratif supprime l'entièreté des fichiers de polices
+
+# 🌈 Terminologie
+
+### Police
+### Caractère
+### Glyphe
+### Script
+
+# 🗂️ Classification
+
+### Historique
+### Formelle
+
+# 📝 Licenses
+
+### Restreinte
+### Open-Source
+
+# 🔠 Formats
+
+### OTF
+### TTF
+### VAR (TTF)
+### WOFF, WOFF2
+### EOT
+### SVG
+
+# 🛣️ Roadmap
+
+### Document de synthèse
+
+# 💻 Installation
+
+### Réception des fichiers
+### Livre des polices
+
+# 👩🏼‍💻 Usage
+
+### Visualisation d'un mot dans le livre des polices
+### Informations complémentaires grâce aux tags
+
+# 🍻 Choisir des polices
+
+### Créer des contrastes (Kupfer)
+
+# 📚 Ressources
+
+### Littérature Visuelle
+### Manuel InDesign
+### etc.
+
+# ☎️ Contact
