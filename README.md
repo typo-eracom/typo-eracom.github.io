@@ -1,4 +1,4 @@
-# T Y P O T H E Q U E - E R A C O M
+![Alt text](image-url)
 
 # ⚠️ Principes d'usage (charte)
 
