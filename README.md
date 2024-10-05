@@ -65,6 +65,10 @@ La signature de la charte d'utilisation des polices éracom est obligatoire pour
 
 ### Créer des contrastes (Kupfer)
 
+# 🔥 Supression
+
+### Fin du cursus
+
 # 📚 Ressources
 
 ### Littérature Visuelle
