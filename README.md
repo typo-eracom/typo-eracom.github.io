@@ -1,4 +1,4 @@
-![Alt text](image-url)
+![ERAG, Rue de Genève 55 (Agrégateur de Ressources Art + Design)](image-url)
 
 # ⚠️ Principes d'usage (charte)
 
