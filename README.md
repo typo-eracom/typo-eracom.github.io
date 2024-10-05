@@ -1,4 +1,4 @@
-![ERAG, Rue de Genève 55 (Agrégateur de Ressources Art + Design)](image-url)
+![ERAG, Rue de Genève 55 (Agrégateur de Ressources Art + Design)](links/archives/ERAG_Rue_de_Genève_55.jpg)
 
 # ⚠️ Principes d'usage (charte)
 
