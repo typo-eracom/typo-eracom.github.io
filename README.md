@@ -1,6 +1,6 @@
 ![ERAG, Rue de Genève 55 (Agrégateur de Ressources Art + Design)](http://eracom-typotheque.github.io/links/archives/ERAG_Rue_de_Geneve_55.jpg)
 
-# ⚠️ Principes d'usage (charte)
+# ⚠️ Règles d'usage
 
 La signature de la charte d'utilisation des polices éracom est obligatoire pour avoir accès aux fichiers de police.
 Police = Logiciel
