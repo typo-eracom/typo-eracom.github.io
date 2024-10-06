@@ -22,8 +22,8 @@ License = L'utilisateur paye pour avoir le droit d'utiliser le logiciel (le logi
 
 # 🌈 Terminologie
 
-### Police
-### Caractère
+### Police (famille)
+### Caractère (fonte)
 ### Glyphe
 ### Script
 
