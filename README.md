@@ -3,9 +3,8 @@
 # ⚠️ Principes d'usage (charte)
 
 La signature de la charte d'utilisation des polices éracom est obligatoire pour avoir accès aux fichiers de police.
-
-### ‼️ Police = Logiciel
-### ‼️ License = L'utilisateur paye pour avoir le droit d'utiliser le logiciel (le logiciel ne lui appartient pas)
+Police = Logiciel
+License = L'utilisateur paye pour avoir le droit d'utiliser le logiciel (le logiciel ne lui appartient pas)
 
 ### ✅ Utiliser les polices dans le cadre de projets à l'éracom
 ### ✅ Abc
