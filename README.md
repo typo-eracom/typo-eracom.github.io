@@ -30,7 +30,7 @@ La classification selon le «principe historique» (classification Vox adaptée)
 5. Slab-Sérifs
 6. Expressives
 7. Sans-Sérifs
-8. Non-Alphabétiques
+8. Non-Latines
 
 ### Formelle
 La classification selon le «principe de forme» est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
