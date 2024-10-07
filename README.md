@@ -30,14 +30,26 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 
 # 🔠 Formats
 
-### TrueType Font (TTF)
+### PostScript (PS)
+PostScript fonts were created by Adobe. There are two different parts to this font file type, one that contains printing information and the other one for display on screen.
+### TrueType (TTF)
 TrueType is a digital font technology designed by Apple Computer, and now used by both Apple and Microsoft in their operating systems.
+In the 1980s, Apple developed the TrueType font format and later licensed it to Microsoft for free. Only one file was required, but a separate file for font styles is included (normal, italic, bold, etc.)
 ### OpenType (OTF)
 Developed by Microsoft and later Adobe, the OpenType format is the successor to TrueType, built on the same underlying structure.
+The OpenType file format was created jointly by Adobe and Microsoft. It's based on the TrueType format that supports an expanded character set (ligatures, alternate styles, glyphs, etc.)
 ### OpenType Font Variations  (OTF)
+An OpenType variable font contains one or more axes that each provide particular variation between different extremes of a typeface design. The format also allows for the possibility of intermediate designs, for the whole glyph set or for individual glyphs, to provide finer control over the design as it changes across the variations design space.
 ### Web Open Font Format (WOFF/WOFF2)
+WOFF is basically OTF or TTF with metadata and compression supported by all major browsers.
+WOFF2 is the next generation of WOFF. (more compression)
+The Web Open Format file is a web-exclusive, compressed version of the formats above. This means that fonts download more quickly when viewing them on a website.
 ### Embedded OpenType (EOT)
+Developed by Microsoft, the Embedded OpenType font file format is a web file supported only by Internet Explorer.
+EOT fonts were designed by Microsoft to be fonts used on the web. It is an attempt to address the copyright shortcomings of TTF and OTF when publishing on the web. (compression+subsetting)
 ### Scalable Vector Graphics (SVG)
+These fonts contain the glyph outlines as standard SVG elements and attributes as if they were a single vector object in the SVG image. (no hinting)
+This new version of the OpenType format allows characters to be displayed in multiple colors and transparencies, and some can even be animated. 
 
 # 🔗 Licenses
 
