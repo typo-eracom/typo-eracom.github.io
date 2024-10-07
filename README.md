@@ -28,8 +28,8 @@ La classification selon le «principe historique» (classification Vox adaptée)
 3. Cursives
 4. Sérifs
 5. Slab-Sérifs
-6. Sans-Sérifs
-7. Expressives
+6. Expressives
+7. Sans-Sérifs
 8. Non-Alphabétiques
 
 ### Formelle
