@@ -25,11 +25,6 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 ### Historique
 ### Formelle
 
-# 📝 Licenses
-
-### Restreinte
-### Open-Source
-
 # 🔠 Formats
 
 ### OTF
@@ -38,6 +33,11 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 ### WOFF, WOFF2
 ### EOT
 ### SVG
+
+# 📝 Licenses
+
+### Restreinte
+### Open-Source
 
 # 🛣️ Roadmap
 
