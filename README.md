@@ -23,12 +23,19 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 
 # 🌈 Terminologie
 
-### Police (famille)
-### Caractère (fonte)
+### Police
+Une police désigne un ensemble de fontes qui partagent un style commun. Cela inclut toutes les variations possibles (gras, italique, etc.) d’une même famille de fontes.
+### Fonte
+Une fonte désigne l’ensemble des caractères correspondant aux mêmes caractéristiques (de style) au sein d’une même police. Par exemple, la police « Times », inclut notamment les fontes « Times Regular », « Times Bold », ou « Times Italic ».
 ### Glyphe
+Un glyphe est une représentation graphique d'un signe typographique. Cela peut inclure non seulement les lettres et les chiffres, mais aussi les accents, les ligatures (comme “fi” ou “fl”), et d’autres symboles.
 ### Script
+Les scripts font référence aux différents systèmes d’écriture que l’on peut utiliser avec une certaine police (en fonction des glyphes présents dans la police). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
 
 # 🔠 Formats
+
+### Desktop (print & digital)
+### Web
 
 ### PostScript (PS)
 PostScript fonts were created by Adobe. There are two different parts to this font file type, one that contains printing information and the other one for display on screen.
