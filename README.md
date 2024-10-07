@@ -6,7 +6,7 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 
 ### Définitions
 - Les fonts (fontes) ou fontsoftware qui constituent les polices de caractères sont à la fois des designs (œuvres) et des logiciels (programmes informatiques). À ce titre, ils sont protégés simultanément par le droit d’auteur et celui qui protège les logiciels.
-- Par utilisateur-trice, on entend les membres du personnel administratif et technique, les membres du corps enseignant, les étudiant-e-s de l’école ainsi que toute personne à qui la Direction de l’Ecole accorde un accès temporaire aux ressources.  
+- Par utilisateur.trice, on entend les membres du personnel administratif et technique, les membres du corps enseignant, les étudiant.e.s de l’école ainsi que toute personne à qui la Direction de l’Ecole accorde un accès temporaire aux ressources.  
 - Par ressources typographiques, on entend les fontes et polices que l’eracom met à disposition des utilisateur.trice.s.  
 
 ### Droits des utilisateur-trice-s et cadre d’utilisation
