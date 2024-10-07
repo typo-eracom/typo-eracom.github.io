@@ -14,7 +14,7 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 - La diffusion, la modification, la copie est interdite.  
 - L’utilisateur-trice respecte la propriété intellectuelle et commerciale conformément aux licences des polices de la typothèque : l’utilisation des polices est exclusive aux projets réalisés dans le cadre académique, exception faite des mandats, et des polices sous licence libre.  
 
-![]()
+![](http://eracom-typotheque.github.io/links/archives/Eracom_Typotheque_Graphics.jpg)
 
 # 🗂️ Classification
 
