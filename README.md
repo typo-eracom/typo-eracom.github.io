@@ -18,7 +18,10 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 
 # 🗂️ Classification
 
+Dans le cadre des activités professionnelles des graphistes, un système de classification se révèle utile pour identifier, sélectionner et combiner les polices de caractères.
+
 ### Historique
+La classification selon le «principe historique» (classification Vox adaptée) est une méthode de classification des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à l'histoire de l'écriture.
 
 1. Incises
 2. Manuaires
@@ -30,6 +33,7 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 8. Non-Alphabétiques
 
 ### Formelle
+La classification selon le «principe de forme» est une méthode de classification des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
 
 1. Principe
    -  Dynamique
