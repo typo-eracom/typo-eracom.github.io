@@ -19,7 +19,28 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 # 🗂️ Classification
 
 ### Historique
+
+1. Incises
+2. Manuaires
+3. Cursives
+4. Sérifs
+5. Slab-Sérifs
+6. Sans-Sérifs
+7. Expressives
+8. Non-Alphabétiques
+
 ### Formelle
+
+1. Principe
+   -  Dynamique
+   -  Statique
+   -  Géométrique
+3. Contraste
+   -  Contrasté
+   -  Linéaire
+5. Terminaisons
+   -  Sérifs
+   -  Sans-sérifs
 
 # 🌈 Terminologie
 
