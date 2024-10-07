@@ -14,17 +14,19 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 → La diffusion, la modification, la copie est interdite.  
 → L’utilisateur-trice respecte la propriété intellectuelle et commerciale conformément aux licences des polices de la typothèque : l’utilisation des polices est exclusive aux projets réalisés dans le cadre académique, exception faite des mandats, et des polices sous licence libre.  
 
+![]()
+
+# 🗂️ Classification
+
+### Historique
+### Formelle
+
 # 🌈 Terminologie
 
 ### Police (famille)
 ### Caractère (fonte)
 ### Glyphe
 ### Script
-
-# 🗂️ Classification
-
-### Historique
-### Formelle
 
 # 🔠 Formats
 
@@ -37,7 +39,7 @@ Developed by Microsoft and later Adobe, the OpenType format is the successor to 
 ### Embedded OpenType (EOT)
 ### Scalable Vector Graphics (SVG)
 
-# 📝 Licenses
+# 🔗 Licenses
 
 ### Propriétaire
 ### Open-Source
@@ -56,7 +58,7 @@ Developed by Microsoft and later Adobe, the OpenType format is the successor to 
 ### Visualisation d'un mot dans le livre des polices
 ### Informations complémentaires grâce aux tags
 
-# 🍻 Choisir des polices
+# 🧩 Choisir des polices
 
 ### Créer des contrastes (Kupfer)
 
