@@ -1,6 +1,6 @@
 ![ERAG, Rue de Genève 55 (Agrégateur de Ressources Art + Design)](http://eracom-typotheque.github.io/links/archives/ERAG_Rue_de_Geneve_55.jpg)
 
-# ⚠️ Règles dʼusage
+# ⚠️ Règles dʼutilisation
 
 La présente charte définit les droits et les devoirs des utilisateur-trice-s des ressources typographiques de l’Ecole Romande d’Arts et Communication (eracom). Elle s’applique à tous les utilisateur.trice.s.
 
