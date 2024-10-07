@@ -56,6 +56,7 @@ Developed by Microsoft and later Adobe, the OpenType format is the successor to 
 # 👩🏼‍💻 Usage
 
 ### Visualisation d'un mot dans le livre des polices
+### Panneau glyphes et autres infos
 ### Informations complémentaires grâce aux tags
 
 # 🧩 Choisir des polices
