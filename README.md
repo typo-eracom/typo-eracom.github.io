@@ -57,7 +57,7 @@ La classification selon le «principe de forme» est une méthode de classificat
    -  Sérifs
    -  Sans-sérifs
   
-# 🔍 Référence
+# 🔍 Référencement
 
 ### Digitalisation
 ### Réinterprétation
