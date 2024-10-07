@@ -12,7 +12,18 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 ### Droits des utilisateur-trice-s et cadre d’utilisation
 - Chaque utilisateur.trice a droit à utiliser les polices mises à disposition dans le cadre des projets d’école.  
 - La diffusion, la modification, la copie est interdite.  
-- L’utilisateur-trice respecte la propriété intellectuelle et commerciale conformément aux licences des polices de la typothèque : l’utilisation des polices est exclusive aux projets réalisés dans le cadre académique, exception faite des mandats, et des polices sous licence libre.  
+- L’utilisateur-trice respecte la propriété intellectuelle et commerciale conformément aux licences des polices de la typothèque : l’utilisation des polices est exclusive aux projets réalisés dans le cadre académique, exception faite des mandats, et des polices sous licence libre.
+
+# 🌈 Terminologie
+
+### Police
+Une police désigne un **ensemble de fontes** (un dossier) qui partagent un style commun. Cela inclut toutes les variations possibles (gras, italique, etc.) d’une même famille de fontes.
+### Fonte
+Une fonte désigne **l’ensemble des caractères** (contenu dans un fichier) correspondant aux mêmes caractéristiques (de style) au sein d’une même police. Par exemple, la police « Times », inclut notamment les fontes « Times Regular », « Times Bold », ou « Times Italic ».
+### Glyphe
+Un glyphe est une **représentation graphique d'un signe typographique** (un symbole). Cela peut inclure non seulement les lettres et les chiffres, mais aussi les accents, les ligatures (comme “fi” ou “fl”), et d’autres symboles.
+### Script
+Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police en fonction des glyphes présents dans la police. Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
 
 ![](http://eracom-typotheque.github.io/links/graphics/Eracom_Typotheque_Graphics4.jpg)
 
@@ -45,17 +56,11 @@ La classification selon le «principe de forme» est une méthode de classificat
 5. Terminaisons
    -  Sérifs
    -  Sans-sérifs
+  
+# 🔍 Référence
 
-# 🌈 Terminologie
-
-### Police
-Une police désigne un **ensemble de fontes** (un dossier) qui partagent un style commun. Cela inclut toutes les variations possibles (gras, italique, etc.) d’une même famille de fontes.
-### Fonte
-Une fonte désigne **l’ensemble des caractères** (contenu dans un fichier) correspondant aux mêmes caractéristiques (de style) au sein d’une même police. Par exemple, la police « Times », inclut notamment les fontes « Times Regular », « Times Bold », ou « Times Italic ».
-### Glyphe
-Un glyphe est une **représentation graphique d'un signe typographique** (un symbole). Cela peut inclure non seulement les lettres et les chiffres, mais aussi les accents, les ligatures (comme “fi” ou “fl”), et d’autres symboles.
-### Script
-Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police en fonction des glyphes présents dans la police. Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
+### Digitalisation
+### Réinterprétation
 
 # 🔠 Formats
 
