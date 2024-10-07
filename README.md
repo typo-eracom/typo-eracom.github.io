@@ -10,7 +10,7 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 - Par ressources typographiques, on entend les fontes et polices que l’eracom met à disposition des utilisateur.trice.s.  
 
 ### Droits des utilisateur-trice-s et cadre d’utilisation
-- Chaque utilisateur-trice a droit à utiliser les polices mises à disposition dans le cadre des projets d’école.  
+- Chaque utilisateur.trice a droit à utiliser les polices mises à disposition dans le cadre des projets d’école.  
 - La diffusion, la modification, la copie est interdite.  
 - L’utilisateur-trice respecte la propriété intellectuelle et commerciale conformément aux licences des polices de la typothèque : l’utilisation des polices est exclusive aux projets réalisés dans le cadre académique, exception faite des mandats, et des polices sous licence libre.  
 
