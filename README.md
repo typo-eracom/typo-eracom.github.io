@@ -19,8 +19,6 @@ License = L'utilisateur paye pour avoir le droit d'utiliser le logiciel (le logi
 ### ⛔️ Stocker les fichiers de polices sur des serveurs tiers accessibles publiquement  
 (teams, onedrive, dropbox, googledrive,…)
 
-### ‼️ A la fin du cursus ou des rapports de travail, chaque étudiant, enseignant ou personne du corps administratif supprime l'entièreté des fichiers de polices
-
 # 🌈 Terminologie
 
 ### Police (famille)
@@ -67,7 +65,7 @@ License = L'utilisateur paye pour avoir le droit d'utiliser le logiciel (le logi
 
 # 🔥 Supression
 
-### Fin du cursus
+###  A la fin du cursus ou des rapports de travail, chaque étudiant, enseignant ou personne du corps administratif supprime l'entièreté des fichiers de polices
 
 # 📚 Ressources
 
