@@ -28,12 +28,14 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 
 # 🔠 Formats
 
-### OTF
-### TTF
+### OpenType (OTF)
+Developed by Microsoft and later Adobe, the OpenType format is the successor to TrueType, built on the same underlying structure.
+### TrueType Font (TTF)
+TrueType is a digital font technology designed by Apple Computer, and now used by both Apple and Microsoft in their operating systems.
 ### VAR (TTF)
-### WOFF, WOFF2
-### EOT
-### SVG
+### Web Open Font Format (WOFF/WOFF2)
+### Embedded OpenType (EOT)
+### Scalable Vector Graphics (SVG)
 
 # 📝 Licenses
 
