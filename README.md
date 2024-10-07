@@ -1,5 +1,5 @@
 ![ERAG, Rue de Genève 55 (Agrégateur de Ressources Art + Design)](http://eracom-typotheque.github.io/links/archives/ERAG_Rue_de_Geneve_55.jpg)
-###### ERAG, Rue de Geneve 55, 1004 Lausanne
+###### *ERAG, Rue de Geneve 55, 1004 Lausanne*
 
 # ⚠️ Règles d'usage
 
