@@ -1,6 +1,6 @@
 ![](http://eracom-typotheque.github.io/links/archives/Eracom_Typotheque_Graphics2.jpg)
 
-# 🌈 Terminologie
+# 📓 Terminologie
 
 ### Police
 Une police désigne un **ensemble de fontes** (un dossier) qui partagent un style commun. Cela inclut toutes les variations possibles (gras, italique, etc.) d’une même famille de fontes.
@@ -115,11 +115,5 @@ This new version of the OpenType format allows characters to be displayed in mul
 # 🔥 Supression
 
 ###  A la fin du cursus ou des rapports de travail, chaque étudiant, enseignant ou personne du corps administratif supprime l'entièreté des fichiers de polices
-
-# 📚 Ressources
-
-### Littérature Visuelle
-### Manuel InDesign
-### etc.
 
 # ☎️ Contact
