@@ -36,7 +36,7 @@ La présente charte définit les droits et les devoirs des utilisateur-trice-s d
 
 # 📝 Licenses
 
-### Restreinte
+### Propriétaire
 ### Open-Source
 
 # 🛣️ Roadmap
