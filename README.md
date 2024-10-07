@@ -5,13 +5,13 @@
 La présente charte définit les droits et les devoirs des utilisateur-trice-s des ressources typographiques de l’Ecole Romande d’Arts et Communication (ERACOM). Elle s’applique à tous les utilisateur-trice-s.
 
 ### Définitions
-→ Par utilisateur-trice, on entend les membres du personnel administratif et technique, les membres du corps enseignant, les étudiant-e-s de l’école ainsi que toute personne à qui la Direction de l’Ecole accorde un accès temporaire aux ressources.
-→ Par ressources typographiques, on entend les fontes et polices que l’ERACOM met à disposition des utilisateur-trice-s.
+→ Par utilisateur-trice, on entend les membres du personnel administratif et technique, les membres du corps enseignant, les étudiant-e-s de l’école ainsi que toute personne à qui la Direction de l’Ecole accorde un accès temporaire aux ressources.  
+→ Par ressources typographiques, on entend les fontes et polices que l’ERACOM met à disposition des utilisateur-trice-s.  
 
 ### Droits des utilisateur-trice-s et cadre d’utilisation
-→ Chaque utilisateur-trice a droit à utiliser les polices mises à disposition dans le cadre des projets d’école.
-→ La diffusion, la modification, la copie est interdite.
-→ L’utilisateur-trice respecte la propriété intellectuelle et commerciale conformément aux licences des polices de la typothèque : l’utilisation des polices est exclusive aux projets réalisés dans le cadre académique, exception faite des mandats, et des polices sous licence libre.
+→ Chaque utilisateur-trice a droit à utiliser les polices mises à disposition dans le cadre des projets d’école.  
+→ La diffusion, la modification, la copie est interdite.  
+→ L’utilisateur-trice respecte la propriété intellectuelle et commerciale conformément aux licences des polices de la typothèque : l’utilisation des polices est exclusive aux projets réalisés dans le cadre académique, exception faite des mandats, et des polices sous licence libre.  
 
 # 🌈 Terminologie
 
