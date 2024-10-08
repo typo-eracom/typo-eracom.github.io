@@ -97,7 +97,7 @@ This new version of the OpenType format allows characters to be displayed in mul
 
 ### Document de synthèse
 
-# 💻 Installation
+# 💻 Installation (check-in)
 
 ### Réception des fichiers
 ### Livre des polices
@@ -112,7 +112,7 @@ This new version of the OpenType format allows characters to be displayed in mul
 
 ### Créer des contrastes (Kupfer)
 
-# 🔥 Supression
+# 🔥 Supression (check-out)
 
 ###  A la fin du cursus ou des rapports de travail, chaque étudiant, enseignant ou personne du corps administratif supprime l'entièreté des fichiers de polices
 
