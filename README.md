@@ -2,6 +2,8 @@
 
 # 📓 Terminologie
 
+### Typothèque
+Une collection de polices.
 ### Police
 Une police désigne un **ensemble de fontes** (un dossier) qui partagent un style commun. Cela inclut toutes les variations possibles (gras, italique, etc.) d’une même famille de fontes.
 ### Fonte
