@@ -119,3 +119,10 @@ This new version of the OpenType format allows characters to be displayed in mul
 ###  A la fin du cursus ou des rapports de travail, chaque étudiant, enseignant ou personne du corps administratif supprime l'entièreté des fichiers de polices
 
 # ☎️ Contact
+
+# 🔠 Index
+
+| Aperçu          | Police         | Classif. Hist. | Classif. Form. | Référence      | License        | Formarts       |
+| ---             | ---            | ---            | ---            | ---            | ---            | ---            |
+| Backtick        | `              |                |                |                |                |                |
+| Backtick        | `              |                |                |                |                |                |
