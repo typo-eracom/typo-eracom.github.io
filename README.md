@@ -120,6 +120,8 @@ This new version of the OpenType format allows characters to be displayed in mul
 
 # ☎️ Contact
 
+### typo.eracom@eduvaud.ch
+
 # 🔠 Index
 
 | Aperçu          | Police         | Fonderie       | Classif. Hist. | Classif. Form. | Référence           | License        | Formats                 |
