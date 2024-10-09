@@ -123,6 +123,6 @@ This new version of the OpenType format allows characters to be displayed in mul
 # 🔠 Index
 
 | Aperçu          | Police         | Fonderie       | Classif. Hist. | Classif. Form. | Référence           | License        | Formats                 |
-|:---             |:---            | ---            | ---            | ---            | ---                 | ---            | ---                     |
-| eracom          | Garamond       | Adobe          | Humanes        |                | digitalisation      | propriétaire   | desktop,                |
-| eracom          | Plain          | Optimo         | Néo-Grotesques |                | réintérprétation    | propriétaire   | desktop, web, variable  |
+|:---             |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
