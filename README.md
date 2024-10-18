@@ -86,10 +86,10 @@ La classification selon le «principe de forme» est une méthode de classificat
 # 🔍 Référence
 
 ### Digitalisation
-La digitalisation des polices de caractères fait référence au processus de conversion d’une police physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Cela implique la création de fichiers numériques qui représentent les glyphes (les caractères et symboles) de la police, permettant ainsi leur utilisation sur des ordinateurs et des appareils numériques. Ce processus peut inclure la numérisation de dessins existants et leur conversion en courbes vectorielles, ce qui permet une mise à l’échelle sans perte de qualité.
+La digitalisation des polices de caractères fait référence au processus de conversion d’une fonte physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur conversion en courbes vectorielles, ce qui permet une mise à l’échelle sans perte de qualité.
 
 ### Réinterprétation
-La réinterprétation d’une police de caractères consiste à créer une nouvelle version ou un nouveau style basé sur une police existante, tout en introduisant des modifications ou des variations. Cela peut inclure des changements dans la forme des caractères, le poids, l’espacement ou le style global, tout en conservant une certaine similitude avec l’original. La réinterprétation peut être motivée par le désir d’adapter une police à un contexte spécifique, de la moderniser ou de lui donner une nouvelle personnalité tout en rendant hommage à son design original.
+La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste ou encore l’espacement dans le but d’adapter une fonte à un contexte spécifique, de la moderniser ou de lui donner une nouvelle personnalité tout en rendant hommage à son design original.
 
 # 🔠 Formats
 
