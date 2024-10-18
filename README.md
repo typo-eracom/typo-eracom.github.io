@@ -58,16 +58,16 @@ La classification selon le «principe historique» (classification Vox adaptée)
 ### Formelle
 La classification selon le «principe de forme» est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
 
-1. Principe
+1. Squelette
    -  Dynamique
    -  Statique
    -  Géométrique
-3. Contraste
+2. Graisse
    -  Contrasté
    -  Linéaire
-5. Terminaisons
-   -  Sérifs
-   -  Sans-sérifs
+3. Terminaisons
+   -  Empattements
+   -  Sans-empattements
   
 # 🔍 Origine
 
@@ -113,9 +113,10 @@ An OpenType variable font contains one or more axes that each provide particular
 
 # 👩🏼‍💻 Usage
 
-### Visualisation d'un mot dans le livre des polices
-### Panneau glyphes et autres infos
+### Visualisation d'un mot dans le livre des polices, Panneau glyphes et autres infos
 ### Informations complémentaires grâce aux tags
+### Activer, désactiver une fonte
+### Installer une webfont
 
 # 🧩 Choisir des polices
 
@@ -131,13 +132,12 @@ An OpenType variable font contains one or more axes that each provide particular
 # 🔠 Index
 
 ➡️ Classif. Hist.  
-➡️ Classif. Form. 1  
-➡️ Classif. Form. 2  
-➡️ Classif. Form. 3  
+➡️ Classif. Form. 1  (d, s, g)
+➡️ Classif. Form. 2  (c, l)
+➡️ Classif. Form. 3  (s, )
 ➡️ Origine  
 ➡️ License  
 ➡️ Formats  
-
 
 | Aperçu          | Police         | Fonderie       | Classif. Hist. | Classif. Form. | Origine             | License        | Formats                 |
 |:---             |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |
