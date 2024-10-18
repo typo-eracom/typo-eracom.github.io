@@ -144,9 +144,9 @@ Abc
 
 ➡️ Classification Historique (famille)  
 ➡️ Classification Formelle (modèle-contraste-terminaisons)  
-➡️ Référence (digitalisation, réinterprétation, –)  
-➡️ License (propriétaire, libre)  
+➡️ Référence (digitalisation, réinterprétation, –)   
 ➡️ Formats (desktop, web, variable)  
+➡️ License (propriétaire, libre) 
 
 ### Activer, désactiver une fonte
 Abc
