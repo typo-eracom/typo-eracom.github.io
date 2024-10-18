@@ -134,7 +134,7 @@ An OpenType variable font contains one or more axes that each provide particular
 ➡️ Classif. Hist.  
 ➡️ Classif. Form. 1  (d, s, g)
 ➡️ Classif. Form. 2  (c, l)
-➡️ Classif. Form. 3  (s, )  
+➡️ Classif. Form. 3  (e, s)  
 ➡️ Référence  
 ➡️ License  
 ➡️ Formats  
