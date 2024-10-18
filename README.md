@@ -76,29 +76,17 @@ La classification selon le «principe de forme» est une méthode de classificat
 
 # 🔠 Formats
 
-### Desktop (print & digital)
+### Desktop (OTF, TTF)
 
-##### TrueType (TTF)
-TrueType is a digital font technology designed by Apple Computer, and now used by both Apple and Microsoft in their operating systems.
-In the 1980s, Apple developed the TrueType font format and later licensed it to Microsoft for free. Only one file was required, but a separate file for font styles is included (normal, italic, bold, etc.)
-##### OpenType (OTF)
-Developed by Microsoft and later Adobe, the OpenType format is the successor to TrueType, built on the same underlying structure.
-The OpenType file format was created jointly by Adobe and Microsoft. It's based on the TrueType format that supports an expanded character set (ligatures, alternate styles, glyphs, etc.)
+Les polices destinées à un usage desktop sont installées localement sur l’ordinateur d’un utilisateur et utilisées dans des logiciels comme les applications de traitements de texte (Word, Pages,…) et de mise en page (InDesign, Illustrator,…).
 
-### Web
+### Web (WOFF, WOFF2, EOT)
 
-##### Web Open Font Format (WOFF/WOFF2)
-WOFF is basically OTF or TTF with metadata and compression supported by all major browsers.
-WOFF2 is the next generation of WOFF. (more compression)
-The Web Open Format file is a web-exclusive, compressed version of the formats above. This means that fonts download more quickly when viewing them on a website.
-##### Embedded OpenType (EOT)
-Developed by Microsoft, the Embedded OpenType font file format is a web file supported only by Internet Explorer.
-EOT fonts were designed by Microsoft to be fonts used on the web. It is an attempt to address the copyright shortcomings of TTF and OTF when publishing on the web. (compression+subsetting)
+Les polices destinées à un usage web sont compressées pour être utilisées directement sur des sites internet grâce à des langages comme le HTML et le CSS. Elles sont hébergées sur un serveur et chargées par le navigateur des utilisateurs lorsqu’ils visitent une page web.
 
-### Variable
+### Variable (OTF)
 
-###### OpenType Font Variations  (OTF)
-An OpenType variable font contains one or more axes that each provide particular variation between different extremes of a typeface design. The format also allows for the possibility of intermediate designs, for the whole glyph set or for individual glyphs, to provide finer control over the design as it changes across the variations design space.
+Les polices variables sont une nouvelle technologie qui permet d’inclure plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l'animation vidéo.
 
 # 🔗 Licenses
 
