@@ -142,10 +142,10 @@ Abc
 
 ### Informations complémentaires grâce aux tags
 
-➡️ Classification Historique (famille)
-➡️ Classification Formelle (modèle-contraste-terminaisons)
-➡️ License (propriétaire, libre)
-➡️ Formats (desktop, web, variable)
+➡️ Classification Historique (famille)  
+➡️ Classification Formelle (modèle-contraste-terminaisons)  
+➡️ License (propriétaire, libre)  
+➡️ Formats (desktop, web, variable)  
 
 ### Activer, désactiver une fonte
 Abc
