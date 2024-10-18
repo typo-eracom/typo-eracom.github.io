@@ -80,21 +80,21 @@ La classification selon le «principe historique» (classification Vox adaptée)
 ### Formelle
 La classification selon le «principe de forme» est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
 
-1. **Construction**
+1. **Modèle**
    -  Dynamique  
       Dessin avec axe diagonal + extrémités ouvertes
    -  Statique  
       Dessin avec axe vertical + extrémités fermées
    -  Géométrique  
       Construction modulaire
-2. **Graisse**
+2. **Contraste**
    -  Contrasté
    -  Linéaire
 3. **Terminaisons**
    -  Empattements
    -  Sans-empattements
   
-# 🔍 Référence
+# 🔍 (((Référence)))
 
 ### Digitalisation
 La digitalisation des polices de caractères fait référence au processus de conversion d’une fonte physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur conversion en courbes vectorielles, ce qui permet une mise à l’échelle sans perte de qualité.
@@ -141,7 +141,11 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 Abc
 
 ### Informations complémentaires grâce aux tags
-Abc
+
+➡️ Classification Historique (famille)
+➡️ Classification Formelle (modèle-contraste-terminaisons)
+➡️ License (propriétaire, libre)
+➡️ Formats (desktop, web, variable)
 
 ### Activer, désactiver une fonte
 Abc
@@ -158,14 +162,6 @@ Abc
 ### Signature de la charte
 
 # 🔠 Catalogue
-
-➡️ Classif. Hist.  
-➡️ Classif. Form. 1  (d, s, g)
-➡️ Classif. Form. 2  (c, l)
-➡️ Classif. Form. 3  (e, s)  
-➡️ Référence  
-➡️ License  
-➡️ Formats  
 
 | Aperçu          | Police         | Fonderie       | Classif. Hist. | Classif. Form. | Référence           | License        | Formats                 |
 |:---             |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |
