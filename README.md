@@ -119,7 +119,7 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 
 # 🔥 Supression (check-out)
 
-### A la fin du cursus ou des rapports de travail, chaque étudiant, enseignant ou personne du corps administratif supprime l'entièreté des fichiers de polices
+### L’utilisateur.rice s'engage à supprimer tous les fichiers de fontes au moment de la fin ou de l’interuption de son cursus (signature 2).
 ### Signature de la charte
 
 # 🔠 Index
