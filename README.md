@@ -69,7 +69,7 @@ La classification selon le «principe de forme» est une méthode de classificat
    -  Empattements
    -  Sans-empattements
   
-# 🔍 Origine
+# 🔍 Référence
 
 ### Digitalisation
 ### Réinterprétation
@@ -134,12 +134,12 @@ An OpenType variable font contains one or more axes that each provide particular
 ➡️ Classif. Hist.  
 ➡️ Classif. Form. 1  (d, s, g)
 ➡️ Classif. Form. 2  (c, l)
-➡️ Classif. Form. 3  (s, )
-➡️ Origine  
+➡️ Classif. Form. 3  (s, )  
+➡️ Référence  
 ➡️ License  
 ➡️ Formats  
 
-| Aperçu          | Police         | Fonderie       | Classif. Hist. | Classif. Form. | Origine             | License        | Formats                 |
+| Aperçu          | Police         | Fonderie       | Classif. Hist. | Classif. Form. | Référence           | License        | Formats                 |
 |:---             |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |
 | eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
 | eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
