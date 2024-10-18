@@ -13,7 +13,7 @@ Un glyphe est une **représentation graphique d'un signe typographique** (un sym
 ### Script
 Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police en fonction des glyphes présents au sein de celle-ci (on parle alors de son « jeux de caractères »). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
 
-# 👋 Règles dʼutilisation
+# 👋 Charte d’utilisation
 
 La présente charte définit les droits et les obligations des utilisateur.trice.s de la typothèque de l’Ecole Romande d’Arts et Communication (Eracom). Elle s’applique à tous.tes les utilisateur.trice.s.
 
