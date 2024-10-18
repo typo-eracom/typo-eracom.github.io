@@ -1,5 +1,17 @@
 ![](http://eracom-typotheque.github.io/links/archives/Eracom_Typotheque_Graphics2.jpg)
 
+# 📋 Table des matières
+
+- [Terminologie](#%EF%B8%8F-incises)
+- [Charte d’utilisation](#%EF%B8%8F-onciales)
+- [Classification](#%EF%B8%8F-cursives)
+- [Formats](#%EF%B8%8F-gothiques)
+- [Licenses](#%EF%B8%8F-humanes)
+- [Installation](#%EF%B8%8F-garaldes)
+- [Usage](#%EF%B8%8F-réales)
+- [Supression](#%EF%B8%8F-didones)
+- [Index](#%EF%B8%8F-mécanes)
+
 # 📓 Terminologie
 
 ### Typothèque
@@ -110,8 +122,6 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 ### Informations complémentaires grâce aux tags
 ### Activer, désactiver une fonte
 ### Installer une webfont
-
-# 🧩 Choisir des polices
 
 ### Créer des contrastes (Kupfer)
 ### Créer des contrastes (Kupfer)
