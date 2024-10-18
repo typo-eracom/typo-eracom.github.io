@@ -90,15 +90,18 @@ La classification selon le «principe de forme» est une méthode de classificat
 
 # 🔠 Formats
 
-### Desktop (OTF, TTF)
+### Desktop
+#### OTF, TTF
 
 Les polices destinées à un usage desktop sont installées localement sur l’ordinateur d’un utilisateur et utilisées dans des logiciels comme les applications de traitements de texte (Word, Pages,…) et de mise en page (InDesign, Illustrator,…).
 
-### Web (WOFF, WOFF2, EOT)
+### Web
+#### WOFF, WOFF2, EOT
 
 Les polices destinées à un usage web sont compressées pour être utilisées directement sur des sites internet grâce à des langages comme le HTML et le CSS. Elles sont hébergées sur un serveur et chargées par le navigateur des utilisateurs lorsqu’ils visitent une page web.
 
-### Variable (OTF)
+### Variable
+#### OTF
 
 Les polices variables sont une nouvelle technologie qui permet d’inclure plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l'animation vidéo.
 
@@ -121,13 +124,19 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 # 👩🏼‍💻 Usage
 
 ### Visualisation d'un mot dans le livre des polices, Panneau glyphes et autres infos
-### Informations complémentaires grâce aux tags
-### Activer, désactiver une fonte
-### Installer une webfont
+Abc
 
-### Créer des contrastes (Kupfer)
-### Créer des contrastes (Kupfer)
-### Créer des contrastes (Kupfer)
+### Informations complémentaires grâce aux tags
+Abc
+
+### Activer, désactiver une fonte
+Abc
+
+### Installer une webfont
+Abc
+
+### Choisir des fontes, créer des pairs (contrastes Kupfer)
+Abc
 
 # 🔥 Supression (check-out)
 
