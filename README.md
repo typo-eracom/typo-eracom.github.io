@@ -69,7 +69,7 @@ La classification selon le «principe de forme» est une méthode de classificat
    -  Sérifs
    -  Sans-sérifs
   
-# 🔍 Revivalisme
+# 🔍 Origine
 
 ### Digitalisation
 ### Réinterprétation
@@ -78,20 +78,20 @@ La classification selon le «principe de forme» est une méthode de classificat
 
 ### Desktop (print & digital)
 
-###### TrueType (TTF)
+##### TrueType (TTF)
 TrueType is a digital font technology designed by Apple Computer, and now used by both Apple and Microsoft in their operating systems.
 In the 1980s, Apple developed the TrueType font format and later licensed it to Microsoft for free. Only one file was required, but a separate file for font styles is included (normal, italic, bold, etc.)
-###### OpenType (OTF)
+##### OpenType (OTF)
 Developed by Microsoft and later Adobe, the OpenType format is the successor to TrueType, built on the same underlying structure.
 The OpenType file format was created jointly by Adobe and Microsoft. It's based on the TrueType format that supports an expanded character set (ligatures, alternate styles, glyphs, etc.)
 
 ### Web
 
-###### Web Open Font Format (WOFF/WOFF2)
+##### Web Open Font Format (WOFF/WOFF2)
 WOFF is basically OTF or TTF with metadata and compression supported by all major browsers.
 WOFF2 is the next generation of WOFF. (more compression)
 The Web Open Format file is a web-exclusive, compressed version of the formats above. This means that fonts download more quickly when viewing them on a website.
-###### Embedded OpenType (EOT)
+##### Embedded OpenType (EOT)
 Developed by Microsoft, the Embedded OpenType font file format is a web file supported only by Internet Explorer.
 EOT fonts were designed by Microsoft to be fonts used on the web. It is an attempt to address the copyright shortcomings of TTF and OTF when publishing on the web. (compression+subsetting)
 
@@ -126,7 +126,16 @@ An OpenType variable font contains one or more axes that each provide particular
 
 # 🔠 Index
 
-| Aperçu          | Police         | Fonderie       | Classif. Hist. | Classif. Form. | Référence           | License        | Formats                 |
+➡️ Classif. Hist.
+➡️ Classif. Form. 1
+➡️ Classif. Form. 2
+➡️ Classif. Form. 3
+➡️ Origine
+➡️ License
+➡️ Formats
+
+
+| Aperçu          | Police         | Fonderie       | Classif. Hist. | Classif. Form. | Origine             | License        | Formats                 |
 |:---             |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |
 | eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
 | eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
