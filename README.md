@@ -3,7 +3,7 @@
 # 📓 Terminologie
 
 ### Typothèque
-Une collection organisée de **polices**.
+Une typothèque est une collection organisée de **polices**.
 ### Police
 Une police désigne un **ensemble de fontes** (un dossier de fontes) qui partagent une identité commune (« le même squelette »). Une police inclut toutes les variations possibles (gras, italique, etc.) d’une même **famille** de fontes.
 ### Fonte
