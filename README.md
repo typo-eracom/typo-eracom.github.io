@@ -94,7 +94,7 @@ La classification selon le «principe de forme» est une méthode de classificat
    -  Empattements
    -  Sans-empattements
   
-# 🔍 (((Référence)))
+# 🔍 Référence
 
 ### Digitalisation
 La digitalisation des polices de caractères fait référence au processus de conversion d’une fonte physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur conversion en courbes vectorielles, ce qui permet une mise à l’échelle sans perte de qualité.
