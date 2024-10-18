@@ -4,15 +4,15 @@
 
 # 📋 Table des matières
 
-- [Terminologie](#%EF%B8%8F-incises)
-- [Charte d’utilisation](#%EF%B8%8F-onciales)
-- [Classification](#%EF%B8%8F-cursives)
-- [Formats](#%EF%B8%8F-gothiques)
-- [Licenses](#%EF%B8%8F-humanes)
-- [Installation](#%EF%B8%8F-garaldes)
-- [Usage](#%EF%B8%8F-réales)
-- [Supression](#%EF%B8%8F-didones)
-- [Catalogue](#%EF%B8%8F-mécanes)
+- [Terminologie](#-terminologie)
+- [Charte d’utilisation](#-charte-dutilisation)
+- [Classification](#-classification)
+- [Formats](#-formats)
+- [Licenses](#-licenses)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Supression](#-supression)
+- [Catalogue](#-catalogue)
 
 # ☎️ Contact
 
