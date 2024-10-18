@@ -157,3 +157,49 @@ Abc
 |:---             |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |
 | eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
 | eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
+| eracom          | Garamond       | Adobe          | Humanes        | d-c-s          | digitalisation      | propriétaire   | desktop,                |
+| eracom          | Plain          | Optimo         | Néo-Grotesques | s-l-           | réintérprétation    | propriétaire   | desktop, web, variable  |
