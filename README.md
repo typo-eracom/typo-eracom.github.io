@@ -93,17 +93,18 @@ La réinterprétation d’une police de caractères consiste à créer une nouve
 
 # 🔠 Formats
 
-### Desktop  OTF, TTF
+### Desktop
+OTF, TTF
 
 Les polices destinées à un usage desktop sont installées localement sur l’ordinateur d’un utilisateur et utilisées dans des logiciels comme les applications de traitements de texte (Word, Pages,…) et de mise en page (InDesign, Illustrator,…).
 
 ### Web
-### WOFF, WOFF2, EOT
+WOFF, WOFF2, EOT
 
 Les polices destinées à un usage web sont compressées pour être utilisées directement sur des sites internet grâce à des langages comme le HTML et le CSS. Elles sont hébergées sur un serveur et chargées par le navigateur des utilisateurs lorsqu’ils visitent une page web.
 
 ### Variable
-### OTF
+OTF
 
 Les polices variables sont une nouvelle technologie qui permet d’inclure plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l'animation vidéo.
 
