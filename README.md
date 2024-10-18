@@ -34,6 +34,10 @@ La présente charte définit les droits et les obligations des utilisateur.trice
 ### Violation
 Une violation des principes énoncés plus haut peut entraîner le retrait de l’accès aux ressources. En outre, les abus seront dénoncés aux autorités académiques et/ou administratives compétentes en vue de sanctions disciplinaires. Sont réservés le remboursement des frais résultant de l’utilisation abusive et de son identification ainsi que d’éventuelles poursuites judiciaires.
 
+# ☎️ Contact
+
+### typo.eracom@eduvaud.ch
+
 ![](http://eracom-typotheque.github.io/links/graphics/Eracom_Typotheque_Graphics4.jpg)
 
 # 🗂️ Classification
@@ -124,10 +128,6 @@ This new version of the OpenType format allows characters to be displayed in mul
 # 🔥 Supression (check-out)
 
 ###  A la fin du cursus ou des rapports de travail, chaque étudiant, enseignant ou personne du corps administratif supprime l'entièreté des fichiers de polices
-
-# ☎️ Contact
-
-### typo.eracom@eduvaud.ch
 
 # 🔠 Index
 
