@@ -74,6 +74,7 @@ La classification selon le «principe de forme» est une méthode de classificat
 
 1. Squelette
    -  Dynamique
+      Ouvertures ouvertes
    -  Statique
    -  Géométrique
 2. Graisse
