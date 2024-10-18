@@ -93,8 +93,7 @@ La réinterprétation d’une police de caractères consiste à créer une nouve
 
 # 🔠 Formats
 
-### Desktop
-### OTF, TTF
+### Desktop  OTF, TTF
 
 Les polices destinées à un usage desktop sont installées localement sur l’ordinateur d’un utilisateur et utilisées dans des logiciels comme les applications de traitements de texte (Word, Pages,…) et de mise en page (InDesign, Illustrator,…).
 
