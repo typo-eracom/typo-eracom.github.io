@@ -12,6 +12,10 @@
 - [Supression](#%EF%B8%8F-didones)
 - [Catalogue](#%EF%B8%8F-mécanes)
 
+# ☎️ Contact
+
+### typo.eracom@eduvaud.ch
+
 # 📓 Terminologie
 
 ### Typothèque
@@ -44,10 +48,6 @@ La présente charte définit les droits et les obligations des utilisateur.trice
 
 ### Violation
 Une violation des principes énoncés plus haut peut entraîner le retrait de l’accès aux ressources. En outre, les abus seront dénoncés aux autorités académiques et/ou administratives compétentes en vue de sanctions disciplinaires. Sont réservés le remboursement des frais résultant de l’utilisation abusive et de son identification ainsi que d’éventuelles poursuites judiciaires.
-
-# ☎️ Contact
-
-### typo.eracom@eduvaud.ch
 
 ![](http://eracom-typotheque.github.io/links/graphics/Eracom_Typotheque_Graphics4.jpg)
 
