@@ -107,6 +107,7 @@ An OpenType variable font contains one or more axes that each provide particular
 
 # 💻 Installation (check-in)
 
+### Signature de la charte
 ### Réception des fichiers
 ### Livre des polices
 
@@ -119,10 +120,13 @@ An OpenType variable font contains one or more axes that each provide particular
 # 🧩 Choisir des polices
 
 ### Créer des contrastes (Kupfer)
+### Créer des contrastes (Kupfer)
+### Créer des contrastes (Kupfer)
 
 # 🔥 Supression (check-out)
 
-###  A la fin du cursus ou des rapports de travail, chaque étudiant, enseignant ou personne du corps administratif supprime l'entièreté des fichiers de polices
+### A la fin du cursus ou des rapports de travail, chaque étudiant, enseignant ou personne du corps administratif supprime l'entièreté des fichiers de polices
+### Signature de la charte
 
 # 🔠 Index
 
