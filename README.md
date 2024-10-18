@@ -62,12 +62,12 @@ La classification selon le «principe historique» (classification Vox adaptée)
 
 1. **Incises**  
    Gravure dans la pierre
-3. **Manuaires** 
+3. **Manuaires**  
    Calligraphie interompue
 5. **Cursives**  
    Calligraphie ininterompue
 6. **Sérifs**  
-   Impression à caractèrs mobiles
+   Impression à caractères mobiles
 7. **Slab-Sérifs**  
    Composition à chaud
 8. **Expressives**  
