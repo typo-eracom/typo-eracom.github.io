@@ -144,6 +144,7 @@ Abc
 
 ➡️ Classification Historique (famille)  
 ➡️ Classification Formelle (modèle-contraste-terminaisons)  
+➡️ Référence (digitalisation, réinterprétation, –)  
 ➡️ License (propriétaire, libre)  
 ➡️ Formats (desktop, web, variable)  
 
