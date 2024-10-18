@@ -90,8 +90,13 @@ Les polices variables sont une nouvelle technologie qui permet d’inclure plusi
 
 # 🔗 Licenses
 
+Le type de license est toujours spécifié et précisé dans l’EULA (End User License Agreement). C'est un contrat qui définit les conditions d’utilisation des police par l’utilisateur.rice final. Il précise ce que l’utilisateur est autorisé à faire (comme installer la police sur un nombre limité d’ordinateurs, l’utiliser pour des projets imprimés ou web) et ce qui est interdit (comme redistribuer, modifier, ou copier les polices).
+
 ### Propriétaire
-### Libre (open-source)
+Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le droit d’utiliser une fonte, mais sans en posséder le code source ou les droits de modification et de redistribution. Les restrictions sont souvent strictes: l’utilisateur.rice ne peut pas copier, modifier, ni partager le produit sans autorisation explicite.
+
+### Libre
+Une licence libre (open-source) permet généralement à l’utilisateur.rice d’utiliser, copier, modifier et redistribuer une fonte, souvent de manière gratuite et sans restriction. Elle garantit l’accès au code source et la liberté de l’adapter selon les besoins. Néamoins, il est toujours nécessaire d'aller vérifier ce qui est autorisé dans le contrat de license.
 
 # 💻 Installation (check-in)
 
