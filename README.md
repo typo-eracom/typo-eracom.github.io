@@ -10,7 +10,7 @@
 - [Installation](#%EF%B8%8F-garaldes)
 - [Usage](#%EF%B8%8F-réales)
 - [Supression](#%EF%B8%8F-didones)
-- [Index](#%EF%B8%8F-mécanes)
+- [Catalogue](#%EF%B8%8F-mécanes)
 
 # 📓 Terminologie
 
@@ -132,7 +132,7 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 ### L’utilisateur.rice s'engage à supprimer tous les fichiers de fontes au moment de la fin ou de l’interuption de son cursus (signature 2).
 ### Signature de la charte
 
-# 🔠 Index
+# 🔠 Catalogue
 
 ➡️ Classif. Hist.  
 ➡️ Classif. Form. 1  (d, s, g)
