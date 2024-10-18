@@ -9,9 +9,9 @@
 - [Classification](#-classification)
 - [Formats](#-formats)
 - [Licenses](#-licenses)
-- [Installation](#-installation)
+- [Installation](#-installation-check-in)
 - [Usage](#-usage)
-- [Supression](#-supression)
+- [Supression](#-supression-check-out)
 - [Catalogue](#-catalogue)
 
 # ☎️ Contact
