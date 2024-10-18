@@ -60,37 +60,37 @@ Dans le cadre des activités professionnelles des graphistes, un système de cla
 ### Historique
 La classification selon le «principe historique» (classification Vox adaptée) est une méthode de classification pédagogique des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à l'histoire de l'écriture et l'évolution des technologies.
 
-1. Incises  
+1. **Incises**  
    Gravure dans la pierre
-3. Manuaires  
+3. **Manuaires** 
    Calligraphie interompue
-5. Cursives  
+5. **Cursives**  
    Calligraphie ininterompue
-6. Sérifs  
+6. **Sérifs**  
    Impression à caractèrs mobiles
-7. Slab-Sérifs  
+7. **Slab-Sérifs**  
    Composition à chaud
-8. Expressives  
+8. **Expressives**  
    Composition en grands corps
-9. Sans-Sérifs  
+9. **Sans-Sérifs**  
    Composition à froid
-10. Non-Latines  
+10. **Non-Latines**  
    Composition digitale
 
 ### Formelle
 La classification selon le «principe de forme» est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
 
-1. Construction
+1. **Construction**
    -  Dynamique  
       Dessin avec axe diagonal + extrémités ouvertes
-   -  Statique
+   -  Statique  
       Dessin avec axe vertical + extrémités fermées
-   -  Géométrique
+   -  Géométrique  
       Construction modulaire
-2. Graisse
+2. **Graisse**
    -  Contrasté
    -  Linéaire
-3. Terminaisons
+3. **Terminaisons**
    -  Empattements
    -  Sans-empattements
   
