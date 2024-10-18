@@ -24,7 +24,6 @@ La présente charte définit les droits et les obligations des utilisateur.trice
 
 ### Droits et Obligations
 - Chaque utilisateur.trice a le droit d’utiliser les fontes de la typothèque. Toutefois, ce droit est limité exclusivement aux projets réalisés dans le cadre académique et n’inclut donc en aucun cas des projets personnels ou des mandats externes à l’école.
-
 - Le stockage des fontes sur des serveurs partagés tels que les serveurs de l’école, Teams, OneDrive, Dropbox, GoogleDrive, etc. est interdit.
 - La diffusion des fontes est interdite, même au sein de l’école : par exemple se transmettre des fontes entre élèves ou collègues via courriel, messagerie instantanée, airdrop, wetransfer, etc.
 - La modification des fontes est interdite : par exemple renommer une fonte, modifier ses tracés, son character-set, ses fonctionnalités opentype, son code, ou la convertir dans un autre format.
