@@ -83,13 +83,13 @@ La classification selon le «principe de forme» est une méthode de classificat
 
 1. **Modèle**
    -  Dynamique  
-      Dessin avec axe diagonal + extrémités ouvertes
+      Dessin avec axe diagonal + extrémités ouvertes  
       friendly, open, approachable, flexible, natural, democratic, warm, inviting, personal, timeless
    -  Statique  
-      Dessin avec axe vertical + extrémités fermées
+      Dessin avec axe vertical + extrémités fermées  
       rational, orderly, reserved, noble, elegant, serious, stiff, correct, rigorous, authoritative
    -  Géométrique  
-      Construction modulaire
+      Construction modulaire  
       Geometric, simple, technical, modern, functional, informal, systematic, sober, modernism, clean
 2. **Contraste**
    -  Contrasté
