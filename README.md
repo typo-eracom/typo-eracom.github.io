@@ -120,7 +120,7 @@ WOFF, WOFF2, EOT
 Les polices destinées à un usage web sont compressées pour être utilisées directement sur des sites internet grâce à des langages comme le HTML et le CSS. Elles sont hébergées sur un serveur et chargées par le navigateur des utilisateurs lorsqu’ils visitent une page web.
 
 ### Variable
-OTF
+OTF, TTF, WOFF, WOFF2
 
 Les polices variables sont une nouvelle technologie qui permet d’inclure plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l'animation vidéo.
 
@@ -160,6 +160,18 @@ Abc
 Abc
 Copy paste code
 
+`
+@font-face {
+  font-family: 'MyVariableFont';
+  src: url('MyVariableFont.woff2') format('woff2');
+  font-weight: 100 900; /* This defines the range of weights available */
+}
+
+.text {
+  font-family: 'MyVariableFont', sans-serif;
+  font-variation-settings: 'wght' 400, 'wdth' 100;
+}
+`
 
 # 🔥 Supression (check-out)
 
