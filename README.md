@@ -160,8 +160,7 @@ Abc
 Abc
 Copy paste code
 
-`
-@font-face {
+`@font-face {
   font-family: 'MyVariableFont';
   src: url('MyVariableFont.woff2') format('woff2');
   font-weight: 100 900; /* This defines the range of weights available */
@@ -170,8 +169,7 @@ Copy paste code
 .text {
   font-family: 'MyVariableFont', sans-serif;
   font-variation-settings: 'wght' 400, 'wdth' 100;
-}
-`
+}`
 
 # 🔥 Supression (check-out)
 
