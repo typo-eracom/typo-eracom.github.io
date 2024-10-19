@@ -195,5 +195,5 @@ Copy paste code
 - Frutiger
 
 - www.fontsinuse.com
-- www.indexgrafik.fr/
+- www.indexgrafik.fr
 - www.luc.devroye.org
