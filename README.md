@@ -189,13 +189,11 @@ Copy paste code
 
 # 📎 Sources 
 
-Buchstaben kommen selten allein: Ein typografisches Handbuch,
-Indra Kupferschmid, niggli Verlag, 2004
-Le trait. Une théorie de l’écriture, Gerrit Noordzij, Ypsilon
-éditeur, 2010
-Blockland
-Frutiger
+- Buchstaben kommen selten allein: Ein typografisches Handbuch, Indra Kupferschmid, niggli Verlag, 2004
+- Le trait. Une théorie de l’écriture, Gerrit Noordzij, Ypsilon éditeur, 2010
+- Blockland
+- Frutiger
 
-www.fontsinuse.com
-www.indexgrafik.fr/
-www.luc.devroye.org
+- www.fontsinuse.com
+- www.indexgrafik.fr/
+- www.luc.devroye.org
