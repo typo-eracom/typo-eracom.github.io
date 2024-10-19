@@ -13,6 +13,7 @@
 - [Usage](#-usage)
 - [Supression](#-supression-check-out)
 - [Catalogue](#-catalogue)
+- [Sources](#-sources)
 
 # ☎️ Contact
 
@@ -94,6 +95,10 @@ La classification selon le «principe de forme» est une méthode de classificat
    -  Empattements
    -  Sans-empattements
   
+### Choisir des fontes, créer des pairs (contrastes Kupfer)
+
+
+  
 # 🔍 Référence
 
 ### Digitalisation
@@ -153,9 +158,8 @@ Abc
 
 ### Installer une webfont
 Abc
+Copy paste code
 
-### Choisir des fontes, créer des pairs (contrastes Kupfer)
-Abc
 
 # 🔥 Supression (check-out)
 
@@ -183,3 +187,15 @@ Abc
 | Garamond       | Adobe          | Humanes        | d-c-e          | digitalisation      | propriétaire   | desktop,                |
 | Plain          | Optimo         | Néo-Grotesques | s-l-s          | réintérprétation    | propriétaire   | desktop, web, variable  |
 
+# 📎 Sources 
+
+Buchstaben kommen selten allein: Ein typografisches Handbuch,
+Indra Kupferschmid, niggli Verlag, 2004
+Le trait. Une théorie de l’écriture, Gerrit Noordzij, Ypsilon
+éditeur, 2010
+Blockland
+Frutiger
+
+www.fontsinuse.com
+www.indexgrafik.fr/
+www.luc.devroye.org
