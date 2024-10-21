@@ -1,6 +1,6 @@
 # TYPOTHEQUE ERACOM
 
-![](/links/Eracom_Typotheque_Graphics_v4_alt.jpg)
+![](/links/Eracom_Typotheque_Graphics_v4.jpg)
 
 # 📋 Table des matières
 
