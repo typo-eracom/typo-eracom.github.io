@@ -185,8 +185,8 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 5. Slab-Sérifs
 6. Expressives
 7. Sans-Sérifs
-8. Non-Latines
-9. Hybrides
+8. Hybrides
+9. Non-Latines
 ```
 
 2. Glisser le dossier de fontes correspondant sur chaque collection
