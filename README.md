@@ -21,7 +21,8 @@
 
 # 📓 Terminologie
 
-![](/links/Eracom_Typotheque_Graphics_v44.jpg)
+|![](/links/Eracom_Typotheque_Graphics_v46.jpg)                  |
+|:--------------------------------------------------------------:|
 
 ### Typothèque
 Une typothèque est une collection organisée de **polices**.
@@ -33,9 +34,6 @@ Une fonte désigne **l’ensemble des caractères** (contenu dans un fichier) co
 Un glyphe est une **représentation graphique d'un signe typographique** (un symbole). Cela peut inclure non seulement les lettres et les chiffres, mais aussi les accents, les ligatures (comme « fi » ou « fl »), et d’autres symboles.
 ### Script
 Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police en fonction des glyphes présents au sein de celle-ci (on parle alors de son « jeux de caractères »). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
-
-|![](/links/Eracom_Typotheque_Graphics_v46.jpg)                  |
-|:--------------------------------------------------------------:|
 
 # 👋 Charte d’utilisation
 
@@ -144,6 +142,9 @@ La réinterprétation d’une police de caractères consiste à créer une nouve
 
 # 🔠 Formats
 
+|![](/links/Eracom_Typotheque_Graphics_v421.jpg)                  |
+|:--------------------------------------------------------------:|
+
 ### Desktop
 OTF, TTF
 
@@ -175,12 +176,32 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 ### Réception des fichiers
 ### Livre des polices
 
+|![](/links/1_Install.gif)                  |
+|:--------------------------------------------------------------:|
+
 # 👩🏼‍💻 Usage
 
 ### Visualisation d'un mot dans le livre des polices, Panneau glyphes et autres infos
-Abc
+
+|![](/links/2_preview_glyphs.gif)                  |
+|:--------------------------------------------------------------:|
+
+|![](/links/2_preview.gif)                  |
+|:--------------------------------------------------------------:|
+
+|![](/links/2_preview_glyphs.gif)                  |
+|:--------------------------------------------------------------:|
+
+|![](/links/3_Informations.gif)                  |
+|:--------------------------------------------------------------:|
+
+|![](/links/5_Activate.gif)                  |
+|:--------------------------------------------------------------:|
 
 ### Informations complémentaires grâce aux tags
+
+|![](/links/6_Tags.gif)                  |
+|:--------------------------------------------------------------:|
 
 ➡️ Classification Historique (famille)  
 ➡️ Classification Formelle (modèle-contraste-terminaisons)  
@@ -216,6 +237,8 @@ Variable Features
 
 ### L’utilisateur.rice s'engage à supprimer tous les fichiers de fontes au moment de la fin ou de l’interuption de son cursus (signature 2).
 ### Signature de la charte
+
+![](/links/Eracom_Typotheque_Graphics_v44.jpg)
 
 # 🔠 Catalogue
 
