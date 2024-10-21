@@ -409,7 +409,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 | Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
 | ➡️ **é_Hst** | Classification Historique | (famille) |
-| ➡️ **é_ForS** | Classification Formelle Squelette | (dyn, sta, géo) |
+| ➡️ **é_ForS** | Classification Formelle Squelette | dyn(amique) / sta(tique),|
 | ➡️ **é_ForG** | Classification Formelle Graisse | (ctr, lin) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | (avec, sans) |
 | ➡️ **é_Lic** | License | (pro, lib) |
