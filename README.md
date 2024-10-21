@@ -408,7 +408,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 
 | Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
-| ➡️ **é_Hst** | Classification Historique | **Inc**(ises) /  **Man**(uaires) / **Cur**(sives) / **Sér**(ifs) / **Slab**(-Sérifs) / **Exp**(ressives) / **Sans**(-Sérifs) / **Hyb**(rides) / **NonL**(atines) |
+| ➡️ **é_Hst** | Classification Historique | **Inc**(ises) / **Man**(uaires) / **Cur**(sives) / **Sér**(ifs) / **Slab**(-Sérifs) / **Exp**(ressives) / **Sans**(-Sérifs) / **Hyb**(rides) / **NonL**(atines) |
 | ➡️ **é_ForS** | Classification Formelle Squelette | **dyn**(amique) / **sta**(tique) / **géo**(métrique) |
 | ➡️ **é_ForG** | Classification Formelle Graisse | **ctr**(asté) / **lin**(éaire) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **avec** / **sans** |
