@@ -109,7 +109,7 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 |![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
 |:--------------------------------------------------------------:|
 
-1. **Modèle**
+1. **Modèle ou squelette**
    -  Dynamique  
       Axe diagonal + extrémités ouvertes  
       *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
@@ -128,11 +128,25 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 
 [^2]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
   
-### Choisir des fontes, créer des pairs (contrastes Kupfer)
+### Choisir des fontes, combiner des fontes
 
-Project
-Proportions x-Height
-Distance
+En se basant sur la classification formelle de Indra Kupferschmid, on peut faire les remarques suivantes concernant les combinaisons:
+
+- Les fontes du même modèle s'accordent bien
+- Les fontes du même modèle s'accordent bien
+- Ou encore que des polices de caractères très contrastées s'accordent bien entre elles.
+- Mais ce qui ne fonctionne vraiment pas, c'est lorsqu'ils sont alignés. C'est à ce moment-là qu'ils sont très similaires à un niveau superficiel, et vous pourrez le cacher en choisissant des poids différents pour rendre la situation moins dramatique. Mais en réalité, elles sont très différentes.
+
+Ce système est un point de départ, il n'y a pas de règles absolues en matière de design. Il est nécesaire d'affiner vos choix en prenant en compte le contexte de votre projet, notamment les points suivants:
+
+- la concordance des proportions (hauteur de x, hauteur des capitales)
+- les hiérarchies
+- les corps
+- les graisses
+- les styles
+- les character-sets
+- etc.
+
 
 |![](/links/_Pair_Fonts.gif)                  |
 |:--------------------------------------------------------------:|
