@@ -416,6 +416,8 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 | ➡️ **é_Ref** | Référence | **dig**(italisation) / **int**(erprétation) / – |
 | ➡️ **é_Ext** | Formats | **dsk**(top) / **web** / **var**(iable) | 
 
+Grâce aux tags, vous pouvez aussi filtrer les fontes en fonction de votre recherche directement dans le finder.
+
 [^3]: **Inc**(ises) / **Man**(uaires) / **Cur**(sives) / **Sér**(ifs) / **Slab**(-Sérifs) / **Exp**(ressives) / **Sans**(-Sérifs) / **Hyb**(rides) / **NonL**(atines)
 
 Sur windows, il faut se référer au tableau du catalogue ci-dessous:
