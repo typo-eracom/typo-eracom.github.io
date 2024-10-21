@@ -73,27 +73,27 @@ La classification selon le «principe historique» (classification Vox adaptée)
 
 1. **Incises**  
    Gravure dans la pierre
-3. **Manuaires**  
+2. **Manuaires**  
    Calligraphie interompue
-5. **Cursives**  
+3. **Cursives**  
    Calligraphie ininterompue
-6. **Sérifs**  
+4. **Sérifs**  
    Impression à caractères mobiles
    - Humanes
    - Garaldes
    - Réales
    - Didones
-8. **Slab-Sérifs**  
+5. **Slab-Sérifs**  
    Composition à chaud
    - Monos
-10. **Expressives**  
+6. **Expressives**  
    Composition en grands corps
-11. **Sans-Sérifs**  
+7. **Sans-Sérifs**  
    Composition à froid
     - Grotesques
     - Humanistes
     - Géométriques
-13. **Non-Latines**  
+8. **Non-Latines**  
    Composition digitale
     - Dingbats
     - Pi
@@ -175,7 +175,20 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 ### Signature de la charte (pour toute la classe) ➡️ Réception des fichiers
 ### Livre des polices
 
-1. Créer 
+1. Créer les 9 collections suivantes
+
+```
+1. Incises
+2. Manuaires
+3. Cursives
+4. Sérifs
+5. Slab-Sérifs
+6. Expressives
+7. Sans-Sérifs
+8. Non-Latines
+```
+
+2. Glisser le dossier de fontes correspondant sur chaque collection
 
 |![](/links/1_Install.gif)                  |
 |:--------------------------------------------------------------:|
