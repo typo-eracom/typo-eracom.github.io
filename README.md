@@ -1,6 +1,6 @@
 # TYPOTHEQUE ERACOM
 
-
+![](/links/Eracom_Typotheque_Graphics_v4_alt.jpg)
 
 # 📋 Table des matières
 
@@ -16,8 +16,6 @@
 - [Sources](#-sources)
 
 # ☎️ Contact
-
-![](http://eracom-typotheque.github.io/links/Eracom_Typotheque_Graphics_v4_alt.jpg)
 
 ### typo.eracom@eduvaud.ch
 
