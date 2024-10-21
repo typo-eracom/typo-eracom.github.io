@@ -37,6 +37,8 @@ Un scripts fait référence à **un système d’écriture** (une langue) que l�
 
 # 👋 Charte d’utilisation
 
+![](/links/Eracom_Typotheque_Graphics_v42_alt.jpg)
+
 La présente charte définit les droits et les obligations des utilisateur.trice.s de la typothèque de l’Ecole Romande d’Arts et Communication (Eracom). Elle s’applique à tous.tes les utilisateur.trice.s.
 
 ### Définitions
