@@ -364,7 +364,7 @@ td.tabular {
 }
 ```
 
-### Fonctionnalités interpolation
+### Fonctionnalités variable
 
 ```
 /* synthax */
