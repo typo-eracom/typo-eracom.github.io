@@ -272,7 +272,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 Sur mac, les tags vous fournissent les informations suivantes sur la fonte sélectionnée:
 
 ➡️ Classification Historique (famille)  
-➡️ Classification Formelle (modèle-contraste-terminaisons)  
+➡️ Classification Formelle (squelette-graisse-terminaisons)  
 ➡️ Référence (digitalisation, réinterprétation, –)   
 ➡️ Formats (desktop, web, variable)  
 ➡️ License (propriétaire, libre) 
