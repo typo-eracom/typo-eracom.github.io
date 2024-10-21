@@ -449,9 +449,9 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous:
   *www.pimpmytype.com/font-matrix*
 - **Luc Devroye**  
   *www.luc.devroye.org*
-- **Agrégateur de Ressources Art + Design**  
-  *www.ar-ad.ch/sujet/eracom*
 - **Index Graphik**  
   *www.indexgrafik.fr*
 - **Fonts In Use**  
   *www.fontsinuse.com*
+- **Agrégateur de Ressources Art + Design**  
+  *www.ar-ad.ch/sujet/eracom*
