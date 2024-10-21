@@ -371,6 +371,27 @@ td.tabular {
 .class {
   font-variation-settings: "wght" 850, "wdth" 100, "ital" 1;
 }
+
+/* adjust the weight */
+.weight {
+font-weight: 600;
+}
+
+/* adjust the width */
+.width {
+font-stretch: 75%;
+}
+
+/* adjust the slant */
+.slant {
+font-style: oblique 15deg;
+}
+
+/* animate font weight on hover */
+.class:hover {
+transition: font-weight 0.3s ease;
+font-weight: 800; 
+}
 ```
 
 # 🔥 Supression (check-out)
