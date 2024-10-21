@@ -65,13 +65,13 @@ Une violation des principes énoncés plus haut peut entraîner le retrait de l�
 
 Dans le cadre des activités professionnelles des graphistes, un système de classification se révèle utile pour identifier, sélectionner et combiner les polices de caractères ainsi que justifier leur usage en fonction du contexte (sémiotique).
 
+### Historique
+La classification selon le «principe historique» (classification Vox adaptée) est une méthode de classification pédagogique des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à l'histoire de l'écriture et l'évolution des technologies.
+
 ![](/links/Eracom_Typotheque_Graphics_v47.jpg)
 
 |![](/links/Eracom_Typotheque_Graphics_v48.jpg)                  |
 |:--------------------------------------------------------------:|
-
-### Historique
-La classification selon le «principe historique» (classification Vox adaptée) est une méthode de classification pédagogique des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à l'histoire de l'écriture et l'évolution des technologies.
 
 1. **Incises**  
    Gravure dans la pierre
@@ -100,13 +100,13 @@ La classification selon le «principe historique» (classification Vox adaptée)
     - Dingbats
     - Pi
 
+### Formelle
+La classification selon le «principe de forme» (classification Kupferschmid adaptée) est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
+
 ![](/links/Eracom_Typotheque_Graphics_v49.jpg)
 
 |![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
 |:--------------------------------------------------------------:|
-
-### Formelle
-La classification selon le «principe de forme» (classification Kupferschmid adaptée) est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
 
 1. **Modèle**
    -  Dynamique  
