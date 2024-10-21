@@ -157,7 +157,7 @@ La digitalisation des polices de caractères fait référence au processus de co
 ### Réinterprétation
 La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste ou encore l’espacement dans le but d’adapter une fonte à un contexte spécifique, de la moderniser ou de lui donner une nouvelle personnalité tout en rendant hommage à son design original.
 
-# 📄 Formats
+# 📄 Extensions
 
 |![](/links/Eracom_Typotheque_Graphics_v421.jpg)                  |
 |:--------------------------------------------------------------:|
@@ -268,16 +268,6 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 
 |![](/links/6_Tags.gif)                  |
 |:--------------------------------------------------------------:|
-
-Sur mac, les tags vous fournissent les informations suivantes sur la fonte sélectionnée:
-
-➡️ Classification Historique (famille)  
-➡️ Classification Formelle (squelette-graisse-terminaisons)  
-➡️ Référence (digitalisation, réinterprétation, –)   
-➡️ Formats (desktop, web, variable)  
-➡️ License (propriétaire, libre) 
-
-Sur windows, il faut se référer au tableau du catalogue [ici](#-catalogue).
 
 # 🌐 Usage Web
 
@@ -413,6 +403,19 @@ font-weight: 800;
 ![](/links/Eracom_Typotheque_Graphics_v44.jpg)
 
 # 🔠 Catalogue
+
+Sur mac, les tags vous fournissent les informations suivantes sur la fonte sélectionnée:
+
+é_Hst  ➡️ Classification Historique (famille)  
+é_ForS ➡️ Classification Formelle Squelette (dyn, sta, géo) 
+é_ForG ➡️ Classification Formelle Graisse (ctr, lin) 
+é_ForT ➡️ Classification Formelle Terminaisons (avec, sans) 
+é_Lic  ➡️ License (pro, lib) 
+é_Ref  ➡️ Référence (dig, int, –)   
+é_Ext  ➡️ Formats (dsk, web, var)  
+
+
+Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 
 | Police         | Fonderie       | Classif. Hist. | Classif. Form. | Référence           | License        | Formats                 |
 |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |
