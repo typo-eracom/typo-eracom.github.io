@@ -195,8 +195,7 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 |![](/links/1_Install.gif)                  |
 |:--------------------------------------------------------------:|
 
-|![](/links/Eracom_Typotheque_Graphics_v43.jpg)                  |
-|:--------------------------------------------------------------:|
+![](/links/Eracom_Typotheque_Graphics_v43.jpg)
 
 # 👩🏼‍💻 Usage
 
