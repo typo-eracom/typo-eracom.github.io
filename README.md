@@ -23,9 +23,6 @@
 
 ![](/links/Eracom_Typotheque_Graphics_v44.jpg)
 
-|![](/links/Eracom_Typotheque_Graphics_v46.jpg)                  |
-|:--------------------------------------------------------------:|
-
 ### Typothèque
 Une typothèque est une collection organisée de **polices**.
 ### Police
@@ -36,6 +33,9 @@ Une fonte désigne **l’ensemble des caractères** (contenu dans un fichier) co
 Un glyphe est une **représentation graphique d'un signe typographique** (un symbole). Cela peut inclure non seulement les lettres et les chiffres, mais aussi les accents, les ligatures (comme « fi » ou « fl »), et d’autres symboles.
 ### Script
 Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police en fonction des glyphes présents au sein de celle-ci (on parle alors de son « jeux de caractères »). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
+
+|![](/links/Eracom_Typotheque_Graphics_v46.jpg)                  |
+|:--------------------------------------------------------------:|
 
 # 👋 Charte d’utilisation
 
@@ -64,6 +64,8 @@ Une violation des principes énoncés plus haut peut entraîner le retrait de l�
 # 🗂️ Classification
 
 Dans le cadre des activités professionnelles des graphistes, un système de classification se révèle utile pour identifier, sélectionner et combiner les polices de caractères ainsi que justifier leur usage en fonction du contexte (sémiotique).
+
+![](/links/Eracom_Typotheque_Graphics_v47.jpg)
 
 ### Historique
 La classification selon le «principe historique» (classification Vox adaptée) est une méthode de classification pédagogique des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à l'histoire de l'écriture et l'évolution des technologies.
@@ -95,6 +97,11 @@ La classification selon le «principe historique» (classification Vox adaptée)
     - Dingbats
     - Pi
 
+|![](/links/Eracom_Typotheque_Graphics_v48.jpg)                  |
+|:--------------------------------------------------------------:|
+
+![](/links/Eracom_Typotheque_Graphics_v49.jpg)
+
 ### Formelle
 La classification selon le «principe de forme» (classification Kupferschmid adaptée) est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
 
@@ -115,11 +122,17 @@ La classification selon le «principe de forme» (classification Kupferschmid ad
    -  Empattements
    -  Sans-empattements
   
+|![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
+|:--------------------------------------------------------------:|
+  
 ### Choisir des fontes, créer des pairs (contrastes Kupfer)
 
 Project
 Proportions x-Height
 Distance
+
+|![](/links/_Pair_Fonts.gif)                  |
+|:--------------------------------------------------------------:|
   
 # 🔍 Référence
 
