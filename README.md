@@ -408,7 +408,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 
 | Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
-| ➡️ **é_Hst** | Classification Historique | **Inc**(ises) / **Man**(uaires) / **Cur**(sives) / **Sér**(ifs) / **Slab**(-Sérifs) / **Exp**(ressives) / **Sans**(-Sérifs) / **Hyb**(rides) / **NonL**(atines) |
+| ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Man** / **Cur** / **Sér** / **Slab** / **Exp** / **Sans** / **Hyb** / **NonL** |
 | ➡️ **é_ForS** | Classification Formelle Squelette | **dyn**(amique) / **sta**(tique) / **géo**(métrique) |
 | ➡️ **é_ForG** | Classification Formelle Graisse | **ctr**(asté) / **lin**(éaire) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **avec** / **sans** |
@@ -416,6 +416,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 | ➡️ **é_Ref** | Référence | **dig**(italisation) / **int**(erprétation) / – |
 | ➡️ **é_Ext** | Formats | **dsk**(top) / **web** / **var**(iable) | 
 
+[^3]: **Inc**(ises) / **Man**(uaires) / **Cur**(sives) / **Sér**(ifs) / **Slab**(-Sérifs) / **Exp**(ressives) / **Sans**(-Sérifs) / **Hyb**(rides) / **NonL**(atines)
 
 Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 
