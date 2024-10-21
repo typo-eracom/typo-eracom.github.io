@@ -175,6 +175,14 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 ### ⚠️ Signature de la charte pour toute la classe ➡️ Réception des fichiers
 ### Livre des polices
 
+Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'installer un logiciel de gestion des fontes. Un tel outil permet notamment:
+- installer des fontes disponibles pour toutes les applications
+- activer et désactiver les fontes selon les besoins (pour ne pas surcharger le système)
+- organiser et trier les fontes et polices selon des critères d’utilisation précis
+- visualiser, examiner et comparer les fontes facilement en vue d’une sélection appropriée
+- gérer et assurer un suivi de licences (notamment vérifier la conformité entre l’utilisation d'une fonte et sa license)
+- détecter et corriger tout type de problème (par ex. fontes manquantes, fichiers de fontes corrompus, doublons, etc.)
+
 1. Créer les 9 collections suivantes
 
 ```
@@ -209,8 +217,8 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 
 ### Afficher les glyphes
 
-1. Affichage en mode liste
-2. Affichage en mode liste > Sélectionner un glyphe
+1. Affichage en mode exemple
+2. Affichage en mode échantillon > Sélectionner un glyphe
 
 |![](/links/2_preview_glyphs.gif)                  |
 |:--------------------------------------------------------------:|
@@ -227,20 +235,19 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 |![](/links/3_Informations.gif)                  |
 |:--------------------------------------------------------------:|
 
-### Visualisation d'un mot dans le livre des polices
+### Activer une fonte
 
-1. Créer les 9 collections suivantes
-2. a
+1. Choisir une fonte
+2. Clic droit > Activer
 
 |![](/links/5_Activate.gif)                  |
 |:--------------------------------------------------------------:|
 
-### Visualisation d'un mot dans le livre des polices
-
-1. Créer les 9 collections suivantes
-2. abc
-
 ### Informations complémentaires grâce aux tags
+
+1. Choisir une fonte
+2. Clic droit > Afficher dans le finder
+3. Fichier > Afficher les informations (⌘ + I)
 
 |![](/links/6_Tags.gif)                  |
 |:--------------------------------------------------------------:|
