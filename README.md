@@ -281,31 +281,95 @@ Sur windows, il faut se référer au tableau du catalogue [ici](#-catalogue).
 
 # 🌐 Usage Web
 
+Remplacer *MyFont* par le nom de votre fichier.
+
 ### Déclarer une fonte
 
 ```
 @font-face {
-  font-family: 'MyVariableFont';
-  src: url('MyVariableFont.woff2') format('woff2');
-  font-weight: 100 900; /* This defines the range of weights available */
+  font-family: 'MyFont';
+  src: url('MyFont.eot'); /* IE9 Compat Modes */
+  src: url('MyFont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('MyFont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('MyFont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('MyFont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('MyFont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+```
+
+### Utiliser une fonte
+
+```
+body {
+  font-family: 'MyFont', Fallback, sans-serif;
 }
 ```
 
 ### Fonctionnalités opentype
 
 ```
-.text {
-  font-family: 'MyVariableFont', sans-serif;
-  font-variation-settings: 'wght' 400, 'wdth' 100;
+/* synthax */
+.class {
+  font-variant-ligatures: common-ligatures;
+  -moz-font-feature-settings: "liga", "clig";
+  -webkit-font-feature-settings: "liga", "clig";
+  font-feature-settings: "liga", "clig";
 }
+
+/* use small-cap alternate glyphs */
+.small-caps {
+  font-feature-settings: "smcp" on;
+}
+
+/* convert both upper and lowercase to small caps (affects punctuation also) */
+.all-small-caps {
+  font-feature-settings: "c2sc", "smcp";
+}
+
+/* use zeros with a slash through them to differentiate from "O" */
+.nice-zero {
+  font-feature-settings: "zero";
+}
+
+/* enable historical forms */
+.historical {
+  font-feature-settings: "hist";
+}
+
+/* disable common ligatures, usually on by default */
+.no-ligatures {
+  font-feature-settings: "liga" 0;
+}
+
+/* enable tabular (monospaced) figures */
+td.tabular {
+  font-feature-settings: "tnum";
+}
+
+/* enable automatic fractions */
+.fractions {
+  font-feature-settings: "frac";
+}
+
+/* use the second available swash character */
+.swash {
+  font-feature-settings: "swsh" 2;
+}
+
+/* enable stylistic set 7 */
+.fancy-style {
+  font-family: Gabriola;
+  font-feature-settings: "ss07";
+}
+
 ```
 
 ### Fonctionnalités interpolation
 
 ```
-.text {
-  font-family: 'MyVariableFont', sans-serif;
-  font-variation-settings: 'wght' 400, 'wdth' 100;
+/* synthax */
+.class {
+  font-variation-settings: "wght" 850, "wdth" 100, "ital" 1;
 }
 ```
 
