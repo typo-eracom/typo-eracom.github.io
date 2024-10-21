@@ -21,6 +21,8 @@
 
 # 📓 Terminologie
 
+![](/links/Eracom_Typotheque_Graphics_v44.jpg)
+
 |![](/links/Eracom_Typotheque_Graphics_v46.jpg)                  |
 |:--------------------------------------------------------------:|
 
