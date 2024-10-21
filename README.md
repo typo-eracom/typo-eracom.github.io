@@ -109,7 +109,7 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 |![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
 |:--------------------------------------------------------------:|
 
-1. **Modèle ou squelette**
+1. **Squelette ou Modèle**
    -  Dynamique  
       Axe diagonal + extrémités ouvertes  
       voc. sémiotique: *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
@@ -119,8 +119,8 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
    -  Géométrique  
       Construction modulaire  
       voc. sémiotique: *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
-2. **Contraste**
-   -  Contrasté
+2. **Graisse**
+   -  Contrastée
    -  Linéaire
 3. **Terminaisons**
    -  Empattements
