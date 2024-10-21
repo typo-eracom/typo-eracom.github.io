@@ -67,6 +67,9 @@ Dans le cadre des activités professionnelles des graphistes, un système de cla
 
 ![](/links/Eracom_Typotheque_Graphics_v47.jpg)
 
+|![](/links/Eracom_Typotheque_Graphics_v48.jpg)                  |
+|:--------------------------------------------------------------:|
+
 ### Historique
 La classification selon le «principe historique» (classification Vox adaptée) est une méthode de classification pédagogique des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à l'histoire de l'écriture et l'évolution des technologies.
 
@@ -97,10 +100,10 @@ La classification selon le «principe historique» (classification Vox adaptée)
     - Dingbats
     - Pi
 
-|![](/links/Eracom_Typotheque_Graphics_v48.jpg)                  |
-|:--------------------------------------------------------------:|
-
 ![](/links/Eracom_Typotheque_Graphics_v49.jpg)
+
+|![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
+|:--------------------------------------------------------------:|
 
 ### Formelle
 La classification selon le «principe de forme» (classification Kupferschmid adaptée) est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
@@ -121,9 +124,6 @@ La classification selon le «principe de forme» (classification Kupferschmid ad
 3. **Terminaisons**
    -  Empattements
    -  Sans-empattements
-  
-|![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
-|:--------------------------------------------------------------:|
   
 ### Choisir des fontes, créer des pairs (contrastes Kupfer)
 
