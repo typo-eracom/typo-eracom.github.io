@@ -199,22 +199,50 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 
 # 👩🏼‍💻 Usage
 
-### Visualisation d'un mot dans le livre des polices, Panneau glyphes et autres infos
+### Visualisation d'un mot dans le livre des polices
+
+1. Créer les 9 collections suivantes
+2. abc
 
 |![](/links/2_preview_glyphs.gif)                  |
 |:--------------------------------------------------------------:|
+
+### Visualisation d'un mot dans le livre des polices
+
+1. Créer les 9 collections suivantes
+2. abc
 
 |![](/links/2_preview.gif)                  |
 |:--------------------------------------------------------------:|
 
+### Visualisation d'un mot dans le livre des polices
+
+1. Créer les 9 collections suivantes
+2. abc
+
 |![](/links/2_preview_glyphs.gif)                  |
 |:--------------------------------------------------------------:|
+
+### Visualisation d'un mot dans le livre des polices
+
+1. Créer les 9 collections suivantes
+2. abc
 
 |![](/links/3_Informations.gif)                  |
 |:--------------------------------------------------------------:|
 
+### Visualisation d'un mot dans le livre des polices
+
+1. Créer les 9 collections suivantes
+2. abc
+
 |![](/links/5_Activate.gif)                  |
 |:--------------------------------------------------------------:|
+
+### Visualisation d'un mot dans le livre des polices
+
+1. Créer les 9 collections suivantes
+2. abc
 
 ### Informations complémentaires grâce aux tags
 
@@ -226,9 +254,6 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 ➡️ Référence (digitalisation, réinterprétation, –)   
 ➡️ Formats (desktop, web, variable)  
 ➡️ License (propriétaire, libre) 
-
-### Activer, désactiver une fonte
-Abc
 
 ### Installer une webfont
 Abc
