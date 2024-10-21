@@ -417,24 +417,10 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 
 Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 
-| Police         | Fonderie       | Classif. Hist. | Classif. Form. | Référence           | License        | Formats                 |
-|:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |
-| Garamond       | Adobe          | Humanes        | d-c-e          | digitalisation      | propriétaire   | desktop,                |
-| Plain          | Optimo         | Néo-Grotesques | s-l-s          | réintérprétation    | propriétaire   | desktop, web, variable  |
-| Garamond       | Adobe          | Humanes        | d-c-e          | digitalisation      | propriétaire   | desktop,                |
-| Plain          | Optimo         | Néo-Grotesques | s-l-s          | réintérprétation    | propriétaire   | desktop, web, variable  |
-| Garamond       | Adobe          | Humanes        | d-c-e          | digitalisation      | propriétaire   | desktop,                |
-| Plain          | Optimo         | Néo-Grotesques | s-l-s          | réintérprétation    | propriétaire   | desktop, web, variable  |
-| Garamond       | Adobe          | Humanes        | d-c-e          | digitalisation      | propriétaire   | desktop,                |
-| Plain          | Optimo         | Néo-Grotesques | s-l-s          | réintérprétation    | propriétaire   | desktop, web, variable  |
-| Garamond       | Adobe          | Humanes        | d-c-e          | digitalisation      | propriétaire   | desktop,                |
-| Plain          | Optimo         | Néo-Grotesques | s-l-s          | réintérprétation    | propriétaire   | desktop, web, variable  |
-| Garamond       | Adobe          | Humanes        | d-c-e          | digitalisation      | propriétaire   | desktop,                |
-| Plain          | Optimo         | Néo-Grotesques | s-l-s          | réintérprétation    | propriétaire   | desktop, web, variable  |
-| Garamond       | Adobe          | Humanes        | d-c-e          | digitalisation      | propriétaire   | desktop,                |
-| Plain          | Optimo         | Néo-Grotesques | s-l-s          | réintérprétation    | propriétaire   | desktop, web, variable  |
-| Garamond       | Adobe          | Humanes        | d-c-e          | digitalisation      | propriétaire   | desktop,                |
-| Plain          | Optimo         | Néo-Grotesques | s-l-s          | réintérprétation    | propriétaire   | desktop, web, variable  |
+| Police         | Fonderie       | é_Hst | é_ForS | é_ForG           | é_ForT        | é_Lic                 | é_Ref                 | é_Ext                 |
+|:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
+| Garamond       | Adobe          | Humanes        | dyn         | ctr      | avec   | pro                | dig                | dsk                |
+
 
 # 📎 Sources 
 
