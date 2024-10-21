@@ -112,13 +112,13 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 1. **Modèle ou squelette**
    -  Dynamique  
       Axe diagonal + extrémités ouvertes  
-      *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
+      voc. sémiotique: *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
    -  Statique  
       Axe vertical + extrémités fermées  
-      *rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire*
+      voc. sémiotique: *rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire*
    -  Géométrique  
       Construction modulaire  
-      *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
+      voc. sémiotique: *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
 2. **Contraste**
    -  Contrasté
    -  Linéaire
