@@ -406,13 +406,13 @@ font-weight: 800;
 
 Sur mac, les tags vous fournissent les informations suivantes sur la fonte sélectionnée:
 
-é_Hst  ➡️ Classification Historique (famille)  
-é_ForS  ➡️ Classification Formelle Squelette (dyn, sta, géo) 
-é_ForG  ➡️ Classification Formelle Graisse (ctr, lin) 
-é_ForT  ➡️ Classification Formelle Terminaisons (avec, sans) 
-é_Lic  ➡️ License (pro, lib) 
-é_Ref  ➡️ Référence (dig, int, –)  
-é_Ext  ➡️ Formats (dsk, web, var)  
+é_Hst&nbsp;&nbsp;➡️ Classification Historique (famille)  
+é_ForS&nbsp;&nbsp;➡️ Classification Formelle Squelette (dyn, sta, géo)  
+é_ForG&nbsp;➡️ Classification Formelle Graisse (ctr, lin)  
+é_ForT&nbsp;➡️ Classification Formelle Terminaisons (avec, sans)  
+é_Lic&nbsp;➡️ License (pro, lib)  
+é_Ref&nbsp;➡️ Référence (dig, int, –)  
+é_Ext&nbsp;➡️ Formats (dsk, web, var)  
 
 
 Sur windows, il faut se référer au tableau du catalogue ci-dessous:
