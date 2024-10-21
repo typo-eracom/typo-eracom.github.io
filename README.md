@@ -178,8 +178,8 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'installer un logiciel de gestion des fontes. Un tel outil permet notamment:
 - installer des fontes disponibles pour toutes les applications
 - activer et désactiver les fontes selon les besoins (pour ne pas surcharger le système)
-- organiser et trier les fontes et polices selon des critères d’utilisation précis
-- visualiser, examiner et comparer les fontes facilement en vue d’une sélection appropriée
+- organiser et trier les fontes et polices selon des critères
+- visualiser, examiner et comparer les fontes facilement dans le but de faire une sélection
 - gérer et assurer un suivi de licences (notamment vérifier la conformité entre l’utilisation d'une fonte et sa license)
 - détecter et corriger tout type de problème (par ex. fontes manquantes, fichiers de fontes corrompus, doublons, etc.)
 
@@ -252,11 +252,15 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 |![](/links/6_Tags.gif)                  |
 |:--------------------------------------------------------------:|
 
+Sur mac, les tags vous fournissent les informations suivantes sur la fonte sélectionnée:
+
 ➡️ Classification Historique (famille)  
 ➡️ Classification Formelle (modèle-contraste-terminaisons)  
 ➡️ Référence (digitalisation, réinterprétation, –)   
 ➡️ Formats (desktop, web, variable)  
 ➡️ License (propriétaire, libre) 
+
+Sur windows, il faut se référer au tableau du catalogue [ici](#-catalogue).
 
 ### Installer une webfont
 Abc
