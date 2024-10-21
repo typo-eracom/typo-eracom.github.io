@@ -80,13 +80,13 @@ La classification selon le «principe historique» (classification Vox adaptée)
    Composition en grands corps
 11. **Sans-Sérifs**  
    Composition à froid
-   - Grotesques
-   - Humanistes
-   - Géométriques
+    - Grotesques
+    - Humanistes
+    - Géométriques
 13. **Non-Latines**  
    Composition digitale
-   - Dingbats
-   - Pi
+    - Dingbats
+    - Pi
 
 ### Formelle
 La classification selon le «principe de forme» est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
