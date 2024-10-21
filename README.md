@@ -139,7 +139,7 @@ En se basant sur la classification formelle de Indra Kupferschmid, on peut faire
 - Les fontes de modèles différents qui partagent le même contraste et les mêmes terminaisons ne s'accordent pas bien
 - Les fontes de modèles différents s'accordent bien seulement si elles sont éloignées dans le tableau (plus qu'une colonne d'écart)
 
-Ce système est un point de départ, il n'y a pas de règles absolues en matière de design. Il est nécesaire d'affiner vos choix en prenant en compte le contexte de votre projet, notamment les points suivants:
+Ce système est un point de départ, il n'y a pas de règles absolues en matière de design. Il est nécesaire d'affiner les combinaisons en prenant en compte le contexte de votre projet, notamment les points suivants:
 
 - la concordance des proportions (hauteur de x, hauteur des capitales)
 - les hiérarchies
@@ -157,7 +157,7 @@ La digitalisation des polices de caractères fait référence au processus de co
 ### Réinterprétation
 La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste ou encore l’espacement dans le but d’adapter une fonte à un contexte spécifique, de la moderniser ou de lui donner une nouvelle personnalité tout en rendant hommage à son design original.
 
-# 🔠 Formats
+# 📄 Formats
 
 |![](/links/Eracom_Typotheque_Graphics_v421.jpg)                  |
 |:--------------------------------------------------------------:|
