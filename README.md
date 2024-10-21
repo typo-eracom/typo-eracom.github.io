@@ -108,14 +108,14 @@ La classification selon le «principe de forme» (classification Kupferschmid ad
 
 1. **Modèle**
    -  Dynamique  
-      Dessin avec axe diagonal + extrémités ouvertes  
-      friendly, open, approachable, flexible, natural, democratic, warm, inviting, personal, timeless
+      Axe diagonal + extrémités ouvertes  
+      *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
    -  Statique  
-      Dessin avec axe vertical + extrémités fermées  
-      rational, orderly, reserved, noble, elegant, serious, stiff, correct, rigorous, authoritative
+      Axe vertical + extrémités fermées  
+      *rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire*
    -  Géométrique  
       Construction modulaire  
-      Geometric, simple, technical, modern, functional, informal, systematic, sober, modernism, clean
+      *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
 2. **Contraste**
    -  Contrasté
    -  Linéaire
