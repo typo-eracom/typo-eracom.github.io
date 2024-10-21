@@ -205,7 +205,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 
 ![](/links/Eracom_Typotheque_Graphics_v43.jpg)
 
-# 👩🏼‍💻 Usage
+# 👩🏼‍💻 Usage Desktop
 
 ### Choisir une fonte
 
@@ -262,9 +262,9 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 
 Sur windows, il faut se référer au tableau du catalogue [ici](#-catalogue).
 
-### Installer une webfont
-Abc
-Copy paste code
+# 🌐 Usage Web
+
+### Déclarer une fonte
 
 ```
 @font-face {
@@ -272,21 +272,39 @@ Copy paste code
   src: url('MyVariableFont.woff2') format('woff2');
   font-weight: 100 900; /* This defines the range of weights available */
 }
+```
 
+### Fonctionnalités opentype
+
+```
 .text {
   font-family: 'MyVariableFont', sans-serif;
   font-variation-settings: 'wght' 400, 'wdth' 100;
 }
 ```
 
-OpenType Features
+### Fonctionnalités interpolation
 
-Variable Features
+```
+.text {
+  font-family: 'MyVariableFont', sans-serif;
+  font-variation-settings: 'wght' 400, 'wdth' 100;
+}
+```
 
 # 🔥 Supression (check-out)
 
-### L’utilisateur.rice s'engage à supprimer tous les fichiers de fontes au moment de la fin ou de l’interuption de son cursus (signature 2).
-### Signature de la charte
+L’utilisateur.rice s'engage à supprimer tous les fichiers de fontes au moment de la fin ou de l’interuption de son cursus.
+
+1. Aller > Se rendre au dossier
+2. Copier le chemin suivant
+
+```
+~/Library/Fonts
+```
+
+3. Coller le chemin > Enter
+4. Supprimer toutes les fontes qui appartiennent au catalogue de la typothèque.
 
 ![](/links/Eracom_Typotheque_Graphics_v44.jpg)
 
