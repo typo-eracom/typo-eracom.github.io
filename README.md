@@ -238,7 +238,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 ### Activer une fonte
 
 1. Choisir une fonte
-2. Clic droit > Activer
+2. Clic droit > Activer le style
 
 |![](/links/5_Activate.gif)                  |
 |:--------------------------------------------------------------:|
