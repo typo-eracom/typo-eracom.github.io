@@ -21,6 +21,10 @@
 
 # 📓 Terminologie
 
+|![](/links/Eracom_Typotheque_Graphics_v46.jpg)                  |
+|:--------------------------------------------------------------:|
+| Abc                                                            |
+
 ### Typothèque
 Une typothèque est une collection organisée de **polices**.
 ### Police
