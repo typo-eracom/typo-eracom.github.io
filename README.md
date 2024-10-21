@@ -315,7 +315,8 @@ body {
   -webkit-font-feature-settings: "liga", "clig";
   font-feature-settings: "liga", "clig";
 }
-
+```
+```
 /* use small-cap alternate glyphs */
 .small-caps {
   font-feature-settings: "smcp" on;
@@ -361,7 +362,6 @@ td.tabular {
   font-family: Gabriola;
   font-feature-settings: "ss07";
 }
-
 ```
 
 ### Fonctionnalités interpolation
@@ -371,7 +371,9 @@ td.tabular {
 .class {
   font-variation-settings: "wght" 850, "wdth" 100, "ital" 1;
 }
+```
 
+```
 /* adjust the weight */
 .weight {
 font-weight: 600;
