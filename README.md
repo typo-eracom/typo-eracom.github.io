@@ -332,29 +332,29 @@ Sur windows, il faut se référer au tableau du catalogue [ici](#-catalogue).
 
 # 📎 Sources 
 
-- Christian Tännler  
+- **Christian Tännler**  
   *Supports de cours et Supports Typothèque*, 2023
-- Adrian Frutiger  
+- **Adrian Frutiger**  
   *Type, Sign, Symbol*, Editions ABC, 1980
-- Karl Gerstner  
+- **Karl Gerstner**  
   *Compendium for Literates, A System of Writing*, 1974
-- Gerrit Noordzij  
+- **Gerrit Noordzij**  
   *Le trait. Une théorie de l’écriture*, 2010
-- Erik van Blokland  
+- **Erik van Blokland**  
   *The Cube: practical research in theoretical models*, 2019
-- Robert Bringhurst  
+- **Robert Bringhurst**  
   *Principes élémentaires de la typographie: une histoire des styles*, 2023
-- Albert Jan Pool  
+- **Albert Jan Pool**  
   *Schriftklassifikation nach Formprinzip*, 2020
-- Indra Kupferschmid  
+- **Indra Kupferschmid**  
   *www.kupferschrift.de*
-- Oliver Schöndorfer  
+- **Oliver Schöndorfer**  
   *www.pimpmytype.com/font-matrix*
-- Luc Devroye  
+- **Luc Devroye**  
   *www.luc.devroye.org*
-- Agrégateur de Ressources Art + Design  
+- **Agrégateur de Ressources Art + Design**  
   *www.ar-ad.ch/sujet/eracom*
-- Fonts In Use  
-  *www.fontsinuse.com*
-- Index Graphik  
+- **Index Graphik**  
   *www.indexgrafik.fr*
+- **Fonts In Use**  
+  *www.fontsinuse.com*
