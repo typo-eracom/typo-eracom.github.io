@@ -189,6 +189,7 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 ```
 
 2. Glisser le dossier de fontes correspondant sur chaque collection
+3. Dans chaque collection, selectionner toutes les fontes (⌘+A) > Désactiver
 
 |![](/links/1_Install.gif)                  |
 |:--------------------------------------------------------------:|
