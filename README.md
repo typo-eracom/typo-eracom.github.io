@@ -127,6 +127,9 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
    -  Sans-empattements
 
 [^2]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
+
+|![](/links/_Pair_Fonts.gif)                  |
+|:--------------------------------------------------------------:|
   
 ### Choisir des fontes, combiner des fontes
 
@@ -145,10 +148,6 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 - les styles
 - les character-sets
 - etc.
-
-
-|![](/links/_Pair_Fonts.gif)                  |
-|:--------------------------------------------------------------:|
   
 # 🔍 Référence
 
