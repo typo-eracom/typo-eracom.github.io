@@ -1,6 +1,6 @@
 # TYPOTHEQUE ERACOM
 
-![](http://eracom-typotheque.github.io/links/archives/Eracom_Typotheque_Graphics2.jpg)
+![](http://eracom-typotheque.github.io/links/Eracom_Typotheque_Graphics_v4_alt.jpg)
 
 # 📋 Table des matières
 
