@@ -133,9 +133,8 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 En se basant sur la classification formelle de Indra Kupferschmid, on peut faire les remarques suivantes concernant les combinaisons:
 
 - Les fontes du même modèle s'accordent bien
-- Les fontes du même modèle s'accordent bien
-- Ou encore que des polices de caractères très contrastées s'accordent bien entre elles.
-- Mais ce qui ne fonctionne vraiment pas, c'est lorsqu'ils sont alignés. C'est à ce moment-là qu'ils sont très similaires à un niveau superficiel, et vous pourrez le cacher en choisissant des poids différents pour rendre la situation moins dramatique. Mais en réalité, elles sont très différentes.
+- Les fontes de modèles différents qui partagent le même contraste et les mêmes terminaisons ne s'accordent pas bien
+- Les fontes de modèles différents s'accordent bien seulement si elles sont éloignées dans le tableau (plus qu'une colonne d'écart)
 
 Ce système est un point de départ, il n'y a pas de règles absolues en matière de design. Il est nécesaire d'affiner vos choix en prenant en compte le contexte de votre projet, notamment les points suivants:
 
