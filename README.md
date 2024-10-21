@@ -195,6 +195,9 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 |![](/links/1_Install.gif)                  |
 |:--------------------------------------------------------------:|
 
+|![](/links/Eracom_Typotheque_Graphics_v43.jpg)                  |
+|:--------------------------------------------------------------:|
+
 # 👩🏼‍💻 Usage
 
 ### Visualisation d'un mot dans le livre des polices, Panneau glyphes et autres infos
