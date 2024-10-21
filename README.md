@@ -406,7 +406,7 @@ font-weight: 800;
 
 Sur mac, les tags vous fournissent les informations suivantes sur la fonte sélectionnée:
 
-| Police         | Fonderie       | é_Hst | é_ForS |
+| Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
 | ➡️ **é_Hst** | Classification Historique | (famille) |
 | ➡️ **é_ForS** | Classification Formelle Squelette | (dyn, sta, géo) |
