@@ -69,14 +69,24 @@ La classification selon le «principe historique» (classification Vox adaptée)
    Calligraphie ininterompue
 6. **Sérifs**  
    Impression à caractères mobiles
-7. **Slab-Sérifs**  
+   - Humanes
+   - Garaldes
+   - Réales
+   - Didones
+8. **Slab-Sérifs**  
    Composition à chaud
-8. **Expressives**  
+   - Monos
+10. **Expressives**  
    Composition en grands corps
-9. **Sans-Sérifs**  
+11. **Sans-Sérifs**  
    Composition à froid
-10. **Non-Latines**  
+   - Grotesques
+   - Humanistes
+   - Géométriques
+13. **Non-Latines**  
    Composition digitale
+   - Dingbats
+   - Pi
 
 ### Formelle
 La classification selon le «principe de forme» est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
