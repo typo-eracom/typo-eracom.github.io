@@ -412,8 +412,8 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 | ➡️ **é_ForS** | Classification Formelle Squelette | **dyn**(amique) / **sta**(tique) / **géo**(métrique) |
 | ➡️ **é_ForG** | Classification Formelle Graisse | **ctr**(asté) / **lin**(éaire) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **avec** / **sans** |
-| ➡️ **é_Lic** | License | pro(priétaire) / **lib**(re) |
-| ➡️ **é_Ref** | Référence | dig(italisation) / **int**(erprétation) / – |
+| ➡️ **é_Lic** | License | **pro**(priétaire) / **lib**(re) |
+| ➡️ **é_Ref** | Référence | **dig**(italisation) / **int**(erprétation) / – |
 | ➡️ **é_Ext** | Formats | **dsk**(top) / **web** / **var**(iable) | 
 
 
