@@ -89,7 +89,7 @@ La classification selon le «principe historique» (classification Vox adaptée)
     - Pi
 
 ### Formelle
-La classification selon le «principe de forme» est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
+La classification selon le «principe de forme» (classification Kupferschmid adaptée) est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
 
 1. **Modèle**
    -  Dynamique  
