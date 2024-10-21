@@ -332,12 +332,28 @@ Sur windows, il faut se référer au tableau du catalogue [ici](#-catalogue).
 
 # 📎 Sources 
 
-- Buchstaben kommen selten allein: Ein typografisches Handbuch, Indra Kupferschmid, niggli Verlag, 2004
-- Le trait. Une théorie de l’écriture, Gerrit Noordzij, Ypsilon éditeur, 2010
-- Blockland
-- Frutiger
-
-- www.ar-ad.ch/sujet/eracom
-- www.fontsinuse.com
-- www.indexgrafik.fr
-- www.luc.devroye.org
+- Christian Tännler,
+- Adrian Frutiger
+  *Type, Sign, Symbol*, Editions ABC, 1980
+- Karl Gerstner
+  *Compendium for Literates, A System of Writing*, 1974
+- Gerrit Noordzij
+  *Le trait. Une théorie de l’écriture*, 2010
+- Erik van Blokland
+  *The Cube: practical research in theoretical models*, 2019
+- Robert Bringhurst
+  *Principes élémentaires de la typographie: une histoire des styles*, 2023
+- Albert Jan Pool
+  *Schriftklassifikation nach Formprinzip*, 2020
+- Indra Kupferschmid
+  *www.kupferschrift.de*
+- Oliver Schöndorfer
+  *www.pimpmytype.com/font-matrix*
+- Luc Devroye
+  *www.luc.devroye.org*
+- Agrégateur de Ressources Art + Design
+  *www.ar-ad.ch/sujet/eracom*
+- Fonts In Use
+  *www.fontsinuse.com*
+- Index Graphik
+  *www.indexgrafik.fr*
