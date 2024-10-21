@@ -199,34 +199,30 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 
 # 👩🏼‍💻 Usage
 
-### Visualisation d'un mot dans le livre des polices
+### Choisir une fonte
 
-1. Créer les 9 collections suivantes
-2. abc
-
-|![](/links/2_preview_glyphs.gif)                  |
-|:--------------------------------------------------------------:|
-
-### Visualisation d'un mot dans le livre des polices
-
-1. Créer les 9 collections suivantes
-2. abc
+1. Éditer le mot d’aperçu
+2. Scroller à travers les différentes fontes
 
 |![](/links/2_preview.gif)                  |
 |:--------------------------------------------------------------:|
 
-### Visualisation d'un mot dans le livre des polices
+### Afficher les glyphes
 
-1. Créer les 9 collections suivantes
-2. abc
+1. Affichage en mode liste
+2. Affichage en mode liste > Sélectionner un glyphe
 
 |![](/links/2_preview_glyphs.gif)                  |
 |:--------------------------------------------------------------:|
 
-### Visualisation d'un mot dans le livre des polices
+### Afficher les informations
 
-1. Créer les 9 collections suivantes
-2. abc
+1. Dans le panneau latéral de droite, ouvrir / fermer les différents menus déroulants
+   - Description
+   - Langues
+   - Identifiants
+   - Utilisation
+   - Détails
 
 |![](/links/3_Informations.gif)                  |
 |:--------------------------------------------------------------:|
@@ -234,7 +230,7 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 ### Visualisation d'un mot dans le livre des polices
 
 1. Créer les 9 collections suivantes
-2. abc
+2. a
 
 |![](/links/5_Activate.gif)                  |
 |:--------------------------------------------------------------:|
