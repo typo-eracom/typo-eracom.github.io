@@ -172,9 +172,10 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 
 # 💻 Installation (check-in)
 
-### Signature de la charte
-### Réception des fichiers
+### Signature de la charte (pour toute la classe) ➡️ Réception des fichiers
 ### Livre des polices
+
+1. Créer 
 
 |![](/links/1_Install.gif)                  |
 |:--------------------------------------------------------------:|
