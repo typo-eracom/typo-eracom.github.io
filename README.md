@@ -178,6 +178,10 @@ Copy paste code
 }
 ```
 
+OpenType Features
+
+Variable Features
+
 # 🔥 Supression (check-out)
 
 ### L’utilisateur.rice s'engage à supprimer tous les fichiers de fontes au moment de la fin ou de l’interuption de son cursus (signature 2).
