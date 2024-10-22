@@ -87,17 +87,18 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
    - Didones
 4. **Slab-Sérifs**  
    *Composition à chaud*
+   - Mécanes
    - Monospaces
-5. **Sans-Sérifs**  
+6. **Sans-Sérifs**  
    *Composition à froid (photo-composition)*
     - Grotesques
     - Humanistes
     - Géométriques
-6. **Expressives**  
+7. **Expressives**  
    *Composition en grands corps (aussi décoratives)*
-7. **Hybrides**
+8. **Hybrides**
    *Variations de contrastes et de terminaisons au sein d'une même police*
-8. **Non-Latines**  
+9. **Non-Latines**  
    *Composition digitale (symboles)*
     - Dingbats (ornements)
     - Pi (mathématiques)
