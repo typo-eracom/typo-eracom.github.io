@@ -276,6 +276,9 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 |![](/links/6_Tags.gif)                  |
 |:--------------------------------------------------------------:|
 
+|![](/links/7_Tags_Filter.gif)                  |
+|:--------------------------------------------------------------:|
+
 # 🌐 Usage Web
 
 Remplacer *MyFont* par le nom de votre fichier.
