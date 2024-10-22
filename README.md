@@ -76,7 +76,7 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
    *Gravure dans la pierre*
 2. **Scriptes**  
    *Calligraphie (ductus)*
-   - Séquencé
+   - Onciales
    - Fractures
    - Cursives
 3. **Sérifs**  
