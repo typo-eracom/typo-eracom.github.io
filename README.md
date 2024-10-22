@@ -420,7 +420,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 | ➡️ **é_ForG** | Classification Formelle Graisse | **Ctr**(asté) / **Lin**(éaire) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
 | ➡️ **é_Typ** | Typologie | **Cla**(ssique) / **Ctp**(contemporain) / – |
-| ➡️ **é_Ext** | Formats | **Dsk**(desktop) / **Web** / **Var**(iable) | 
+| ➡️ **é_Ext** | Extensions | **Dsk**(desktop) / **Web** / **Var**(iable) | 
 | ➡️ **é_Lic** | License | **Pro**(priétaire) / **Lib**(re) |
 
 Grâce aux tags, vous pouvez ainsi filtrer les fontes en fonction de votre recherche directement dans le finder.
@@ -429,9 +429,9 @@ Grâce aux tags, vous pouvez ainsi filtrer les fontes en fonction de votre reche
 
 Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 
-| Police         | Fonderie       | é_Hst | é_ForS | é_ForG           | é_ForT        | é_Lic                 | é_Ref                 | é_Ext                 |
+| Police         | Fonderie       | é_Hst | é_ForS | é_ForG           | é_ForT        | é_Typ                 | é_Ext                 | é_Lic                 |
 |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
-| Garamond       | Adobe          | Humanes        | dyn         | ctr      | avec   | pro                | dig                | dsk                |
+| Garamond       | Adobe          | Humanes        | Dyn         | Ctr      | avec   | Cla                | Dsk                | Pro                |
 
 
 # 📎 Sources 
