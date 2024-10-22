@@ -159,7 +159,7 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 ### Classique
 Cette catégorie inclut les digitalisations des fontes classiques de l'histoire de la typographie, qui datent d’avant l'ère digitale. La digitalisation fait référence au processus de conversion d’une police de caractères physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur conversion en courbes vectorielles, ce qui permet une mise à l’échelle sans perte de qualité.
 
-### Contemporaine
+### Contemporain
 Cette catégorie inclut les fontes contemporaines qui ont été conçues à partir du début du XXIe siècle. Ces fontes résultent soit d’une réinterprétation d’un classique, soit d'un design original. La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design dans le but de l’adapter à un contexte spécifique. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste, l’espacement ou même le character-set.
 
 # 📄 Extensions
@@ -416,7 +416,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 | ➡️ **é_ForS** | Classification Formelle Squelette | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
 | ➡️ **é_ForG** | Classification Formelle Graisse | **Ctr**(asté) / **Lin**(éaire) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
-| ➡️ **é_Typ** | Typologie | **Cla**(ssique) / **Ctp**(contemporaine) / – |
+| ➡️ **é_Typ** | Typologie | **Cla**(ssique) / **Ctp**(contemporain) / – |
 | ➡️ **é_Ext** | Formats | **Dsk**(desktop) / **Web** / **Var**(iable) | 
 | ➡️ **é_Lic** | License | **Pro**(priétaire) / **Lib**(re) |
 
