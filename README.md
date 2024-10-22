@@ -76,31 +76,31 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
    *Gravure dans la pierre*
 2. **Scriptes**  
    *Calligraphie (ductus)*
-   - ininterompue
-   - fractures
-   - cursive
-4. **Sérifs**  
+   - Séquencé
+   - Fractures
+   - Cursives
+3. **Sérifs**  
    *Impression à caractères mobiles*
    - Humanes
    - Garaldes
    - Réales
    - Didones
-5. **Slab-Sérifs**  
+4. **Slab-Sérifs**  
    *Composition à chaud*
    - Monospaces
-6. **Expressives**  
-   *Composition en grands corps*
-7. **Sans-Sérifs**  
+5. **Sans-Sérifs**  
    *Composition à froid (photo-composition)*
     - Grotesques
     - Humanistes
     - Géométriques
-8. **Hybrides**
+6. **Expressives**  
+   *Composition en grands corps (aussi décoratives)*
+7. **Hybrides**
    *Variations de contrastes et de terminaisons au sein d'une même police*
-11. **Non-Latines**  
-   *Composition digitale*
-    - Dingbats (symboles)
-    - Pi (symboles mathématiques)
+8. **Non-Latines**  
+   *Composition digitale (symboles)*
+    - Dingbats (ornements)
+    - Pi (mathématiques)
 
 [^1]: Illustration tirée du livre *Type, Sign, Symbol* de Adrian Frutiger (1980).
 
