@@ -429,7 +429,7 @@ Grâce aux tags, vous pouvez ainsi filtrer les fontes en fonction de votre reche
 
 Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 
-| Police         | Fonderie       | é_Hst | é_ForS | é_ForG           | é_ForT        | é_Typ                 | é_Lic                 | _Ext                 |
+| ➡️ Police         | ➡️ Fonderie       | ➡️ é_Hst | ➡️ é_ForS | ➡️ é_ForG           | ➡️ é_ForT        | ➡️ é_Typ                 | ➡️ é_Lic                 | ➡️ é_Ext                 |
 |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
 Africa | Fonderie | 6_Exp |||| Mod | Pro |
 Agatha | Fonderie | 3_Sér_Didones | Sta | Ctr | Avec || Pro | Var
