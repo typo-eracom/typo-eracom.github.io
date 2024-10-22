@@ -409,12 +409,12 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 | Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
 | ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Man** / **Cur** / **Sér** / **Slab** / **Exp** / **Sans** / **Hyb** / **NonL** |
-| ➡️ **é_ForS** | Classification Formelle Squelette | **dyn**(amique) / **sta**(tique) / **géo**(métrique) |
-| ➡️ **é_ForG** | Classification Formelle Graisse | **ctr**(asté) / **lin**(éaire) |
-| ➡️ **é_ForT** | Classification Formelle Terminaisons | **avec** / **sans** |
-| ➡️ **é_Lic** | License | **pro**(priétaire) / **lib**(re) |
-| ➡️ **é_Ref** | Référence | **dig**(italisation) / **int**(erprétation) / – |
-| ➡️ **é_Ext** | Formats | **dsk**(top) / **web** / **var**(iable) | 
+| ➡️ **é_ForS** | Classification Formelle Squelette | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
+| ➡️ **é_ForG** | Classification Formelle Graisse | **Ctr**(asté) / **Lin**(éaire) |
+| ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
+| ➡️ **é_Lic** | License | **Pro**(priétaire) / **Lib**(re) |
+| ➡️ **é_Ref** | Référence | **Dig**(italisation) / **Int**(erprétation) / – |
+| ➡️ **é_Ext** | Formats | **Dsk**(top) / **Web** / **Var**(iable) | 
 
 Grâce aux tags, vous pouvez ainsi filtrer les fontes en fonction de votre recherche directement dans le finder.
 
