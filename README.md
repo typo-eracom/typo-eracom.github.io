@@ -7,7 +7,7 @@
 - [Terminologie](#-terminologie)
 - [Charte d’utilisation](#-charte-dutilisation)
 - [Classification](#%EF%B8%8F-classification)
-- [Modèles](#-modèles)
+- [Typologie](#-typologie)
 - [Extensions](#-extensions)
 - [Licenses](#-licenses)
 - [Installation](#-installation-check-in)
@@ -154,9 +154,13 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 - les character-sets
 - etc.
   
-# 🔍 Modèles
+# 🔍 Typologie
 
 ### Historique
+polices de caractères classiques-modernes (BASE) complètes,
+de haute qualité, numérisées dans le dernier quart du XXe siècle
+et récemment mises à jour
+
 La digitalisation des polices de caractères fait référence au processus de conversion d’une fonte physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur conversion en courbes vectorielles, ce qui permet une mise à l’échelle sans perte de qualité.
 
 ### Contemporain
@@ -416,9 +420,9 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 | ➡️ **é_ForS** | Classification Formelle Squelette | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
 | ➡️ **é_ForG** | Classification Formelle Graisse | **Ctr**(asté) / **Lin**(éaire) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
+| ➡️ **é_Typ** | Typologie | **Cla**(ssique) / **Ctp**(contemporaine) / – |
+| ➡️ **é_Ext** | Formats | **Dsk**(desktop) / **Web** / **Var**(iable) | 
 | ➡️ **é_Lic** | License | **Pro**(priétaire) / **Lib**(re) |
-| ➡️ **é_Ref** | Référence | **Dig**(italisation) / **Int**(erprétation) / – |
-| ➡️ **é_Ext** | Formats | **Dsk**(top) / **Web** / **Var**(iable) | 
 
 Grâce aux tags, vous pouvez ainsi filtrer les fontes en fonction de votre recherche directement dans le finder.
 
