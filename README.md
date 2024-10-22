@@ -391,7 +391,7 @@ font-weight: 800;
 ⚠️ L’utilisateur.rice s'engage à supprimer tous les fichiers de fontes au moment de la fin ou de l’interuption de son cursus.
 
 1. Aller > Se rendre au dossier
-2. Copier le chemin suivant
+2. Copier le chemin suivant (Macintosh HD > Users > *YourName* > Bibliothèque > Fonts)
 
 ```
 ~/Library/Fonts
