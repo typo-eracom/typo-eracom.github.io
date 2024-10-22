@@ -156,6 +156,8 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
   
 # 🔍 Typologie
 
+![](/links/Eracom_Typotheque_Graphics_v45.jpg)
+
 ### Classique
 Cette catégorie inclut les digitalisations des fontes classiques de l'histoire de la typographie, qui datent d’avant l'ère digitale. La digitalisation fait référence au processus de conversion d’une police de caractères physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur conversion en courbes vectorielles, ce qui permet une mise à l’échelle sans perte de qualité.
 
