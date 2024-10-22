@@ -483,7 +483,7 @@ European Pi | Fonderie | é_Hst_8_NonL |||| é_Typ_Cla | é_Lic_Pro |
 Fedra Mono | Fonderie | é_Hst_4_Slab_Monos |||| é_Typ_Mod | é_Lic_Pro |
 Fedra Sans | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
 Fedra SerifAB | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Fedra | Fonderie | é_Hst_7_Hyb || é_Typ_Mod | é_Lic_Pro |
+Fedra | Fonderie | é_Hst_7_Hyb |||| é_Typ_Mod | é_Lic_Pro |
 Fira | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans || é_Lic_Lib
 Fleischmann | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
 Founders Grotesk | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
@@ -553,7 +553,7 @@ The AntiquaB | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | �
 The Mix Mono | Fonderie | é_Hst_4_Slab_Monos |||| é_Typ_Mod | é_Lic_Pro |
 The Sans | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
 The Serif | Fonderie | é_Hst_4_Slab_Mécanes | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Thesis | Fonderie | é_Hst_7_Hyb || é_Typ_Mod | é_Lic_Pro |
+Thesis | Fonderie | é_Hst_7_Hyb |||| é_Typ_Mod | é_Lic_Pro |
 Tiina | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
 Times New Roman | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
 Trajan | Fonderie | é_Hst_1_Inc |||| é_Typ_Cla | é_Lic_Pro |
