@@ -75,7 +75,7 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
 1. **Incises**  
    *Gravure dans la pierre*
 2. **Scriptes**  
-   *Calligraphie*
+   *Calligraphie (ductus)*
    - ininterompue
    - fractures
    - cursive
