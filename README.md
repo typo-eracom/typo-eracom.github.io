@@ -432,7 +432,7 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 - **Christian Tännler**  
   *Supports de cours et Supports Typothèque*, 2023
 - **Adrian Frutiger**  
-  *Type, Sign, Symbol*, Editions ABC, 1980
+  *Type, Sign, Symbol*, 1980
 - **Karl Gerstner**  
   *Compendium for Literates, A System of Writing*, 1974
 - **Gerrit Noordzij**  
