@@ -156,15 +156,11 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
   
 # 🔍 Typologie
 
-### Historique
-polices de caractères classiques-modernes (BASE) complètes,
-de haute qualité, numérisées dans le dernier quart du XXe siècle
-et récemment mises à jour
+### Classique
+Cette catégorie inclut les digitalisations des fontes classiques de l'histoire de la typographie, qui datent d’avant l'ère digitale. La digitalisation fait référence au processus de conversion d’une police de caractères physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur conversion en courbes vectorielles, ce qui permet une mise à l’échelle sans perte de qualité.
 
-La digitalisation des polices de caractères fait référence au processus de conversion d’une fonte physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur conversion en courbes vectorielles, ce qui permet une mise à l’échelle sans perte de qualité.
-
-### Contemporain
-La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste ou encore l’espacement dans le but d’adapter une fonte à un contexte spécifique, de la moderniser ou de lui donner une nouvelle personnalité tout en rendant hommage à son design original.
+### Contemporaine
+Cette catégorie inclut les fontes contemporaines qui ont été conçues à partir du début du XXIe siècle. Ces fontes résultent soit d’une réinterprétation d’un classique, soit d'un design original. La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design dans le but de l’adapter à un contexte spécifique. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste, l’espacement ou même le character-set.
 
 # 📄 Extensions
 
