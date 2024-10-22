@@ -74,10 +74,11 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
 
 1. **Incises**  
    *Gravure dans la pierre*
-2. **Manuaires**  
-   *Calligraphie interompue*
-3. **Cursives**  
-   *Calligraphie ininterompue*
+2. **Scriptes**  
+   *Calligraphie*
+   - ininterompue
+   - fractures
+   - cursive
 4. **Sérifs**  
    *Impression à caractères mobiles*
    - Humanes
@@ -90,11 +91,13 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
 6. **Expressives**  
    *Composition en grands corps*
 7. **Sans-Sérifs**  
-   *Composition à froid*
+   *Composition à froid (photo-composition)*
     - Grotesques
     - Humanistes
     - Géométriques
-8. **Non-Latines**  
+8. **Hybrides**
+   *Variations de contrastes et de terminaisons au sein d'une même police*
+11. **Non-Latines**  
    *Composition digitale*
     - Dingbats (symboles)
     - Pi (symboles mathématiques)
@@ -408,7 +411,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 
 | Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
-| ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Man** / **Cur** / **Sér** / **Slab** / **Exp** / **Sans** / **Hyb** / **NonL** |
+| ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Scr** / **Sér** / **Slab** / **Exp** / **Sans** / **Hyb** / **NonL** |
 | ➡️ **é_ForS** | Classification Formelle Squelette | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
 | ➡️ **é_ForG** | Classification Formelle Graisse | **Ctr**(asté) / **Lin**(éaire) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
@@ -418,7 +421,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 
 Grâce aux tags, vous pouvez ainsi filtrer les fontes en fonction de votre recherche directement dans le finder.
 
-[^3]: **Inc**(ises) / **Man**(uaires) / **Cur**(sives) / **Sér**(ifs) / **Slab**(-Sérifs) / **Exp**(ressives) / **Sans**(-Sérifs) / **Hyb**(rides) / **NonL**(atines)
+[^3]: **Inc**(ises) / **Scr**(iptes) / **Sér**(ifs) / **Slab**(-Sérifs) / **Exp**(ressives) / **Sans**(-Sérifs) / **Hyb**(rides) / **NonL**(atines)
 
 Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 
