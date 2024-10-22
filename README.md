@@ -488,7 +488,7 @@ Fira | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT
 Fleischmann | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
 Founders Grotesk | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
 Franklin Gothic | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Fraunces | Fonderie | é_Hst_6_Exp |||| é_Lic_Lib
+Fraunces | Fonderie | é_Hst_6_Exp ||||| é_Lic_Lib
 Frutiger | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
 Futura | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
 Garamond Premier | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
@@ -502,7 +502,7 @@ Helvetica Neue | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin
 Herculanum | Fonderie | é_Hst_1_Inc |||| é_Typ_Cla | é_Lic_Pro |
 Hermes | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
 Humanistika | Fonderie | é_Hst_2_Scr_Onciales |||| é_Typ_Cla | é_Lic_Pro |
-IBM Plex | Fonderie | é_Hst_7_Hyb |||| é_Lic_Lib
+IBM Plex | Fonderie | é_Hst_7_Hyb ||||| é_Lic_Lib
 Ibarra Real Nova | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec || é_Lic_Lib
 Infini | Fonderie | é_Hst_1_Inc |||| é_Typ_Mod | é_Lic_Pro |
 JJannon | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
@@ -538,12 +538,12 @@ Pompeijana | Fonderie | é_Hst_2_Scr_Onciales |||| é_Typ_Cla | é_Lic_Pro |
 Practice | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
 Public Sans | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans || é_Lic_Lib
 Publico Text | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Red Hat | Fonderie | é_Hst_7_Hyb |||| é_Lic_Lib
-Roboto | Fonderie | é_Hst_7_Hyb |||| é_Lic_Lib
+Red Hat | Fonderie | é_Hst_7_Hyb ||||| é_Lic_Lib
+Roboto | Fonderie | é_Hst_7_Hyb ||||| é_Lic_Lib
 Ruder Plakat | Fonderie | é_Hst_6_Exp |||| é_Typ_Cla | é_Lic_Pro |
 Serifa | Fonderie | é_Hst_4_Slab_Mécanes | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
 Snell Roundhand | Fonderie | é_Hst_2_Scr_Cursives |||| é_Typ_Cla | é_Lic_Pro |
-Source | Fonderie | é_Hst_7_Hyb |||| é_Lic_Lib
+Source | Fonderie | é_Hst_7_Hyb ||||| é_Lic_Lib
 Space Mono | Fonderie | é_Hst_4_Slab_Monos |||| é_Lic_Lib
 Spectral | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec || é_Lic_Lib
 Stardust | Fonderie | é_Hst_6_Exp |||| é_Typ_Mod | é_Lic_Pro |
