@@ -236,7 +236,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 1. Éditer le mot d’aperçu
 2. Scroller à travers les différentes fontes
 
-|![](/links/2_preview.gif)                  |
+|![](/links/2_Preview.gif)                  |
 |:--------------------------------------------------------------:|
 
 ### Afficher les glyphes
@@ -244,7 +244,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 1. Affichage en mode exemple
 2. Affichage en mode échantillon > Sélectionner un glyphe
 
-|![](/links/2_preview_glyphs.gif)                  |
+|![](/links/3_Preview_Glyphs.gif)                  |
 |:--------------------------------------------------------------:|
 
 ### Afficher les informations
@@ -256,7 +256,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
    - Utilisation
    - Détails
 
-|![](/links/3_Informations.gif)                  |
+|![](/links/4_Informations.gif)                  |
 |:--------------------------------------------------------------:|
 
 ### Activer une fonte
