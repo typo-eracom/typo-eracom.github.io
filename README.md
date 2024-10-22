@@ -431,7 +431,7 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 
 | Police         | Fonderie       | é_Hst | é_ForS | é_ForG           | é_ForT        | é_Typ                 | é_Ext                 | é_Lic                 |
 |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
-| Garamond       | Adobe          | Humanes        | Dyn         | Ctr      | avec   | Cla                | Dsk                | Pro                |
+| Garamond       | Adobe          | Humanes        | Dyn         | Ctr      | Avec   | Cla                | Dsk                | Pro                |
 
 
 # 📎 Sources 
