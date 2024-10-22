@@ -207,14 +207,13 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 
 ```
 1. Incises
-2. Manuaires
-3. Cursives
-4. Sérifs
-5. Slab-Sérifs
+2. Scriptes
+3. Sérifs
+4. Slab-Sérifs
+5. Sans-Sérifs
 6. Expressives
-7. Sans-Sérifs
-8. Hybrides
-9. Non-Latines
+7. Hybrides
+8. Non-Latines
 ```
 
 2. Glisser le dossier de fontes correspondant sur chaque collection
