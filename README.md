@@ -420,7 +420,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 | ➡️ **é_ForG** | Classification Formelle Graisse | **Ctr**(asté) / **Lin**(éaire) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
 | ➡️ **é_Typ** | Typologie | **Cla**(ssique) / **Mod**(erne) / – |
-| ➡️ **é_Ext** | Extensions | **Dsk**(desktop) / **Web** / **Var**(iable) | 
+| ➡️ **é_Ext** | Extensions | **Dsk**(desktop) / **Web**(site) / **Var**(iable) | 
 | ➡️ **é_Lic** | License | **Pro**(priétaire) / **Lib**(re) |
 
 Grâce aux tags, vous pouvez ainsi filtrer les fontes en fonction de votre recherche directement dans le finder.
