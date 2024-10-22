@@ -196,7 +196,8 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 
 # 💻 Installation (check-in)
 
-### ⚠️ Signature de la charte pour toute la classe ➡️ Réception des fichiers
+# ⚠️ Signature de la charte pour toute la classe ➡️ Réception des fichiers
+
 ### Livre des polices
 
 Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'installer un logiciel de gestion des fontes. Un tel outil permet notamment:
@@ -394,7 +395,7 @@ font-weight: 800;
 
 # 🔥 Supression (check-out)
 
-⚠️ L’utilisateur.rice s'engage à supprimer tous les fichiers de fontes au moment de la fin ou de l’interuption de son cursus.
+# ⚠️ L’utilisateur.rice s'engage à supprimer tous les fichiers de fontes au moment de la fin ou de l’interuption de son cursus.
 
 1. Aller > Se rendre au dossier
 2. Copier le chemin suivant (Macintosh HD > Users > *YourName* > Bibliothèque > Fonts)
