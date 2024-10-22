@@ -97,7 +97,7 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
     - Géométriques
 7. **Expressives**  
    *Composition en grands corps (aussi décoratives)*
-8. **Hybrides**
+8. **Hybrides**  
    *Variations de contrastes et de terminaisons au sein d'une même police*
 9. **Non-Latines**  
    *Composition digitale (symboles)*
