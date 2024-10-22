@@ -436,8 +436,8 @@ Agatha | Fonderie | é_Hst_3_Sér_Didones | é_ForS_Sta | é_ForG_Ctr | é_ForT_
 Akzidenz Grotesk Next | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
 Alaska | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans || é_Lic_Pro | é_Ext_Var
 Allegra | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Aloha | Fonderie | é_Hst_4_Slab_Monos |||| é_Lic_Pro | é_Ext_Var
-Alpaga | Fonderie | é_Hst_4_Slab_Monos |||| é_Lic_Pro | é_Ext_Var
+Aloha | Fonderie | é_Hst_4_Slab_Monos ||||| é_Lic_Pro | é_Ext_Var
+Alpaga | Fonderie | é_Hst_4_Slab_Monos ||||| é_Lic_Pro | é_Ext_Var
 Alte Schwabacher D | Fonderie | é_Hst_2_Scr_Fractures |||| é_Typ_Cla | é_Lic_Pro |
 Alverata | Fonderie | é_Hst_1_Inc |||| é_Typ_Mod | é_Lic_Pro |
 Amazonia | Fonderie | é_Hst_3_Sér_Didones | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec || é_Lic_Pro | é_Ext_Var
