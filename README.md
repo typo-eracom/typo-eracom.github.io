@@ -431,139 +431,139 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 
 | Police         | Fonderie       | é_Hst | é_ForS | é_ForG           | é_ForT        | é_Typ                 | é_Lic                 | _Ext                 |
 |:---            |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
-Africa | Fonderie | é_Hst_6_Exp |||| é_Typ_Mod | é_Lic_Pro |
-Agatha | Fonderie | é_Hst_3_Sér_Didones | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec || é_Lic_Pro | é_Ext_Var
-Akzidenz Grotesk Next | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Alaska | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans || é_Lic_Pro | é_Ext_Var
-Allegra | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Aloha | Fonderie | é_Hst_4_Slab_Monos ||||| é_Lic_Pro | é_Ext_Var
-Alpaga | Fonderie | é_Hst_4_Slab_Monos ||||| é_Lic_Pro | é_Ext_Var
-Alte Schwabacher D | Fonderie | é_Hst_2_Scr_Fractures |||| é_Typ_Cla | é_Lic_Pro |
-Alverata | Fonderie | é_Hst_1_Inc |||| é_Typ_Mod | é_Lic_Pro |
-Amazonia | Fonderie | é_Hst_3_Sér_Didones | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec || é_Lic_Pro | é_Ext_Var
-Angela | Fonderie | é_Hst_6_Exp |||| é_Typ_Mod | é_Lic_Pro |
-Antarctica | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans || é_Lic_Pro | é_Ext_Var
-Antique Legacy | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Apax | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Armada | Fonderie | é_Hst_6_Exp |||| é_Typ_Mod | é_Lic_Pro |
-Arnhem | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Arno | Fonderie | é_Hst_3_Sér_Humanes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Artex | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans || é_Lic_Pro | é_Ext_Var
-Atacama | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec || é_Lic_Pro | é_Ext_Var
-Atlantique Miami | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec || é_Lic_Pro | é_Ext_Var
-Atlas Grotesk | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Avant Garde Gothic | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Avenir Next | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Azaka | Fonderie | é_Hst_6_Exp |||| é_Typ_Mod | é_Lic_Pro |
-Azteca | Fonderie | é_Hst_6_Exp |||| é_Typ_Mod | é_Lic_Pro |
-Baikal | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans || é_Lic_Pro | é_Ext_Var
-Balance | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Bodoni | Fonderie | é_Hst_3_Sér_Didones | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Bradford | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Breeze Sans | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans || é_Lic_Lib
-Caflisch Script | Fonderie | é_Hst_2_Scr_Cursives |||| é_Typ_Cla | é_Lic_Pro |
-Caslon 224 | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Centaur | Fonderie | é_Hst_3_Sér_Humanes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Chaparral | Fonderie | é_Hst_4_Slab_Mécanes | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Charter | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Clarendon Graphic | Fonderie | é_Hst_4_Slab_Mécanes | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Cochin | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Cooper Hewitt | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans || é_Lic_Lib
-Courier | Fonderie | é_Hst_4_Slab_Monos |||| é_Typ_Cla | é_Lic_Pro |
-Crystal | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans || é_Lic_Pro | é_Ext_Var
-Custodia | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Didot Elder | Fonderie | é_Hst_3_Sér_Didones | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Didot Modern | Fonderie | é_Hst_3_Sér_Didones | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Didot | Fonderie | é_Hst_3_Sér_Didones | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Dominicale | Fonderie | é_Hst_6_Exp |||| é_Typ_Mod | é_Lic_Pro |
-Egyptienne F | Fonderie | é_Hst_4_Slab_Mécanes | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-English 111 | Fonderie | é_Hst_2_Scr_Cursives |||| é_Typ_Cla | é_Lic_Pro |
-Estuary | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-European Pi | Fonderie | é_Hst_8_NonL |||| é_Typ_Cla | é_Lic_Pro |
-Fedra Mono | Fonderie | é_Hst_4_Slab_Monos |||| é_Typ_Mod | é_Lic_Pro |
-Fedra Sans | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Fedra SerifAB | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Fedra | Fonderie | é_Hst_7_Hyb |||| é_Typ_Mod | é_Lic_Pro |
-Fira | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans || é_Lic_Lib
-Fleischmann | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Founders Grotesk | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Franklin Gothic | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Fraunces | Fonderie | é_Hst_6_Exp ||||| é_Lic_Lib
-Frutiger | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Futura | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Garamond Premier | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Geograph | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Gill Sans | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Glypha | Fonderie | é_Hst_4_Slab_Mécanes | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Goudy Text | Fonderie | é_Hst_2_Scr_Fractures |||| é_Typ_Cla | é_Lic_Pro |
-Gradot | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Heldane | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Helvetica Neue | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Herculanum | Fonderie | é_Hst_1_Inc |||| é_Typ_Cla | é_Lic_Pro |
-Hermes | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Humanistika | Fonderie | é_Hst_2_Scr_Onciales |||| é_Typ_Cla | é_Lic_Pro |
-IBM Plex | Fonderie | é_Hst_7_Hyb ||||| é_Lic_Lib
-Ibarra Real Nova | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec || é_Lic_Lib
-Infini | Fonderie | é_Hst_1_Inc |||| é_Typ_Mod | é_Lic_Pro |
-JJannon | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Jenson | Fonderie | é_Hst_3_Sér_Humanes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Johnston | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Lapture | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Literata | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec || é_Lic_Lib
-Lithos | Fonderie | é_Hst_1_Inc |||| é_Typ_Cla | é_Lic_Pro |
-Ludwig | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Lutetia Nova | Fonderie | é_Hst_3_Sér_Humanes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Mathematical Pi | Fonderie | é_Hst_8_NonL |||| é_Typ_Cla | é_Lic_Pro |
-Media77 | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Millionaire | Fonderie | é_Hst_2_Scr_Cursives |||| é_Typ_Mod | é_Lic_Pro |
-Minion | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Moderne | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Monaako | Fonderie | é_Hst_2_Scr_Cursives |||| é_Typ_Mod | é_Lic_Pro |
-New Baskerville | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Newsreader | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec || é_Lic_Lib
-November Slab | Fonderie | é_Hst_4_Slab_Mécanes | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-November | Fonderie | é_Hst_7_Hyb ||||| é_Typ_Mod | é_Lic_Pro |
-NovemberL | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-OCR F | Fonderie | é_Hst_4_Slab_Monos |||| é_Typ_Cla | é_Lic_Pro |
-Oddity | Fonderie | é_Hst_6_Exp |||| é_Typ_Mod | é_Lic_Pro |
-Omnia | Fonderie | é_Hst_2_Scr_Onciales |||| é_Typ_Cla | é_Lic_Pro |
-Open Sans | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans || é_Lic_Lib
-Palatino | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Parmigiano Serif | Fonderie | é_Hst_3_Sér_Didones | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Pfeffer Mediaeval | Fonderie | é_Hst_2_Scr_Onciales |||| é_Typ_Mod | é_Lic_Pro |
-Pfeffer Simpelgotisch | Fonderie | é_Hst_2_Scr_Fractures |||| é_Typ_Mod | é_Lic_Pro |
-Ping | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Plain | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Pompeijana | Fonderie | é_Hst_2_Scr_Onciales |||| é_Typ_Cla | é_Lic_Pro |
-Practice | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Public Sans | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans || é_Lic_Lib
-Publico Text | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Red Hat | Fonderie | é_Hst_7_Hyb ||||| é_Lic_Lib
-Roboto | Fonderie | é_Hst_7_Hyb ||||| é_Lic_Lib
-Ruder Plakat | Fonderie | é_Hst_6_Exp |||| é_Typ_Cla | é_Lic_Pro |
-Serifa | Fonderie | é_Hst_4_Slab_Mécanes | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Snell Roundhand | Fonderie | é_Hst_2_Scr_Cursives |||| é_Typ_Cla | é_Lic_Pro |
-Source | Fonderie | é_Hst_7_Hyb ||||| é_Lic_Lib
-Space Mono | Fonderie | é_Hst_4_Slab_Monos |||| é_Lic_Lib
-Spectral | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec || é_Lic_Lib
-Stardust | Fonderie | é_Hst_6_Exp |||| é_Typ_Mod | é_Lic_Pro |
-Supreme | Fonderie | é_Hst_5_Sans_Géométriques | é_ForS_Géo | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Syntax Lapidar | Fonderie | é_Hst_1_Inc |||| é_Typ_Cla | é_Lic_Pro |
-The AntiquaB | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-The Mix Mono | Fonderie | é_Hst_4_Slab_Monos |||| é_Typ_Mod | é_Lic_Pro |
-The Sans | Fonderie | é_Hst_5_Sans_Humanistes | é_ForS_Dyn | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-The Serif | Fonderie | é_Hst_4_Slab_Mécanes | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Thesis | Fonderie | é_Hst_7_Hyb |||| é_Typ_Mod | é_Lic_Pro |
-Tiina | Fonderie | é_Hst_3_Sér_Garaldes | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Mod | é_Lic_Pro |
-Times New Roman | Fonderie | é_Hst_3_Sér_Réales | é_ForS_Dyn | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Trajan | Fonderie | é_Hst_1_Inc |||| é_Typ_Cla | é_Lic_Pro |
-Unica77 | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Mod | é_Lic_Pro |
-Univers | Fonderie | é_Hst_5_Sans_Grotesques | é_ForS_Sta | é_ForG_Lin | é_ForT_Sans | é_Typ_Cla | é_Lic_Pro |
-Walbaum Fraktur | Fonderie | é_Hst_2_Scr_Fractures |||| é_Typ_Cla | é_Lic_Pro |
-Walbaum | Fonderie | é_Hst_3_Sér_Didones | é_ForS_Sta | é_ForG_Ctr | é_ForT_Avec | é_Typ_Cla | é_Lic_Pro |
-Weiss Rundgotisch D | Fonderie | é_Hst_2_Scr_Fractures |||| é_Typ_Cla | é_Lic_Pro |
-Zapf Dingbats | Fonderie | é_Hst_8_NonL |||| é_Typ_Cla | é_Lic_Pro
-Zapfino Extra | Fonderie | é_Hst_2_Scr_Cursives |||| é_Typ_Cla | é_Lic_Pro |
+Africa | Fonderie | 6_Exp |||| Mod | Pro |
+Agatha | Fonderie | 3_Sér_Didones | Sta | Ctr | Avec || Pro | Var
+Akzidenz Grotesk Next | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
+Alaska | Fonderie | 5_Sans_Géométriques | Géo | Lin | Sans || Pro | Var
+Allegra | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+Aloha | Fonderie | 4_Slab_Monos ||||| Pro | Var
+Alpaga | Fonderie | 4_Slab_Monos ||||| Pro | Var
+Alte Schwabacher D | Fonderie | 2_Scr_Fractures |||| Cla | Pro |
+Alverata | Fonderie | 1_Inc |||| Mod | Pro |
+Amazonia | Fonderie | 3_Sér_Didones | Sta | Ctr | Avec || Pro | Var
+Angela | Fonderie | 6_Exp |||| Mod | Pro |
+Antarctica | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
+Antique Legacy | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Apax | Fonderie | 5_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
+Armada | Fonderie | 6_Exp |||| Mod | Pro |
+Arnhem | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Arno | Fonderie | 3_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
+Artex | Fonderie | 5_Sans_Géométriques | Géo | Lin | Sans || Pro | Var
+Atacama | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec || Pro | Var
+Atlantique Miami | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec || Pro | Var
+Atlas Grotesk | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Avant Garde Gothic | Fonderie | 5_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
+Avenir Next | Fonderie | 5_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
+Azaka | Fonderie | 6_Exp |||| Mod | Pro |
+Azteca | Fonderie | 6_Exp |||| Mod | Pro |
+Baikal | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
+Balance | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
+Bodoni | Fonderie | 3_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
+Bradford | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Breeze Sans | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans || Lib
+Caflisch Script | Fonderie | 2_Scr_Cursives |||| Cla | Pro |
+Caslon 224 | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
+Centaur | Fonderie | 3_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
+Chaparral | Fonderie | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
+Charter | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
+Clarendon Graphic | Fonderie | 4_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
+Cochin | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
+Cooper Hewitt | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans || Lib
+Courier | Fonderie | 4_Slab_Monos |||| Cla | Pro |
+Crystal | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
+Custodia | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Didot Elder | Fonderie | 3_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
+Didot Modern | Fonderie | 3_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
+Didot | Fonderie | 3_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
+Dominicale | Fonderie | 6_Exp |||| Mod | Pro |
+Egyptienne F | Fonderie | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
+English 111 | Fonderie | 2_Scr_Cursives |||| Cla | Pro |
+Estuary | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+European Pi | Fonderie | 8_NonL |||| Cla | Pro |
+Fedra Mono | Fonderie | 4_Slab_Monos |||| Mod | Pro |
+Fedra Sans | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+Fedra SerifAB | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Fedra | Fonderie | 7_Hyb |||| Mod | Pro |
+Fira | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans || Lib
+Fleischmann | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Founders Grotesk | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Franklin Gothic | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
+Fraunces | Fonderie | 6_Exp ||||| Lib
+Frutiger | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
+Futura | Fonderie | 5_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
+Garamond Premier | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
+Geograph | Fonderie | 5_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
+Gill Sans | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
+Glypha | Fonderie | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
+Goudy Text | Fonderie | 2_Scr_Fractures |||| Cla | Pro |
+Gradot | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Heldane | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Helvetica Neue | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
+Herculanum | Fonderie | 1_Inc |||| Cla | Pro |
+Hermes | Fonderie | 5_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
+Humanistika | Fonderie | 2_Scr_Onciales |||| Cla | Pro |
+IBM Plex | Fonderie | 7_Hyb ||||| Lib
+Ibarra Real Nova | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec || Lib
+Infini | Fonderie | 1_Inc |||| Mod | Pro |
+JJannon | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Jenson | Fonderie | 3_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
+Johnston | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
+Lapture | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Literata | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec || Lib
+Lithos | Fonderie | 1_Inc |||| Cla | Pro |
+Ludwig | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Lutetia Nova | Fonderie | 3_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
+Mathematical Pi | Fonderie | 8_NonL |||| Cla | Pro |
+Media77 | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Millionaire | Fonderie | 2_Scr_Cursives |||| Mod | Pro |
+Minion | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
+Moderne | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+Monaako | Fonderie | 2_Scr_Cursives |||| Mod | Pro |
+New Baskerville | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
+Newsreader | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec || Lib
+November Slab | Fonderie | 4_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
+November | Fonderie | 7_Hyb |||| Mod | Pro |
+NovemberL | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+OCR F | Fonderie | 4_Slab_Monos |||| Cla | Pro |
+Oddity | Fonderie | 6_Exp |||| Mod | Pro |
+Omnia | Fonderie | 2_Scr_Onciales |||| Cla | Pro |
+Open Sans | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans || Lib
+Palatino | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
+Parmigiano Serif | Fonderie | 3_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
+Pfeffer Mediaeval | Fonderie | 2_Scr_Onciales |||| Mod | Pro |
+Pfeffer Simpelgotisch | Fonderie | 2_Scr_Fractures |||| Mod | Pro |
+Ping | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+Plain | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Pompeijana | Fonderie | 2_Scr_Onciales |||| Cla | Pro |
+Practice | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Public Sans | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans || Lib
+Publico Text | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Red Hat | Fonderie | 7_Hyb ||||| Lib
+Roboto | Fonderie | 7_Hyb ||||| Lib
+Ruder Plakat | Fonderie | 6_Exp |||| Cla | Pro |
+Serifa | Fonderie | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
+Snell Roundhand | Fonderie | 2_Scr_Cursives |||| Cla | Pro |
+Source | Fonderie | 7_Hyb ||||| Lib
+Space Mono | Fonderie | 4_Slab_Monos |||| Lib
+Spectral | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec || Lib
+Stardust | Fonderie | 6_Exp |||| Mod | Pro |
+Supreme | Fonderie | 5_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
+Syntax Lapidar | Fonderie | 1_Inc |||| Cla | Pro |
+The AntiquaB | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+The Mix Mono | Fonderie | 4_Slab_Monos |||| Mod | Pro |
+The Sans | Fonderie | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+The Serif | Fonderie | 4_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
+Thesis | Fonderie | 7_Hyb |||| Mod | Pro |
+Tiina | Fonderie | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Times New Roman | Fonderie | 3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
+Trajan | Fonderie | 1_Inc |||| Cla | Pro |
+Unica77 | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Univers | Fonderie | 5_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
+Walbaum Fraktur | Fonderie | 2_Scr_Fractures |||| Cla | Pro |
+Walbaum | Fonderie | 3_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
+Weiss Rundgotisch D | Fonderie | 2_Scr_Fractures |||| Cla | Pro |
+Zapf Dingbats | Fonderie | 8_NonL |||| Cla | Pro
+Zapfino Extra | Fonderie | 2_Scr_Cursives |||| Cla | Pro |
 
 
 # 📎 Sources 
