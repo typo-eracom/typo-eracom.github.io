@@ -154,7 +154,7 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 - les character-sets
 - etc.
   
-# 🔍 Typologie
+# 🧬 Typologie
 
 ![](/links/Eracom_Typotheque_Graphics_v45.jpg)
 
