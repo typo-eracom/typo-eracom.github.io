@@ -415,7 +415,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 
 | Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
-| ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Scr** / **Sér** / **Slab** / **Exp** / **Sans** / **Hyb** / **NonL** |
+| ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Scr** / **Sér** / **Slab** / **Sans** / **Exp** /**Hyb** / **NonL** |
 | ➡️ **é_ForS** | Classification Formelle Squelette | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
 | ➡️ **é_ForG** | Classification Formelle Graisse | **Ctr**(asté) / **Lin**(éaire) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
@@ -425,7 +425,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 
 Grâce aux tags, vous pouvez ainsi filtrer les fontes en fonction de votre recherche directement dans le finder.
 
-[^3]: **Inc**(ises) / **Scr**(iptes) / **Sér**(ifs) / **Slab**(-Sérifs) / **Exp**(ressives) / **Sans**(-Sérifs) / **Hyb**(rides) / **NonL**(atines)
+[^3]: **Inc**(ises) / **Scr**(iptes) / **Sér**(ifs) / **Slab**(-Sérifs) / **Sans**(-Sérifs) / **Exp**(ressives) / **Hyb**(rides) / **NonL**(atines)
 
 Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 
