@@ -7,6 +7,7 @@
 - [Terminologie](#-terminologie)
 - [Charte d’utilisation](#-charte-dutilisation)
 - [Classification](#%EF%B8%8F-classification)
+- [Modèles](#-modèles)
 - [Extensions](#-extensions)
 - [Licenses](#-licenses)
 - [Installation](#-installation-check-in)
