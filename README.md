@@ -79,31 +79,29 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
 2. **Scriptes**  
    *Calligraphie (ductus)*  
    2.1&nbsp;&nbsp;Onciales  
-   2.2  Fractures  
-   2.3  Cursives  
+   2.2&nbsp;&nbsp;Fractures  
+   2.3&nbsp;&nbsp;Cursives  
 3. **Sérifs**  
    *Impression à caractères mobiles*  
-   3.1  Humanes  
-   3.2  Garaldes  
-   3.3  Réales  
-   3.4  Didones  
+   3.1&nbsp;&nbsp;Humanes  
+   3.2&nbsp;&nbsp;Garaldes  
+   3.3&nbsp;&nbsp;Réales  
+   3.4&nbsp;&nbsp;Didones  
 4. **Slab-Sérifs**  
    *Composition à chaud*  
-   4.1  Mécanes  
-   4.2  Monospaces  
+   4.1&nbsp;&nbsp;Mécanes  
+   4.2&nbsp;&nbsp;Monospaces  
 6. **Sans-Sérifs**  
    *Composition à froid (photo-composition)*  
-    5.1  Grotesques  
-    5.2  Humanistes  
-    5.3  Géométriques  
+    5.1&nbsp;&nbsp;Grotesques  
+    5.2&nbsp;&nbsp;Humanistes  
+    5.3&nbsp;&nbsp;Géométriques  
 8. **Expressives**  
    *Composition en grands corps (aussi décoratives)*
 9. **Hybrides**  
    *Variations de contrastes et de terminaisons au sein d'une même police*
 10. **Non-Latines**  
-   *Composition digitale (symboles)*
-    - Dingbats (ornements)
-    - Pi (mathématiques)
+   *Composition digitale (symboles: ornements (Dingbats) & mathématiques (Pi))*
 
 [^1]: Illustration tirée du livre *Type, Sign, Symbol* de Adrian Frutiger (1980).
 
