@@ -92,8 +92,8 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
    - Monospaces
 6. **Sans-Sérifs**  
    *Composition à froid (photo-composition)*
-    - Humanistes
     - Grotesques
+    - Humanistes
     - Géométriques
 8. **Expressives**  
    *Composition en grands corps (aussi décoratives)*
