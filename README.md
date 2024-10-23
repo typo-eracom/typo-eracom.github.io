@@ -414,7 +414,8 @@ td.tabular {
 
 # 🔠 Catalogue
 
-Sur mac, les tags vous fournissent les informations suivantes sur la fonte sélectionnée:
+Grâce aux tags sur mac, il est possible filtrer  les fontes en fonction de critères de recherche directement dans le finder.
+Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 
 | Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
@@ -426,11 +427,7 @@ Sur mac, les tags vous fournissent les informations suivantes sur la fonte séle
 | ➡️ **é_Lic** | License | **Pro**(priétaire) / **Lib**(re) |
 | ➡️ **é_Ext** | Extensions | — / **Var**(iable) | 
 
-Grâce aux tags, vous pouvez ainsi filtrer les fontes en fonction de votre recherche directement dans le finder.
-
 [^3]: **Inc**(ises) / **Scr**(iptes) / **Sér**(ifs) / **Slab**(-Sérifs) / **Sans**(-Sérifs) / **Exp**(ressives) / **Hyb**(rides) / **NonL**(atines)
-
-Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 
 | Police         | é_Hst | é_ForS | é_ForG           | é_ForT        | é_Typ                 | é_Lic                 | é_Ext                 |
 |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
