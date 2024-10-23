@@ -92,14 +92,14 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
    - Monospaces
 6. **Sans-Sérifs**  
    *Composition à froid (photo-composition)*
-    - Grotesques
     - Humanistes
+    - Grotesques
     - Géométriques
-7. **Expressives**  
+8. **Expressives**  
    *Composition en grands corps (aussi décoratives)*
-8. **Hybrides**  
+9. **Hybrides**  
    *Variations de contrastes et de terminaisons au sein d'une même police*
-9. **Non-Latines**  
+10. **Non-Latines**  
    *Composition digitale (symboles)*
     - Dingbats (ornements)
     - Pi (mathématiques)
