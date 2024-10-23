@@ -83,19 +83,19 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
    3. Cursives  
 3. **Sérifs**  
    *Impression à caractères mobiles*  
-   3.1&nbsp;&nbsp;Humanes  
-   3.2&nbsp;&nbsp;Garaldes  
-   3.3&nbsp;&nbsp;Réales  
-   3.4&nbsp;&nbsp;Didones  
+   1. Humanes  
+   2. Garaldes  
+   3. Réales  
+   4. Didones  
 4. **Slab-Sérifs**  
    *Composition à chaud*  
-   4.1&nbsp;&nbsp;Mécanes  
-   4.2&nbsp;&nbsp;Monospaces  
+   1. Mécanes  
+   2. Monospaces  
 6. **Sans-Sérifs**  
    *Composition à froid (photo-composition)*  
-    5.1&nbsp;&nbsp;Grotesques  
-    5.2&nbsp;&nbsp;Humanistes  
-    5.3&nbsp;&nbsp;Géométriques  
+    1. Grotesques  
+    2. Humanistes  
+    3. Géométriques  
 8. **Expressives**  
    *Composition en grands corps (aussi décoratives)*
 9. **Hybrides**  
