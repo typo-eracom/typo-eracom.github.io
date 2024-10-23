@@ -467,9 +467,9 @@ Breeze Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans || Lib
 Caflisch Script | 2.3_Scr_Cursives |||| Cla | Pro |
 Caslon 224 | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
 Centaur | 3.1_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
-Chaparral | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
+Chaparral | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
 Charter | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
-Clarendon Graphic | 4_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
+Clarendon Graphic | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
 Cochin | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
 Cooper Hewitt | 5.1_Sans_Grotesques | Sta | Lin | Sans || Lib
 Courier | 4.2_Slab_Monos |||| Cla | Pro |
@@ -479,7 +479,7 @@ Didot Elder | 3.4_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
 Didot Modern | 3.4_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
 Didot | 3.4_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
 Dominicale | 6_Exp |||| Mod | Pro |
-Egyptienne F | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
+Egyptienne F | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
 English 111 | 2.3_Scr_Cursives |||| Cla | Pro |
 Estuary | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
 European Pi | 8_NonL |||| Cla | Pro |
@@ -497,7 +497,7 @@ Futura | 5.3_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
 Garamond Premier | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
 Geograph | 5.3_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
 Gill Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
-Glypha | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
+Glypha | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
 Goudy Text | 2.2_Scr_Fractures |||| Cla | Pro |
 Gradot | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
 Heldane | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
@@ -524,7 +524,7 @@ Moderne | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
 Monaako | 2.3_Scr_Cursives |||| Mod | Pro |
 New Baskerville | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
 Newsreader | 3.2_Sér_Garaldes | Dyn | Ctr | Avec || Lib
-November Slab | 4_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
+November Slab | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
 November | 7_Hyb |||| Mod | Pro |
 NovemberL | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
 OCR F | 4.2_Slab_Monos |||| Cla | Pro |
@@ -544,7 +544,7 @@ Publico Text | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
 Red Hat | 7_Hyb ||||| Lib
 Roboto | 7_Hyb ||||| Lib
 Ruder Plakat | 6_Exp |||| Cla | Pro |
-Serifa | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
+Serifa | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
 Snell Roundhand | 2.3_Scr_Cursives |||| Cla | Pro |
 Source | 7_Hyb ||||| Lib
 Space Mono | 4.2_Slab_Monos |||| Lib
@@ -555,7 +555,7 @@ Syntax Lapidar | 1_Inc |||| Cla | Pro |
 The AntiquaB | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
 The Mix Mono | 4.2_Slab_Monos |||| Mod | Pro |
 The Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-The Serif | 4_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
+The Serif | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
 Thesis | 7_Hyb |||| Mod | Pro |
 Tiina | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
 Times New Roman | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
