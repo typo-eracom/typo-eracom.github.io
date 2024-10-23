@@ -87,7 +87,7 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
    3.3  Réales  
    3.4  Didones  
 4. **Slab-Sérifs**  
-   *Composition à chaud*
+   *Composition à chaud*  
    4.1  Mécanes  
    4.2  Monospaces  
 6. **Sans-Sérifs**  
