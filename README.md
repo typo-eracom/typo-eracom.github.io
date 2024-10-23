@@ -77,24 +77,24 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
    *Gravure dans la pierre*
 2. **Scriptes**  
    *Calligraphie (ductus)*
-   - Onciales
-   - Fractures
-   - Cursives
+   2.1 Onciales
+   2.2 Fractures
+   2.3 Cursives
 3. **Sérifs**  
    *Impression à caractères mobiles*
-   - Humanes
-   - Garaldes
-   - Réales
-   - Didones
+   3.1 Humanes
+   3.2 Garaldes
+   3.3 Réales
+   3.4 Didones
 4. **Slab-Sérifs**  
    *Composition à chaud*
-   - Mécanes
-   - Monospaces
+   4.1 Mécanes
+   4.2 Monospaces
 6. **Sans-Sérifs**  
    *Composition à froid (photo-composition)*
-    - Grotesques
-    - Humanistes
-    - Géométriques
+    5.1 Grotesques
+    5.2 Humanistes
+    5.3 Géométriques
 8. **Expressives**  
    *Composition en grands corps (aussi décoratives)*
 9. **Hybrides**  
