@@ -14,7 +14,7 @@
 - [Usage desktop](#-usage-desktop)
 - [Usage web](#-usage-web)
 - [Supression](#-supression-check-out)
-- [Tags](#-tags)
+- [Tags](#%EF%B8%8F-tags)
 - [Catalogue](#-catalogue)
 - [Sources](#-sources)
 
