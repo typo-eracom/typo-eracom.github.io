@@ -435,138 +435,138 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous:
 | Police         | é_Hst | é_ForS | é_ForG           | é_ForT        | é_Typ                 | é_Lic                 | é_Ext                 |
 |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
 Africa | 6_Exp |||| Mod | Pro |
-Agatha | 3_Sér_Didones | Sta | Ctr | Avec || Pro | Var
-Akzidenz Grotesk Next | 5_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
-Alaska | 5_Sans_Géométriques | Géo | Lin | Sans || Pro | Var
-Allegra | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-Aloha | 4_Slab_Monos ||||| Pro | Var
-Alpaga | 4_Slab_Monos ||||| Pro | Var
-Alte Schwabacher D | 2_Scr_Fractures |||| Cla | Pro |
+Agatha | 3.4_Sér_Didones | Sta | Ctr | Avec || Pro | Var
+Akzidenz Grotesk Next | 5.1_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
+Alaska | 5.3_Sans_Géométriques | Géo | Lin | Sans || Pro | Var
+Allegra | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+Aloha | 4.2_Slab_Monos ||||| Pro | Var
+Alpaga | 4.2_Slab_Monos ||||| Pro | Var
+Alte Schwabacher D | 2.2_Scr_Fractures |||| Cla | Pro |
 Alverata | 1_Inc |||| Mod | Pro |
-Amazonia | 3_Sér_Didones | Sta | Ctr | Avec || Pro | Var
+Amazonia | 3.4_Sér_Didones | Sta | Ctr | Avec || Pro | Var
 Angela | 6_Exp |||| Mod | Pro |
-Antarctica | 5_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
-Antique Legacy | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Apax | 5_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
+Antarctica | 5.1_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
+Antique Legacy | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Apax | 5.3_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
 Armada | 6_Exp |||| Mod | Pro |
-Arnhem | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Arno | 3_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
-Artex | 5_Sans_Géométriques | Géo | Lin | Sans || Pro | Var
-Atacama | 3_Sér_Garaldes | Dyn | Ctr | Avec || Pro | Var
-Atlantique Miami | 3_Sér_Réales | Dyn | Ctr | Avec || Pro | Var
-Atlas Grotesk | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Avant Garde Gothic | 5_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
-Avenir Next | 5_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
+Arnhem | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Arno | 3.1_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
+Artex | 5.3_Sans_Géométriques | Géo | Lin | Sans || Pro | Var
+Atacama | 3.2_Sér_Garaldes | Dyn | Ctr | Avec || Pro | Var
+Atlantique Miami | 3.3_Sér_Réales | Dyn | Ctr | Avec || Pro | Var
+Atlas Grotesk | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Avant Garde Gothic | 5.3_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
+Avenir Next | 5.3_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
 Azaka | 6_Exp |||| Mod | Pro |
 Azteca | 6_Exp |||| Mod | Pro |
-Baikal | 5_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
-Balance | 5_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
-Bodoni | 3_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
-Bradford | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Breeze Sans | 5_Sans_Humanistes | Dyn | Lin | Sans || Lib
-Caflisch Script | 2_Scr_Cursives |||| Cla | Pro |
-Caslon 224 | 3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
-Centaur | 3_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
+Baikal | 5.1_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
+Balance | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
+Bodoni | 3.4_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
+Bradford | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Breeze Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans || Lib
+Caflisch Script | 2.3_Scr_Cursives |||| Cla | Pro |
+Caslon 224 | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
+Centaur | 3.1_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
 Chaparral | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
-Charter | 3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
+Charter | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
 Clarendon Graphic | 4_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
-Cochin | 3_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
-Cooper Hewitt | 5_Sans_Grotesques | Sta | Lin | Sans || Lib
-Courier | 4_Slab_Monos |||| Cla | Pro |
-Crystal | 5_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
-Custodia | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Didot Elder | 3_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
-Didot Modern | 3_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
-Didot | 3_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
+Cochin | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
+Cooper Hewitt | 5.1_Sans_Grotesques | Sta | Lin | Sans || Lib
+Courier | 4.2_Slab_Monos |||| Cla | Pro |
+Crystal | 5.1_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
+Custodia | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Didot Elder | 3.4_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
+Didot Modern | 3.4_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
+Didot | 3.4_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
 Dominicale | 6_Exp |||| Mod | Pro |
 Egyptienne F | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
-English 111 | 2_Scr_Cursives |||| Cla | Pro |
-Estuary | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+English 111 | 2.3_Scr_Cursives |||| Cla | Pro |
+Estuary | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
 European Pi | 8_NonL |||| Cla | Pro |
-Fedra Mono | 4_Slab_Monos |||| Mod | Pro |
-Fedra Sans | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-Fedra SerifAB | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Fedra Mono | 4.2_Slab_Monos |||| Mod | Pro |
+Fedra Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+Fedra SerifAB | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
 Fedra | 7_Hyb |||| Mod | Pro |
-Fira | 5_Sans_Humanistes | Dyn | Lin | Sans || Lib
-Fleischmann | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Founders Grotesk | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Franklin Gothic | 5_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
+Fira | 5.2_Sans_Humanistes | Dyn | Lin | Sans || Lib
+Fleischmann | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Founders Grotesk | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Franklin Gothic | 5.1_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
 Fraunces | 6_Exp ||||| Lib
-Frutiger | 5_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
-Futura | 5_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
-Garamond Premier | 3_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
-Geograph | 5_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
-Gill Sans | 5_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
+Frutiger | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
+Futura | 5.3_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
+Garamond Premier | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
+Geograph | 5.3_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
+Gill Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
 Glypha | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
-Goudy Text | 2_Scr_Fractures |||| Cla | Pro |
-Gradot | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Heldane | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Helvetica Neue | 5_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
+Goudy Text | 2.2_Scr_Fractures |||| Cla | Pro |
+Gradot | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Heldane | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Helvetica Neue | 5.1_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
 Herculanum | 1_Inc |||| Cla | Pro |
-Hermes | 5_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
-Humanistika | 2_Scr_Onciales |||| Cla | Pro |
+Hermes | 5.3_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
+Humanistika | 2.1_Scr_Onciales |||| Cla | Pro |
 IBM Plex | 7_Hyb ||||| Lib
-Ibarra Real Nova | 3_Sér_Réales | Dyn | Ctr | Avec || Lib
+Ibarra Real Nova | 3.3_Sér_Réales | Dyn | Ctr | Avec || Lib
 Infini | 1_Inc |||| Mod | Pro |
-JJannon | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Jenson | 3_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
-Johnston | 5_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
-Lapture | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Literata | 3_Sér_Réales | Dyn | Ctr | Avec || Lib
+JJannon | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Jenson | 3.1_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
+Johnston | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
+Lapture | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Literata | 3.3_Sér_Réales | Dyn | Ctr | Avec || Lib
 Lithos | 1_Inc |||| Cla | Pro |
-Ludwig | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Lutetia Nova | 3_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
+Ludwig | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Lutetia Nova | 3.1_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
 Mathematical Pi | 8_NonL |||| Cla | Pro |
-Media77 | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Millionaire | 2_Scr_Cursives |||| Mod | Pro |
-Minion | 3_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
-Moderne | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-Monaako | 2_Scr_Cursives |||| Mod | Pro |
-New Baskerville | 3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
-Newsreader | 3_Sér_Garaldes | Dyn | Ctr | Avec || Lib
+Media77 | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Millionaire | 2.3_Scr_Cursives |||| Mod | Pro |
+Minion | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
+Moderne | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+Monaako | 2.3_Scr_Cursives |||| Mod | Pro |
+New Baskerville | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
+Newsreader | 3.2_Sér_Garaldes | Dyn | Ctr | Avec || Lib
 November Slab | 4_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
 November | 7_Hyb |||| Mod | Pro |
-NovemberL | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-OCR F | 4_Slab_Monos |||| Cla | Pro |
+NovemberL | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+OCR F | 4.2_Slab_Monos |||| Cla | Pro |
 Oddity | 6_Exp |||| Mod | Pro |
-Omnia | 2_Scr_Onciales |||| Cla | Pro |
-Open Sans | 5_Sans_Humanistes | Dyn | Lin | Sans || Lib
-Palatino | 3_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
-Parmigiano Serif | 3_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
-Pfeffer Mediaeval | 2_Scr_Onciales |||| Mod | Pro |
-Pfeffer Simpelgotisch | 2_Scr_Fractures |||| Mod | Pro |
-Ping | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-Plain | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Pompeijana | 2_Scr_Onciales |||| Cla | Pro |
-Practice | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Public Sans | 5_Sans_Grotesques | Sta | Lin | Sans || Lib
-Publico Text | 3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
+Omnia | 2.1_Scr_Onciales |||| Cla | Pro |
+Open Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans || Lib
+Palatino | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
+Parmigiano Serif | 3.4_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
+Pfeffer Mediaeval | 2.1_Scr_Onciales |||| Mod | Pro |
+Pfeffer Simpelgotisch | 2.2_Scr_Fractures |||| Mod | Pro |
+Ping | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+Plain | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Pompeijana | 2.1_Scr_Onciales |||| Cla | Pro |
+Practice | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Public Sans | 5.1_Sans_Grotesques | Sta | Lin | Sans || Lib
+Publico Text | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
 Red Hat | 7_Hyb ||||| Lib
 Roboto | 7_Hyb ||||| Lib
 Ruder Plakat | 6_Exp |||| Cla | Pro |
 Serifa | 4_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
-Snell Roundhand | 2_Scr_Cursives |||| Cla | Pro |
+Snell Roundhand | 2.3_Scr_Cursives |||| Cla | Pro |
 Source | 7_Hyb ||||| Lib
-Space Mono | 4_Slab_Monos |||| Lib
-Spectral | 3_Sér_Réales | Dyn | Ctr | Avec || Lib
+Space Mono | 4.2_Slab_Monos |||| Lib
+Spectral | 3.3_Sér_Réales | Dyn | Ctr | Avec || Lib
 Stardust | 6_Exp |||| Mod | Pro |
-Supreme | 5_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
+Supreme | 5.3_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
 Syntax Lapidar | 1_Inc |||| Cla | Pro |
-The AntiquaB | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-The Mix Mono | 4_Slab_Monos |||| Mod | Pro |
-The Sans | 5_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
+The AntiquaB | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+The Mix Mono | 4.2_Slab_Monos |||| Mod | Pro |
+The Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
 The Serif | 4_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
 Thesis | 7_Hyb |||| Mod | Pro |
-Tiina | 3_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Times New Roman | 3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
+Tiina | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
+Times New Roman | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
 Trajan | 1_Inc |||| Cla | Pro |
-Unica77 | 5_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Univers | 5_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
-Walbaum Fraktur | 2_Scr_Fractures |||| Cla | Pro |
-Walbaum | 3_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
-Weiss Rundgotisch D | 2_Scr_Fractures |||| Cla | Pro |
+Unica77 | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
+Univers | 5.1_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
+Walbaum Fraktur | 2.2_Scr_Fractures |||| Cla | Pro |
+Walbaum | 3.4_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
+Weiss Rundgotisch D | 2.2_Scr_Fractures |||| Cla | Pro |
 Zapf Dingbats | 8_NonL |||| Cla | Pro
-Zapfino Extra | 2_Scr_Cursives |||| Cla | Pro |
+Zapfino Extra | 2.3_Scr_Cursives |||| Cla | Pro |
 
 
 # 📎 Sources 
