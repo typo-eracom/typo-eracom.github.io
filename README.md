@@ -14,6 +14,7 @@
 - [Usage desktop](#-usage-desktop)
 - [Usage web](#-usage-web)
 - [Supression](#-supression-check-out)
+- [Tags](#-tags)
 - [Catalogue](#-catalogue)
 - [Sources](#-sources)
 
@@ -412,7 +413,7 @@ td.tabular {
 
 ![](/links/Eracom_Typotheque_Graphics_v44.jpg)
 
-# 🔠 Catalogue
+# ➡️ Tags
 
 Grâce aux tags sur mac, il est possible filtrer  les fontes en fonction de critères de recherche directement dans le finder.
 Sur windows, il faut se référer au tableau du catalogue ci-dessous.
@@ -428,6 +429,8 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 | ➡️ **é_Ext** | Extensions | — / **Var**(iable) | 
 
 [^3]: **Inc**(ises) / **Scr**(iptes) / **Sér**(ifs) / **Slab**(-Sérifs) / **Sans**(-Sérifs) / **Exp**(ressives) / **Hyb**(rides) / **NonL**(atines)
+
+# 🔠 Catalogue
 
 | Police         | é_Hst | é_ForS | é_ForG           | é_ForT        | é_Typ                 | é_Lic                 | é_Ext                 |
 |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
