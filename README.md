@@ -433,7 +433,7 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 
 # 🔠 Catalogue
 
-| Police         | é_Hst | é_ForA | é_ForB           | é_ForC        | é_Typ                 | é_Lic                 | é_Ext                 |
+| Police         | é_Hst | é_ForP | é_ForC           | é_ForT        | é_Typ                 | é_Lic                 | é_Ext                 |
 |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
 Africa | 6_Exp |||| Mod | Pro |
 Agatha | 3.4_Sér_Didones | Sta | Ctr | Avec || Pro | Var
