@@ -422,9 +422,9 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 | Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
 | ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Scr** / **Sér** / **Slab** / **Sans** / **Exp** /**Hyb** / **NonL** |
-| ➡️ **é_ForS** | Classification Formelle Squelette | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
-| ➡️ **é_ForG** | Classification Formelle Graisse | **Ctr**(asté) / **Lin**(éaire) |
-| ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
+| ➡️ **é_ForA** | Classification Formelle Squelette | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
+| ➡️ **é_ForB** | Classification Formelle Contraste | **Con**(trasté) / **Lin**(éaire) |
+| ➡️ **é_ForC** | Classification Formelle Terminaisons | **Avec** / **Sans** |
 | ➡️ **é_Typ** | Typologie | **Cla**(ssique) / **Mod**(erne) / – |
 | ➡️ **é_Lic** | License | **Pro**(priétaire) / **Lib**(re) |
 | ➡️ **é_Ext** | Extensions | — / **Var**(iable) | 
@@ -433,7 +433,7 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 
 # 🔠 Catalogue
 
-| Police         | é_Hst | é_ForS | é_ForG           | é_ForT        | é_Typ                 | é_Lic                 | é_Ext                 |
+| Police         | é_Hst | é_ForA | é_ForB           | é_ForC        | é_Typ                 | é_Lic                 | é_Ext                 |
 |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
 Africa | 6_Exp |||| Mod | Pro |
 Agatha | 3.4_Sér_Didones | Sta | Ctr | Avec || Pro | Var
