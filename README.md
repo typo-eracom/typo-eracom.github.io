@@ -113,22 +113,25 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 |![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
 |:--------------------------------------------------------------:|
 
-1. **Squelette**
+1. **Construction**
    -  Dynamique  
+      Plume à bec large (translation)  
       Axe diagonal + extrémités ouvertes  
       voc. sémiotique: *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
    -  Statique  
+      Plume à bec pointu (expansion) 
       Axe vertical + extrémités fermées  
       voc. sémiotique: *rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire*
    -  Géométrique  
+      Plume à bec rond (linéaire)
       Construction modulaire  
       voc. sémiotique: *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
-2. **Graisse**
-   -  Contrastée
-   -  Linéaire
+2. **Contraste**
+   -  Avec (contrasté)
+   -  Sans (linéaire)
 3. **Terminaisons**
-   -  Avec-empattements
-   -  Sans-empattement
+   -  Avec (empattements)
+   -  Sans (empattement)
 
 [^2]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
 
