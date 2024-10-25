@@ -113,7 +113,7 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 |![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
 |:--------------------------------------------------------------:|
 
-1. **Construction**
+1. **Principe**
    -  Dynamique  
       Plume à bec large (translation)  
       Axe diagonal + extrémités ouvertes  
@@ -127,8 +127,8 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
       Construction modulaire  
       voc. sémiotique: *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
 2. **Contraste**
-   -  Avec (contrasté)
-   -  Sans (linéaire)
+   -  contrasté (avec)
+   -  linéaire (sans)
 3. **Terminaisons**
    -  Avec (empattements)
    -  Sans (empattement)
@@ -422,9 +422,9 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 | Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
 | ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Scr** / **Sér** / **Slab** / **Sans** / **Exp** /**Hyb** / **NonL** |
-| ➡️ **é_ForA** | Classification Formelle Squelette | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
-| ➡️ **é_ForB** | Classification Formelle Contraste | **Con**(trasté) / **Lin**(éaire) |
-| ➡️ **é_ForC** | Classification Formelle Terminaisons | **Avec** / **Sans** |
+| ➡️ **é_ForP** | Classification Formelle Principe | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
+| ➡️ **é_ForC** | Classification Formelle Contraste | **Con**(trasté) / **Lin**(éaire) |
+| ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
 | ➡️ **é_Typ** | Typologie | **Cla**(ssique) / **Mod**(erne) / – |
 | ➡️ **é_Lic** | License | **Pro**(priétaire) / **Lib**(re) |
 | ➡️ **é_Ext** | Extensions | — / **Var**(iable) | 
