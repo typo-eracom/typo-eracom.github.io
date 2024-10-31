@@ -1,4 +1,4 @@
-![](/links/Eracom_Typotheque_Graphics_v4.jpg)
+![](/links/Eracom_Typotheque_Graphics_v4_alt_2.jpg)
 
 # 📋 Table des matières
 
@@ -23,7 +23,8 @@
 # 📓 Terminologie
 
 |![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
-|-|
+|:---:|
+| Terminologie |
 
 ### Typothèque
 Une typothèque est une collection organisée de **polices**.
@@ -71,6 +72,7 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
 
 |![](/links/Eracom_Typotheque_Graphics_v48.jpg)                  |
 |:---:|
+| Classification historique |
 
 1. **Incises**  
    *Gravure dans la pierre*
