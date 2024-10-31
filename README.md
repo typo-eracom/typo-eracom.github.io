@@ -111,7 +111,7 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 ![](/links/Eracom_Typotheque_Graphics_v49.jpg)
 
 |![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
-|:---:|
+|-|
 
 1. **Principe**
    -  Dynamique  
