@@ -111,7 +111,8 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 ![](/links/Eracom_Typotheque_Graphics_v49.jpg)
 
 |![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
-|-|
+|:---:|
+| Classification formelle |
 
 1. **Principe**
    -  Dynamique  
@@ -137,6 +138,7 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 
 |![](/links/_Pair_Fonts.gif)                  |
 |:---:|
+| Créer des paires en choisissant des fontes éloignées dans la matrice de classification |
   
 ### Choisir des fontes, combiner des fontes
 
@@ -170,6 +172,7 @@ Cette catégorie inclut les fontes contemporaines qui ont été conçues à part
 
 |![](/links/Eracom_Typotheque_Graphics_v421.jpg)                  |
 |:---:|
+| Extensions |
 
 ### Desktop
 OTF, TTF
@@ -228,6 +231,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 
 |![](/links/1_Install.gif)                  |
 |:---:|
+| Installation |
 
 ![](/links/Eracom_Typotheque_Graphics_v43.jpg)
 
@@ -240,6 +244,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 
 |![](/links/2_Preview.gif)                  |
 |:---:|
+| Choisir une fonte |
 
 ### Afficher les glyphes
 
@@ -248,6 +253,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 
 |![](/links/3_Preview_Glyphs.gif)                  |
 |:---:|
+| Afficher les glyphes |
 
 ### Afficher les informations
 
@@ -260,6 +266,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 
 |![](/links/4_Informations.gif)                  |
 |:---:|
+| Afficher les informations |
 
 ### Activer une fonte
 
@@ -268,6 +275,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 
 |![](/links/5_Activate.gif)                  |
 |:---:|
+| Activer une fonte |
 
 ### Informations complémentaires grâce aux tags
 
@@ -277,9 +285,11 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 
 |![](/links/6_Tags.gif)                  |
 |:---:|
+| Afficher les tags d'une fonte |
 
 |![](/links/7_Tags_Filter.gif)                  |
 |:---:|
+| Filtrer les fichiers de fontes grâce aux tags |
 
 # 🌐 Usage Web
 
