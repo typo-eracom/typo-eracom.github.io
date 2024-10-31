@@ -25,6 +25,9 @@
 |![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
 |:---:|
 
+|![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
+|:---:|
+
 ### Typothèque
 Une typothèque est une collection organisée de **polices**.
 ### Police
@@ -70,7 +73,7 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
 ![](/links/Eracom_Typotheque_Graphics_v47.jpg)
 
 |![](/links/Eracom_Typotheque_Graphics_v48.jpg)                  |
-|:--------------------------------------------------------------:|
+|:---:|
 
 1. **Incises**  
    *Gravure dans la pierre*
@@ -109,7 +112,7 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 ![](/links/Eracom_Typotheque_Graphics_v49.jpg)
 
 |![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
-|:--------------------------------------------------------------:|
+|:---:|
 
 1. **Principe**
    -  Dynamique  
@@ -134,7 +137,7 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 [^2]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
 
 |![](/links/_Pair_Fonts.gif)                  |
-|:--------------------------------------------------------------:|
+|:---:|
   
 ### Choisir des fontes, combiner des fontes
 
@@ -167,7 +170,7 @@ Cette catégorie inclut les fontes contemporaines qui ont été conçues à part
 # 📄 Extensions
 
 |![](/links/Eracom_Typotheque_Graphics_v421.jpg)                  |
-|:--------------------------------------------------------------:|
+|:---:|
 
 ### Desktop
 OTF, TTF
@@ -225,7 +228,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 3. Pour chaque collection, sélectionner toutes les fontes (⌘ + A) > Désactiver
 
 |![](/links/1_Install.gif)                  |
-|:--------------------------------------------------------------:|
+|:---:|
 
 ![](/links/Eracom_Typotheque_Graphics_v43.jpg)
 
@@ -237,7 +240,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 2. Scroller à travers les différentes fontes
 
 |![](/links/2_Preview.gif)                  |
-|:--------------------------------------------------------------:|
+|:---:|
 
 ### Afficher les glyphes
 
@@ -245,7 +248,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 2. Affichage en mode échantillon > Sélectionner un glyphe
 
 |![](/links/3_Preview_Glyphs.gif)                  |
-|:--------------------------------------------------------------:|
+|:---:|
 
 ### Afficher les informations
 
@@ -257,7 +260,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
    - Détails
 
 |![](/links/4_Informations.gif)                  |
-|:--------------------------------------------------------------:|
+|:---:|
 
 ### Activer une fonte
 
@@ -265,7 +268,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 2. Clic droit > Activer le style
 
 |![](/links/5_Activate.gif)                  |
-|:--------------------------------------------------------------:|
+|:---:|
 
 ### Informations complémentaires grâce aux tags
 
@@ -274,10 +277,10 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 3. Fichier > Afficher les informations (⌘ + I)
 
 |![](/links/6_Tags.gif)                  |
-|:--------------------------------------------------------------:|
+|:---:|
 
 |![](/links/7_Tags_Filter.gif)                  |
-|:--------------------------------------------------------------:|
+|:---:|
 
 # 🌐 Usage Web
 
