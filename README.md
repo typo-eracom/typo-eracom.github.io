@@ -25,7 +25,7 @@
 |![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
 |:---:|
 
-|![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
+| abc                 |
 |:---:|
 
 ### Typothèque
