@@ -136,7 +136,7 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 
 [^2]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
 
-|![](/links/_Pair_Fonts.gif)                  |
+|![](/links/Pair_Fonts.gif)                  |
 |:---:|
 | Créer des paires en choisissant des fontes éloignées dans la matrice de classification |
   
