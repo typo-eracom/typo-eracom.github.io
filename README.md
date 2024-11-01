@@ -138,7 +138,7 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
 
 |![](/links/Pair_Fonts.gif)                  |
 |:---:|
-| Créer des paires en choisissant des fontes éloignées dans la matrice de classification |
+| Créer des paires de fontes avec la matrice de classification |
   
 ### Choisir des fontes, combiner des fontes
 
