@@ -128,8 +128,8 @@ La classification selon le «principe de forme»[^2] (classification Kupferschmi
       Construction modulaire  
       voc. sémiotique: *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
 2. **Contraste**
-   -  contrasté (avec)
-   -  linéaire (sans)
+   -  Contrasté (avec)
+   -  Linéaire (sans)
 3. **Terminaisons**
    -  Avec (empattements)
    -  Sans (empattement)
