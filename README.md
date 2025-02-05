@@ -410,8 +410,7 @@ td.tabular {
 ```
 # 🔗 Assemblage
 
-## L'assemblage (InDesign, website, installation sur Figma) des fontes n'est pas autorisé: chaque utilisateur.rice peut ouvrir un fichier de design en activant les polices requises dans sa propre typothèque.
-## En revanche, le transfert d'un fichier d'export statique est possible.
+L'assemblage (InDesign, website, installation sur Figma) des fontes n'est pas autorisé: chaque utilisateur.rice peut ouvrir un fichier de design en activant les polices requises dans sa propre typothèque. En revanche, le transfert d'un fichier d'export statique est possible.
 
 |![](/links/6_Tags.gif)                  |
 |:---:|
