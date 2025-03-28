@@ -301,12 +301,7 @@ Remplacer *MyFont* par le nom de votre fichier.
 ```
 @font-face {
   font-family: 'MyFont';
-  src: url('MyFont.eot'); /* IE9 Compat Modes */
-  src: url('MyFont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('MyFont.woff2') format('woff2'), /* Super Modern Browsers */
-       url('MyFont.woff') format('woff'), /* Pretty Modern Browsers */
-       url('MyFont.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('MyFont.svg#svgFontName') format('svg'); /* Legacy iOS */
+  src: url('MyFont.woff2') format('woff2’);
 }
 ```
 
