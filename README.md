@@ -21,7 +21,7 @@
 
 ### [typo.eracom@eduvaud.ch](mailto:typo.eracom@eduvaud.ch)
 
-# 📓 Terminologie
+# 🧩 Terminologie
 
 |![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
 |:---:|
@@ -173,11 +173,11 @@ Cette catégorie inclut les digitalisations des fontes classiques de l'histoire 
 ### Moderne
 Cette catégorie inclut les fontes contemporaines qui ont été conçues à partir du début du XXIe siècle. Ces fontes résultent soit d’une réinterprétation d’un classique, soit d'un design original. La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design dans le but de l’adapter à un contexte spécifique. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste, l’espacement ou même le character-set.
 
-# 📄 Extensions
+# 📄 Formats
 
 |![](/links/Eracom_Typotheque_Graphics_v421.jpg)                  |
 |:---:|
-| Extensions |
+| Formats |
 
 ### Desktop
 OTF, TTF
@@ -204,7 +204,7 @@ Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le 
 ### Libre
 Une licence libre (open-source) permet généralement à l’utilisateur.rice d’utiliser, copier, modifier et redistribuer une fonte, souvent de manière gratuite et sans restriction. Elle garantit l’accès au code source et la liberté de l’adapter selon les besoins. Néamoins, il est toujours nécessaire d'aller vérifier ce qui est autorisé dans le contrat de license.
 
-# 💻 Installation (check-in)
+# ⚙️ Installation (check-in)
 
 ## Réception des fichiers après signature de la charte pour toute la classe.
 
@@ -407,7 +407,7 @@ td.tabular {
   font-weight: 800; 
 }
 ```
-# 🔗 Assemblage
+# 📁 Assemblage
 
 L'assemblage (InDesign, website, installation sur Figma) des fontes **n'est pas autorisé**: chaque utilisateur.rice peut ouvrir un fichier de design en activant les polices requises dans sa propre typothèque. En revanche, le transfert d'un fichier d'export statique est possible.
 
