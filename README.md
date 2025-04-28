@@ -438,7 +438,7 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 
 | Tag         | Titre       | Valeur          |
 |:---            |:---            |:---            |
-| ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Scr** / **Sér** / **Slab** / **Sans** / **Exp** /**Hyb** / **NonL** |
+| ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Scr** / **Sér** / **Slab** / **Sans** / **Exp** / **Hyb** / **NonL** |
 | ➡️ **é_ForP** | Classification Formelle Principe | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
 | ➡️ **é_ForC** | Classification Formelle Contraste | **Con**(trasté) / **Lin**(éaire) |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
