@@ -19,7 +19,7 @@
 
 # ☎️ Contact
 
-### typo.eracom@eduvaud.ch
+### [typo.eracom@eduvaud.ch](mailto:typo.eracom@eduvaud.ch)
 
 # 📓 Terminologie
 
