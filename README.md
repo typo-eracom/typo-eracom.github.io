@@ -123,15 +123,15 @@ La classification selon le **«principe de forme»[^2]** (classification Kupfers
    -  Dynamique  
       Plume à bec large (translation)  
       Axe diagonal + extrémités ouvertes  
-      voc. sémiotique: *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
+      Voc. sémiotique: *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
    -  Statique  
       Plume à bec pointu (expansion)  
       Axe vertical + extrémités fermées  
-      voc. sémiotique: *rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire*
+      Voc. sémiotique: *rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire*
    -  Géométrique  
       Plume à bec rond (linéaire)  
       Construction modulaire  
-      voc. sémiotique: *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
+      Voc. sémiotique: *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
 2. **Contraste**
    -  Contrasté (avec)
    -  Linéaire (sans)
