@@ -32,7 +32,7 @@ Une typothèque est une collection organisée de **polices**.
 ### Police
 Une police désigne un **ensemble de fontes** (un dossier de fontes) qui partagent une identité commune (« le même squelette »). Une police inclut toutes les variations possibles (gras, italique, etc.) d’une même **famille** de fontes.
 ### Fonte
-Une fonte désigne **l’ensemble des glyphes** (contenu dans un fichier) correspondant aux mêmes caractéristiques (de style) au sein d’une même police. Par exemple, la police « Times », inclut notamment les fontes « Times Regular », « Times Bold », ou « Times Italic ».
+Une fonte désigne **l’ensemble des glyphes** (contenu dans un fichier) correspondant aux mêmes caractéristiques (de style) au sein d’une même police (on peut aussi parler d'un caractère). Par exemple, la police « Times », inclut notamment les fontes « Times Regular », « Times Bold », ou « Times Italic ».
 ### Glyphe
 Un glyphe est **un signe typographique** (un symbole). Cela peut inclure non seulement les lettres et les chiffres, mais aussi les accents, les ligatures (comme « fi » ou « fl »), et d’autres symboles.
 ### Script
