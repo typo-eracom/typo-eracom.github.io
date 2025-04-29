@@ -42,8 +42,8 @@ Un scripts fait référence à **un système d’écriture** (une langue) que l�
 
 ![](/links/Eracom_Typotheque_Graphics_v42.jpg)
 
-# ⬇️ [Téléchargez, imprimez et signez la charte.](links/Eracom_Typotheque_Charte_v_2_0.pdf)
-# ↩️ [Envoyez un scan de la charte signée ici.](mailto:secretariat.eracom@vd.ch?subject=Charte%20Typoth&egrave;que)
+# ⬇️ Téléchargez, imprimez et signez [la charte](links/Eracom_Typotheque_Charte_v_2_0.pdf)
+# ↩️ Envoyez un scan de la charte signée [ici](mailto:secretariat.eracom@vd.ch?subject=Charte%20Typoth&egrave;que)
 
 La présente charte définit **les droits et les obligations** des utilisateur.trice.s de la typothèque de l’Ecole Romande d’Arts et Communication (Eracom). Elle s’applique à tous.tes les utilisateur.trice.s.
 
