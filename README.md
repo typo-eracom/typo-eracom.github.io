@@ -36,42 +36,42 @@ Une fonte désigne **l’ensemble des caractères** (contenu dans un fichier) co
 ### Glyphe
 Un glyphe est une **représentation graphique d'un signe typographique** (un symbole). Cela peut inclure non seulement les lettres et les chiffres, mais aussi les accents, les ligatures (comme « fi » ou « fl »), et d’autres symboles.
 ### Script
-Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police en fonction des glyphes présents au sein de celle-ci (on parle alors de son « jeux de caractères »). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
+Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police en fonction des glyphes présents au sein de celle-ci (on parle alors de son **« jeux de caractères »**). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
 
 # ✍🏻 Charte d’utilisation
 
 ![](/links/Eracom_Typotheque_Graphics_v42.jpg)
 
-La présente charte définit les droits et les obligations des utilisateur.trice.s de la typothèque de l’Ecole Romande d’Arts et Communication (Eracom). Elle s’applique à tous.tes les utilisateur.trice.s.
+La présente charte définit **les droits et les obligations** des utilisateur.trice.s de la typothèque de l’Ecole Romande d’Arts et Communication (Eracom). Elle s’applique à tous.tes les utilisateur.trice.s.
 
 ### 📖 Définitions
-- Par la mention typothèque de l’Eracom, on entend toutes les fontes mises à disposition des utilisateur.trice.s. par l’Eracom.
-- Une fonte est définie comme un ensemble de glyphes représentant les caractères d’un alphabet contenu dans un fichier digital (OTF, PS, TTF, WOFF, WOFF2, EOT, SVG, etc.).  Elle a à la fois un statut de design (œuvre) et de logiciel (programme informatique). À ce titre, les fontes sont protégées simultanément par le droit d’auteur et et le droit des logiciels.
-- Par utilisateur.trice, on entend tous les membres du personnel administratif et technique, les membres du corps enseignant, les étudiant.e.s de l’école ainsi que toute personne à qui la Direction de l’Ecole accorde un accès à la typothèque de l’Eracom.
+- Par la mention typothèque de l’Eracom, on entend **toutes les fontes** mises à disposition des utilisateur.trice.s. par l’Eracom.
+- Une fonte est définie comme un ensemble de glyphes représentant les caractères d’un alphabet contenu dans **un fichier digital** (OTF, PS, TTF, WOFF, WOFF2, EOT, SVG, etc.).  Elle a à la fois un **statut de design** (œuvre) et **de logiciel** (programme informatique). À ce titre, les fontes sont protégées simultanément par le **droit d’auteur** et et le **droit des logiciels**.
+- Par utilisateur.trice, on entend tous les membres du personnel administratif et technique, les membres du corps enseignant, les étudiant.e.s de l’école ainsi que **toute personne** à qui la Direction de l’Ecole accorde un accès à la typothèque de l’Eracom.
 
 ### ✅ Droits
-- Chaque utilisateur.trice a le droit d’utiliser les fontes de la typothèque. Toutefois, ce droit est limité exclusivement aux projets réalisés dans le cadre académique et n’inclut donc en aucun cas des projets personnels ou des mandats externes à l’école.
+- Chaque utilisateur.trice a le droit d’utiliser les fontes de la typothèque. Toutefois, ce droit est **limité exclusivement aux projets réalisés dans le cadre académique** et n’inclut donc en aucun cas des projets personnels ou des mandats externes à l’école.
 
 ### ⛔️ Restrictions
-- Le stockage des fontes sur des serveurs partagés tels que les serveurs de l’école, Teams, OneDrive, Dropbox, GoogleDrive, etc. est interdit.
-- La diffusion des fontes est interdite, même au sein de l’école : par exemple se transmettre des fontes entre élèves ou collègues via courriel, messagerie instantanée, airdrop, wetransfer, etc.
-- La modification des fontes est interdite : par exemple renommer une fonte, modifier ses tracés, son character-set, ses fonctionnalités opentype, son code, ou la convertir dans un autre format.
-- La copie des fontes est interdite : par exemple copier/coller des tracés ou une quelconque partie du logiciel.
+- Le **stockage** des fontes sur des serveurs partagés tels que les serveurs de l’école, Teams, OneDrive, Dropbox, GoogleDrive, etc. est interdit.
+- La **diffusion** des fontes est interdite, même au sein de l’école : par exemple se transmettre des fontes entre élèves ou collègues via courriel, messagerie instantanée, airdrop, wetransfer, etc.
+- La **modification** des fontes est interdite : par exemple renommer une fonte, modifier ses tracés, son character-set, ses fonctionnalités opentype, son code, ou la convertir dans un autre format.
+- La **copie** des fontes est interdite : par exemple copier/coller des tracés ou une quelconque partie du logiciel.
 
 ### ☝🏻 Obligations
-- La supression de toutes les fontes de la Typothèque par l’utilisateur.trice à la fin ou en cas d’interuption de son cursus est obligatoire.
+- La **supression** de toutes les fontes de la Typothèque par l’utilisateur.trice à la fin ou en cas d’interuption de son cursus est obligatoire.
 
 ### 🚨 Violation
-Une violation des principes énoncés plus haut peut entraîner le retrait de l’accès aux ressources. En outre, les abus seront dénoncés aux autorités académiques et/ou administratives compétentes en vue de sanctions disciplinaires. Sont réservés le remboursement des frais résultant de l’utilisation abusive et de son identification ainsi que d’éventuelles poursuites judiciaires.
+Une violation des principes énoncés plus haut peut entraîner le **retrait de l’accès aux ressources**. En outre, les abus seront **dénoncés aux autorités** académiques et/ou administratives compétentes en vue de **sanctions disciplinaires**. Sont réservés le remboursement des frais résultant de l’utilisation abusive et de son identification ainsi que d’éventuelles poursuites judiciaires.
 
 ![](http://eracom-typotheque.github.io/links/graphics/Eracom_Typotheque_Graphics4.jpg)
 
 # 🗂️ Classification
 
-Dans le cadre des activités professionnelles des graphistes, un système de classification se révèle utile pour identifier, sélectionner et combiner les polices de caractères ainsi que justifier leur usage en fonction du contexte (sémiotique).
+Dans le cadre des activités professionnelles des graphistes, un système de classification se révèle utile pour identifier, **sélectionner et combiner** les polices de caractères ainsi que **justifier** leur usage en fonction du contexte (sémiotique).
 
 ### Historique
-La classification selon le «principe historique»[^1] (classification Vox adaptée) est une méthode de classification pédagogique des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à l'histoire de l'écriture et l'évolution des technologies.
+La classification selon le **«principe historique»[^1]** (classification Vox adaptée) est une méthode de **classification pédagogique** des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à **l'histoire de l'écriture et l'évolution des technologies**.
 
 ![](/links/Eracom_Typotheque_Graphics_v47.jpg)
 
@@ -111,7 +111,7 @@ La classification selon le «principe historique»[^1] (classification Vox adapt
 [^1]: Illustration tirée du livre *Type, Sign, Symbol* de Adrian Frutiger (1980).
 
 ### Formelle
-La classification selon le «principe de forme»[^2] (classification Kupferschmid adaptée) est une méthode de classification fonctionnelle des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
+La classification selon le **«principe de forme»[^2]** (classification Kupferschmid adaptée) est une méthode de **classification fonctionnelle** des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
 
 ![](/links/Eracom_Typotheque_Graphics_v49.jpg)
 
@@ -168,10 +168,10 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 ![](/links/Eracom_Typotheque_Graphics_v45.jpg)
 
 ### Classique
-Cette catégorie inclut les digitalisations des fontes classiques de l'histoire de la typographie, qui datent d’avant l'ère digitale. La digitalisation fait référence au processus de conversion d’une police de caractères physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur conversion en courbes vectorielles, ce qui permet une mise à l’échelle sans perte de qualité.
+Cette catégorie inclut les **digitalisations des fontes classiques** de l'histoire de la typographie, qui datent d’**avant l'ère digitale**. La digitalisation fait référence au processus de conversion d’une police de caractères physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur **conversion en courbes vectorielles**, ce qui permet une mise à l’échelle sans perte de qualité.
 
 ### Moderne
-Cette catégorie inclut les fontes contemporaines qui ont été conçues à partir du début du XXIe siècle. Ces fontes résultent soit d’une réinterprétation d’un classique, soit d'un design original. La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design dans le but de l’adapter à un contexte spécifique. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste, l’espacement ou même le character-set.
+Cette catégorie inclut les **fontes contemporaines** qui ont été conçues **à partir du début du XXIe siècle**. Ces fontes résultent soit d’une réinterprétation d’un classique, soit d'un design original. La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design dans le but de l’adapter à un contexte spécifique. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste, l’espacement ou même le character-set.
 
 # 📄 Formats
 
@@ -182,27 +182,27 @@ Cette catégorie inclut les fontes contemporaines qui ont été conçues à part
 ### Desktop
 OTF, TTF
 
-Les polices destinées à un usage desktop sont installées localement sur l’ordinateur d’un utilisateur et utilisées dans des logiciels comme les applications de traitements de texte (Word, Pages,…) et de mise en page (InDesign, Illustrator,…).
+Les polices destinées à un usage desktop sont installées localement sur l’ordinateur d’un utilisateur et utilisées dans des logiciels comme les **applications de traitements de texte** (Word, Pages,…) et de mise en page (InDesign, Illustrator,…).
 
 ### Web
 WOFF, WOFF2, EOT
 
-Les polices destinées à un usage web sont compressées pour être utilisées directement sur des sites internet grâce à des langages comme le HTML et le CSS. Elles sont hébergées sur un serveur et chargées par le navigateur des utilisateurs lorsqu’ils visitent une page web.
+Les polices destinées à un usage web sont compressées pour être utilisées directement **sur des sites internet** grâce à des langages comme le HTML et le CSS. Elles sont hébergées sur un serveur et chargées par le navigateur des utilisateurs lorsqu’ils visitent une page web.
 
 ### Variable
 OTF, TTF, WOFF, WOFF2
 
-Les polices variables sont une nouvelle technologie qui permet d’inclure plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l'animation vidéo.
+Les polices variables sont une nouvelle technologie qui permet d’inclure **plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police**. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l'animation vidéo.
 
 # 🔗 Licenses
 
-Le type de license est toujours spécifié et précisé dans l’EULA (End User License Agreement). C'est un contrat qui définit les conditions d’utilisation des police par l’utilisateur.rice final. Il précise ce que l’utilisateur est autorisé à faire (comme installer la police sur un nombre limité d’ordinateurs, l’utiliser pour des projets imprimés ou web) et ce qui est interdit (comme redistribuer, modifier, ou copier les polices).
+Le type de license est toujours spécifié et précisé dans **l’EULA (End User License Agreement)**. C'est un contrat qui définit les conditions d’utilisation des police par l’utilisateur.rice final. Il précise ce que l’utilisateur est **autorisé** à faire (comme installer la police sur un nombre limité d’ordinateurs, l’utiliser pour des projets imprimés ou web) et ce qui est **interdit** (comme redistribuer, modifier, ou copier les polices).
 
 ### Propriétaire
-Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le droit d’utiliser une fonte, mais sans en posséder le code source ou les droits de modification et de redistribution. Les restrictions sont souvent strictes: l’utilisateur.rice ne peut pas copier, modifier, ni partager le produit sans autorisation explicite.
+Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le **droit d’utiliser une fonte, mais sans en posséder le code source ou les droits de modification et de redistribution**. Les restrictions sont souvent strictes: l’utilisateur.rice ne peut pas copier, modifier, ni partager le produit sans autorisation explicite.
 
 ### Libre
-Une licence libre (open-source) permet généralement à l’utilisateur.rice d’utiliser, copier, modifier et redistribuer une fonte, souvent de manière gratuite et sans restriction. Elle garantit l’accès au code source et la liberté de l’adapter selon les besoins. Néamoins, il est toujours nécessaire d'aller vérifier ce qui est autorisé dans le contrat de license.
+Une licence libre (open-source) **permet généralement à l’utilisateur.rice d’utiliser, copier, modifier et redistribuer une fonte, souvent de manière gratuite et sans restriction**. Elle garantit l’accès au code source et la liberté de l’adapter selon les besoins. Néamoins, il est toujours nécessaire d'aller vérifier ce qui est autorisé dans le contrat de license.
 
 # ⚙️ Installation (check-in)
 
@@ -409,7 +409,7 @@ td.tabular {
 ```
 # 📁 Assemblage
 
-L'assemblage (InDesign, website, installation sur Figma) des fontes **n'est pas autorisé**: chaque utilisateur.rice peut ouvrir un fichier de design en activant les polices requises dans sa propre typothèque. En revanche, le transfert d'un fichier d'export statique est possible.
+L'assemblage (InDesign, website, installation sur Figma) des fontes **n'est pas autorisé**: chaque utilisateur.rice peut ouvrir un fichier de design en **activant les polices requises dans sa propre typothèque**. En revanche, le transfert d'un fichier d'**export statique** est possible.
 
 |![](/links/8_Package.gif)                  |
 |:---:|
