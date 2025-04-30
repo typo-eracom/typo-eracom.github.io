@@ -12,7 +12,7 @@
 - [Usage desktop](#-usage-desktop)
 - [Usage web](#-usage-web)
 - [Assemblage](#-assemblage)
-- [Supression](#-supression-check-out)
+- [Suppression](#-suppression-check-out)
 - [Tags](#%EF%B8%8F-tags)
 - [Catalogue](#-catalogue)
 - [Sources](#-sources)
@@ -56,12 +56,12 @@ La présente charte définit **les droits et les obligations** des utilisateur.t
 
 ### ⛔️ Restrictions
 - Le **stockage** des fontes sur des serveurs partagés tels que les serveurs de l’école, Teams, OneDrive, Dropbox, GoogleDrive, etc. est interdit.
-- La **diffusion** des fontes est interdite, même au sein de l’école : par exemple se transmettre des fontes entre élèves ou collègues via courriel, messagerie instantanée, airdrop, wetransfer, etc.
+- La **diffusion** des fontes est interdite, même au sein de l’école : par exemple se transmettre des fontes entre élèves ou collègues via courriel, messagerie instantanée, Airdrop, WeTransfer, etc.
 - La **modification** des fontes est interdite : par exemple renommer une fonte, modifier ses tracés, son character-set, ses fonctionnalités opentype, son code, ou la convertir dans un autre format.
 - La **copie** des fontes est interdite : par exemple copier/coller des tracés ou une quelconque partie du logiciel.
 
 ### ☝🏻 Obligations
-- La **supression** de toutes les fontes de la Typothèque par l’utilisateur.trice à la fin ou en cas d’interuption de son cursus est obligatoire.
+- La **suppression** de toutes les fontes de la Typothèque par l’utilisateur.trice à la fin ou en cas d’interuption de son cursus est obligatoire.
 
 ### 🚨 Violation
 Une violation des principes énoncés plus haut peut entraîner le **retrait de l’accès aux ressources**. En outre, les abus seront **dénoncés aux autorités** académiques et/ou administratives compétentes en vue de **sanctions disciplinaires**. Sont réservés le remboursement des frais résultant de l’utilisation abusive et de son identification ainsi que d’éventuelles poursuites judiciaires.
@@ -417,7 +417,7 @@ L'assemblage (InDesign, website, installation sur Figma) des fontes **n'est pas 
 |:---:|
 | Possibilités de transfert de fichiers |
 
-# 🔥 Supression (check-out)
+# 🔥 Suppression (check-out)
 
 ## Chaque utilisateur.rice s'engage à supprimer tous les fichiers de fontes à la fin de son cursus.
 
