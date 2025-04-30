@@ -32,7 +32,7 @@ Une typothèque est une collection organisée de **polices**.
 ### Police
 Une police désigne un **ensemble de fontes** (un dossier de fontes) qui partagent une identité commune (« le même squelette »). Une police inclut toutes les variations possibles (gras, italique, etc.) d’une même **famille** de fontes.
 ### Fonte
-Une fonte désigne **l’ensemble des glyphes** (contenu dans un fichier) correspondant aux mêmes caractéristiques (de style) au sein d’une même police (on peut aussi parler d'un caractère). Par exemple, la police « Times », inclut notamment les fontes « Times Regular », « Times Bold », ou « Times Italic ».
+Une fonte désigne **l’ensemble des glyphes** (contenu dans un fichier) correspondant aux mêmes caractéristiques (de style) au sein d’une même police (on peut aussi parler d’un caractère). Par exemple, la police « Times », inclut notamment les fontes « Times Regular », « Times Bold », ou « Times Italic ».
 ### Glyphe
 Un glyphe est **un signe typographique** (un symbole). Cela peut inclure non seulement les lettres et les chiffres, mais aussi les accents, les ligatures (comme « fi » ou « fl »), et d’autres symboles.
 ### Script
@@ -73,7 +73,7 @@ Une violation des principes énoncés ci-dessus peut entraîner le **retrait de 
 Dans le cadre des activités professionnelles des graphistes, un système de classification se révèle utile pour identifier, **sélectionner et combiner** les polices de caractères ainsi que **justifier** leur usage en fonction du contexte (sémiotique).
 
 ### Historique
-La classification selon le **«principe historique»[^1]** (classification Vox adaptée) est une méthode de **classification pédagogique** des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à **l'histoire de l'écriture et l'évolution des technologies**.
+La classification selon le **«principe historique»[^1]** (classification Vox adaptée) est une méthode de **classification pédagogique** des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à **l’histoire de l’écriture et l’évolution des technologies**.
 
 ![](/links/Eracom_Typotheque_Graphics_v47.jpg)
 
@@ -106,7 +106,7 @@ La classification selon le **«principe historique»[^1]** (classification Vox a
 8. **Expressives**  
    *Composition en grands corps (aussi décoratives)*
 9. **Hybrides**  
-   *Variations de contrastes et de terminaisons au sein d'une même police*
+   *Variations de contrastes et de terminaisons au sein d’une même police*
 10. **Non-Latines**  
    *Composition digitale (symboles: ornements (Dingbats) & mathématiques (Pi))*
 
@@ -151,11 +151,11 @@ La classification selon le **«principe de forme»[^2]** (classification Kupfers
 
 En se basant sur la classification formelle de Indra Kupferschmid, on peut faire les remarques suivantes concernant les combinaisons:
 
-- Les fontes du même modèle s'accordent bien
-- Les fontes de modèles différents qui partagent le même contraste et les mêmes terminaisons ne s'accordent pas bien
-- Les fontes de modèles différents s'accordent bien seulement si elles sont éloignées dans le tableau (plus qu'une colonne d'écart)
+- Les fontes du même modèle s’accordent bien
+- Les fontes de modèles différents qui partagent le même contraste et les mêmes terminaisons ne s’accordent pas bien
+- Les fontes de modèles différents s’accordent bien seulement si elles sont éloignées dans le tableau (plus qu’une colonne d’écart)
 
-Ce système est un point de départ, il n'y a pas de règles absolues en matière de design. Il est nécesaire d'affiner les combinaisons en prenant en compte le contexte de votre projet, notamment les points suivants:
+Ce système est un point de départ, il n’y a pas de règles absolues en matière de design. Il est nécesaire d’affiner les combinaisons en prenant en compte le contexte de votre projet, notamment les points suivants:
 
 - la concordance des proportions (hauteur de x, hauteur des capitales)
 - les hiérarchies
@@ -170,10 +170,10 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 ![](/links/Eracom_Typotheque_Graphics_v45.jpg)
 
 ### Classique
-Cette catégorie inclut les **digitalisations des fontes classiques** de l'histoire de la typographie, qui datent d’**avant l'ère digitale**. La digitalisation fait référence au processus de conversion d’une police de caractères physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur **conversion en courbes vectorielles**, ce qui permet une mise à l’échelle sans perte de qualité.
+Cette catégorie inclut les **digitalisations des fontes classiques** de l’histoire de la typographie, qui datent d’**avant l’ère digitale**. La digitalisation fait référence au processus de conversion d’une police de caractères physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur **conversion en courbes vectorielles**, ce qui permet une mise à l’échelle sans perte de qualité.
 
 ### Moderne
-Cette catégorie inclut les **fontes contemporaines** qui ont été conçues **à partir du début du XXIe siècle**. Ces fontes résultent soit d’une réinterprétation d’un classique, soit d'un design original. La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design dans le but de l’adapter à un contexte spécifique. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste, l’espacement ou même le character-set.
+Cette catégorie inclut les **fontes contemporaines** qui ont été conçues **à partir du début du XXIe siècle**. Ces fontes résultent soit d’une réinterprétation d’un classique, soit d’un design original. La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design dans le but de l’adapter à un contexte spécifique. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste, l’espacement ou même le character-set.
 
 # 📄 Formats
 
@@ -194,30 +194,31 @@ Les polices destinées à un usage web sont compressées pour être utilisées d
 ### Variable
 OTF, TTF, WOFF, WOFF2
 
-Les polices variables sont une nouvelle technologie qui permet d’inclure **plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police**. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l'animation vidéo.
+Les polices variables sont une nouvelle technologie qui permet d’inclure **plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police**. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l’animation vidéo.
 
 # 🔗 Licenses
 
-Le type de license est toujours spécifié et précisé dans **l’EULA (End User License Agreement)**. C'est un contrat qui définit les conditions d’utilisation des police par l’utilisateur.rice final. Il précise ce que l’utilisateur est **autorisé** à faire (comme installer la police sur un nombre limité d’ordinateurs, l’utiliser pour des projets imprimés ou web) et ce qui est **interdit** (comme redistribuer, modifier, ou copier les polices).
+Le type de license est toujours spécifié et précisé dans **l’EULA (End User License Agreement)**. C’est un contrat qui définit les conditions d’utilisation des police par l’utilisateur.rice final. Il précise ce que l’utilisateur est **autorisé** à faire (comme installer la police sur un nombre limité d’ordinateurs, l’utiliser pour des projets imprimés ou web) et ce qui est **interdit** (comme redistribuer, modifier, ou copier les polices).
 
 ### Propriétaire
 Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le **droit d’utiliser une fonte, mais sans en posséder le code source ou les droits de modification et de redistribution**. Les restrictions sont souvent strictes: l’utilisateur.rice ne peut pas copier, modifier, ni partager le produit sans autorisation explicite.
 
 ### Libre
-Une licence libre (open-source) **permet généralement à l’utilisateur.rice d’utiliser, copier, modifier et redistribuer une fonte, souvent de manière gratuite et sans restriction**. Elle garantit l’accès au code source et la liberté de l’adapter selon les besoins. Néamoins, il est toujours nécessaire d'aller vérifier ce qui est autorisé dans le contrat de license.
+Une licence libre (open-source) **permet généralement à l’utilisateur.rice d’utiliser, copier, modifier et redistribuer une fonte, souvent de manière gratuite et sans restriction**. Elle garantit l’accès au code source et la liberté de l’adapter selon les besoins. Néamoins, il est toujours nécessaire d’aller vérifier ce qui est autorisé dans le contrat de license.
 
 # ⚙️ Installation (check-in)
 
-## Réception des fichiers après signature de la charte pour toute la classe.
+## ⚠️ Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.
+## ⚠️ Assurez-vous de supprimer tous les fichiers sources issus d’une installation précédente.
 
 ### Livre des polices
 
-Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'installer un logiciel de gestion des fontes. Un tel outil permet notamment:
+Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d’installer un logiciel de gestion des fontes. Un tel outil permet notamment:
 - installer des fontes disponibles pour toutes les applications
 - activer et désactiver les fontes selon les besoins (pour ne pas surcharger le système)
 - organiser et trier les fontes et polices selon des critères
 - visualiser, examiner et comparer les fontes facilement dans le but de faire une sélection
-- gérer et assurer un suivi de licences (notamment vérifier la conformité entre l’utilisation d'une fonte et sa license)
+- gérer et assurer un suivi de licences (notamment vérifier la conformité entre l’utilisation d’une fonte et sa license)
 - détecter et corriger tout type de problème (par ex. fontes manquantes, fichiers de fontes corrompus, doublons, etc.)
 
 1. Créer les 9 collections suivantes
@@ -292,7 +293,7 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d'inst
 
 |![](/links/6_Tags.gif)                  |
 |:---:|
-| Afficher les tags d'une fonte |
+| Afficher les tags d’une fonte |
 
 |![](/links/7_Tags_Filter.gif)                  |
 |:---:|
@@ -411,7 +412,7 @@ td.tabular {
 ```
 # 📁 Assemblage
 
-L'assemblage (InDesign, website, installation sur Figma) des fontes **n'est pas autorisé**: chaque utilisateur.rice peut ouvrir un fichier de design en **activant les polices requises dans sa propre typothèque**. En revanche, le transfert d'un fichier d'**export statique** est possible.
+L’assemblage (InDesign, website, installation sur Figma) des fontes **n’est pas autorisé**: chaque utilisateur.rice peut ouvrir un fichier de design en **activant les polices requises dans sa propre typothèque**. En revanche, le transfert d’un fichier d’**export statique** est possible.
 
 |![](/links/8_Package.gif)                  |
 |:---:|
@@ -419,7 +420,7 @@ L'assemblage (InDesign, website, installation sur Figma) des fontes **n'est pas 
 
 # 🔥 Suppression (check-out)
 
-## Chaque utilisateur.rice s'engage à supprimer tous les fichiers de fontes à la fin de son cursus.
+## Chaque utilisateur.rice s’engage à supprimer tous les fichiers de fontes à la fin de son cursus.
 
 1. Aller > Se rendre au dossier
 2. Copier le chemin suivant (Macintosh HD > Users > *YourName* > Bibliothèque > Fonts)
