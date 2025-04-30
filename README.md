@@ -6,7 +6,7 @@
 - [Charte d’utilisation](#-charte-dutilisation)
 - [Classification](#%EF%B8%8F-classification)
 - [Typologie](#-typologie)
-- [Extensions](#-extensions)
+- [Formats](#-formats)
 - [Licenses](#-licenses)
 - [Installation](#-installation-check-in)
 - [Usage desktop](#-usage-desktop)
