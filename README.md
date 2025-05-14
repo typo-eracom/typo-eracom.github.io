@@ -2,20 +2,20 @@
 
 # 📋 Table des matières
 
-- [Terminologie](#-terminologie)
-- [Charte d’utilisation](#-charte-dutilisation)
+- [Terminologie](#terminologie)
+- [Charte d’utilisation](#charte-dutilisation)
 - [Classification](#%EF%B8%8F-classification)
-- [Typologie](#-typologie)
-- [Formats](#-formats)
-- [Licenses](#-licenses)
-- [Installation](#-installation-check-in)
-- [Usage desktop](#-usage-desktop)
-- [Usage web](#-usage-web)
-- [Assemblage](#-assemblage)
-- [Suppression](#-suppression-check-out)
-- [Tags](#%EF%B8%8F-tags)
-- [Catalogue](#-catalogue)
-- [Sources](#-sources)
+- [Typologie](#typologie)
+- [Formats](#formats)
+- [Licenses](#licenses)
+- [Installation](#installation-check-in)
+- [Usage desktop](#usage-desktop)
+- [Usage web](#usage-web)
+- [Assemblage](#assemblage)
+- [Suppression](#suppression-check-out)
+- [Tags](#tags)
+- [Catalogue](#catalogue)
+- [Sources](#sources)
 
 # ☎️ Contact
 
