@@ -8,7 +8,7 @@
 - [Typologie](#-typologie)
 - [Formats](#-formats)
 - [Licenses](#-licenses)
-- [Installation](#-installation-check-in)
+- [Installation](#%EF%B8%8F-installation-check-in)
 - [Usage desktop](#-usage-desktop)
 - [Usage web](#-usage-web)
 - [Assemblage](#-assemblage)
