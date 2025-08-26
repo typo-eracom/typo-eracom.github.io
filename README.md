@@ -432,6 +432,10 @@ L’assemblage (InDesign, website, installation sur Figma) des fontes **n’est 
 3. Coller le chemin > Enter
 4. Supprimer toutes les fontes qui appartiennent au catalogue de la typothèque.
 
+|![](/links/erase_fonts.gif)                  |
+|:---:|
+| Supprimer les fontes éracom |
+
 ![](/links/Eracom_Typotheque_Graphics_v44.jpg)
 
 # ➡️ Tags
