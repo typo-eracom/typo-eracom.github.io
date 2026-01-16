@@ -211,7 +211,7 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 ## ⚠️ Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.
 ## ⚠️ Assurez-vous de supprimer tous les fichiers sources issus d’une installation précédente.
 
-### Livre des polices
+<!-- ### Livre des polices
 
 Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d’installer un logiciel de gestion des fontes. Un tel outil permet notamment:
 - installer des fontes disponibles pour toutes les applications
@@ -283,7 +283,48 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d’in
 
 |![](/links/5_Activate.gif)                  |
 |:---:|
-| Activer une fonte |
+| Activer une fonte | -->
+
+### Télécharger
+
+1. Signer la charte de la [charte d’utilisation](#-charte-dutilisation)
+2. Une fois votre signature validée, vous recevrez un accès OneDrive au dossier complet de la typothèque (.zip)
+3. Télécharger et décompresser le dossier
+4. Placer le dossier à la racine de votre dossier Eracom
+
+### Prévisualiser
+
+## ⬇️ Téléchargez [Font Goggles](https://fontgoggles.org).
+
+1. Choisir un dossier de polices (contenant des fichiers fontes directement, ‼️ sans sous-dossier)
+2. Glisser le dossier dans de polices Font Goggles (vous pouvez en glisser plusieurs)
+3. Enregistrer le fichier de prévisualisation Font Goggles dans votre arborescence de projet
+
+|![](/links/Font_Goggles.png)                  |
+|:---:|
+| Prévisualisation dans Font Goggles |
+
+### Activer
+
+1. Une fois la / les familles de polices sélectionnées dans Font Goggles
+2. Dossier > Clic droit > Dupliquer
+3. Déplacer le/les dossiers dupliqués dans le dossier *Fonts* de Adobe
+4. Les polices sont immédiatement disponibles dans toutes les applications de la Suite Adobe
+5. Quand vous ne les utilisez plus, supprimez simplement les dossiers de polices du dossier *Fonts* de Adobe (‼️ mais garder les originaux dans le dossier typothèque jusqu'à la fin du cursus)
+
+```
+Macintosh HD > Library > Application Support > Adobe > Fonts
+```
+
+## ➡️ Gardez un signet dans le finder de l'emplacement de ce dossier
+
+|![](/links/Adobe_Fonts.png)                  |
+|:---:|
+| Dossier Fonts de Adobe |
+
+|![](/links/6_Tags.gif)                  |
+|:---:|
+| Afficher les tags d’une fonte |
 
 ### Informations complémentaires grâce aux tags
 
