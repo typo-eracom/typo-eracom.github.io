@@ -318,7 +318,7 @@ Macintosh HD > Library > Application Support > Adobe > Fonts
 
 ## ➡️ Gardez un signet dans le finder de l'emplacement de ce dossier
 
-|![](/links/Adobe_Fonts.png)                  |
+|![](/links/Adobe_Fonts_Folder.png)                  |
 |:---:|
 | Dossier Fonts de Adobe |
 
