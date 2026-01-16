@@ -322,10 +322,6 @@ Macintosh HD > Library > Application Support > Adobe > Fonts
 |:---:|
 | Dossier Fonts de Adobe |
 
-|![](/links/6_Tags.gif)                  |
-|:---:|
-| Afficher les tags d’une fonte |
-
 ### Informations complémentaires grâce aux tags
 
 1. Choisir une fonte
