@@ -332,9 +332,9 @@ Macintosh HD > Library > Application Support > Adobe > Fonts
 2. Clic droit > Afficher dans le finder
 3. Fichier > Afficher les informations (⌘ + I)
 
-|![](/links/6_Tags.gif)                  |
+<!-- |![](/links/6_Tags.gif)                  |
 |:---:|
-| Afficher les tags d’une fonte |
+| Afficher les tags d’une fonte | -->
 
 |![](/links/7_Tags_Filter.gif)                  |
 |:---:|
