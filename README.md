@@ -21,7 +21,7 @@
 
 ### [typo.eracom@eduvaud.ch](mailto:typo.eracom@eduvaud.ch)
 
-# 🧩 Terminologie
+# 🌐 Terminologie
 
 |![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
 |:---:|
