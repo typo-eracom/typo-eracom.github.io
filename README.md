@@ -60,7 +60,7 @@ details.drawer[open] > summary::after {
 - [Catalogue](#-catalogue)
 - [Sources](#-sources) -->
 
-# ☎️ [typo.eracom@eduvaud.ch](mailto:typo.eracom@eduvaud.ch)
+# ☎️ [Support](mailto:typo.eracom@eduvaud.ch)
 
 # 🔍 [Spécimens](https://fontes.eracom.ch)
 
