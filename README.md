@@ -113,6 +113,8 @@ details.drawer[open] > summary::after {
 <details class="drawer" markdown="1">
 <summary>🌐 Terminologie</summary>
 
+&nbsp;
+
 |![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
 |:---:|
 | Terminologie |
