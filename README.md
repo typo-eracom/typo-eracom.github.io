@@ -17,10 +17,10 @@ details.drawer > summary {
 
   /* Mimic markdown H1 */
   font-size: 2em;
-  font-weight: 600;
+  font-weight: 400;
   line-height: 1.25;
   margin-top: 24px;
-  margin-bottom: 16px;
+  margin-bottom: 0px;
   padding-bottom: 0.3em;
   border-bottom: 1px solid #eaecef;
 }
