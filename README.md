@@ -367,8 +367,8 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 
 <div class="section-title-padding"></div>
 
-### Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.
-### Assurez-vous de supprimer tous les fichiers sources issus d’une installation précédente.
+### [x] Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.
+### [x] Assurez-vous de supprimer tous les fichiers sources issus d’une installation précédente.
 
 <!-- ### Livre des polices
 
@@ -457,11 +457,10 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d’in
 
 ### Prévisualiser
 
-### Téléchargez [Font Goggles](https://fontgoggles.org).
-
-1. Choisir un dossier de polices (contenant des fichiers fontes directement, ‼️ sans sous-dossier)
-2. Glisser le dossier dans de polices Font Goggles (vous pouvez en glisser plusieurs)
-3. Enregistrer le fichier de prévisualisation Font Goggles dans votre arborescence de projet
+1. Téléchargez [Font Goggles](https://fontgoggles.org).
+2. Choisir un dossier de polices (contenant des fichiers fontes directement, ‼️ sans sous-dossier)
+3. Glisser le dossier dans de polices Font Goggles (vous pouvez en glisser plusieurs)
+4. Enregistrer le fichier de prévisualisation Font Goggles dans votre arborescence de projet
 
 |![](/links/Font_Goggles.png)                  |
 |:---:|
