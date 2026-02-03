@@ -240,7 +240,7 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 | :--------------------------------: |
 | Prévisualisation dans Font Goggles |
 
-### Activer dans la suite Adobe
+### Activer dans Adobe Creative Suite
 
 1. Une fois la / les familles de polices sélectionnées dans Font Goggles
 2. Dossier > Clic droit > Dupliquer
