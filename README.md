@@ -562,7 +562,7 @@ L’assemblage (InDesign, website, installation sur Figma) des fontes **n’est 
 
 <a id="-tags"></a>
 <details class="drawer" markdown="1">
-<summary>➡️ Tags</summary>
+<summary>🏷️ Tags</summary>
 
 Grâce aux tags sur mac, il est possible filtrer  les fontes en fonction de critères de recherche directement dans le finder.
 Sur windows, il faut se référer au tableau du catalogue ci-dessous.
@@ -583,7 +583,7 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 
 <a id="-catalogue"></a>
 <details class="drawer" markdown="1">
-<summary>🔠 Catalogue</summary>
+<summary>🧰 Catalogue</summary>
 
 | Police         | é_Hst | é_ForP | é_ForC           | é_ForT        | é_Typ                 | é_Lic                 | é_Ext                 |
 |:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
