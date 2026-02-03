@@ -50,6 +50,19 @@ details.drawer[open] > summary::after {
 .section-title-padding {
   margin-top: 20px;
 }
+/* H1 links (Support / Spécimens): black, no default link styling, add outgoing arrow */
+.h1-link a {
+  color: inherit;
+  text-decoration: none;
+}
+.h1-link a:hover {
+  text-decoration: underline;
+}
+.h1-link a::after {
+  content: " ↗";
+  font-size: 0.85em;
+  font-weight: 600;
+}
 </style>
 <script>
 (function () {
@@ -108,9 +121,10 @@ details.drawer[open] > summary::after {
 - [Catalogue](#-catalogue)
 - [Sources](#-sources) -->
 
-# ☎️ [Support](mailto:typo.eracom@eduvaud.ch)
 
-# 🔍 [Spécimens](https://fontes.eracom.ch)
+<h1 class="h1-link">☎️ <a href="mailto:typo.eracom@eduvaud.ch" target="_blank" rel="noopener">Support</a></h1>
+
+<h1 class="h1-link">🔍 <a href="https://fontes.eracom.ch" target="_blank" rel="noopener">Spécimens</a></h1>
 
 <a id="-terminologie"></a>
 <details class="drawer" markdown="1">
