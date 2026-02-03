@@ -22,7 +22,7 @@
 ### [typo.eracom@eduvaud.ch](mailto:typo.eracom@eduvaud.ch)
 
 <a id="-terminologie"></a>
-<details>
+<details markdown="1">
 <summary>🌐 Terminologie</summary>
 
 |![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
@@ -40,10 +40,10 @@ Un glyphe est **un signe typographique** (un symbole). Cela peut inclure non seu
 ### Script
 Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police **en fonction des glyphes** présents au sein de celle-ci (on parle alors de son « jeu de caractères »). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
 
- </details>
+</details>
 
 <a id="-charte-dutilisation"></a>
-<details>
+<details markdown="1">
 <summary>✍🏻 Charte d’utilisation</summary>
 ## ↪️ Téléchargez, imprimez et signez [la charte](links/Eracom_Charte_Typotheque_v2_0.pdf).
 ## 🔁 Envoyez un scan de la charte signée [ici](mailto:secretariat.eracom@vd.ch?subject=Charte%20Typoth&egrave;que).
@@ -74,10 +74,10 @@ Une violation des principes énoncés ci-dessus peut entraîner le **retrait de 
 
 ![](http://eracom-typotheque.github.io/links/graphics/Eracom_Typotheque_Graphics4.jpg)
 
- </details>
+</details>
 
 <a id="-classification"></a>
-<details>
+<details markdown="1">
 <summary>🗂️ Classification</summary>
 
 Dans le cadre des activités professionnelles des graphistes, un système de classification se révèle utile pour identifier, **sélectionner et combiner** les polices de caractères ainsi que **justifier** leur usage en fonction du contexte (sémiotique).
@@ -175,10 +175,10 @@ Ce système est un point de départ, il n’y a pas de règles absolues en mati�
 - les character-sets
 - etc.
   
- </details>
+</details>
 
 <a id="-typologie"></a>
-<details>
+<details markdown="1">
 <summary>🧬 Typologie</summary>
 
 ![](/links/Eracom_Typotheque_Graphics_v45.jpg)
@@ -189,10 +189,10 @@ Cette catégorie inclut les **digitalisations des fontes classiques** de l’his
 ### Revival Moderne
 Cette catégorie inclut les **fontes contemporaines** qui ont été conçues **à partir du début du XXIe siècle**. Ces fontes résultent soit d’une réinterprétation d’un classique, soit d’un design original. La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design dans le but de l’adapter à un contexte spécifique. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste, l’espacement ou même le character-set.
 
- </details>
+</details>
 
 <a id="-formats"></a>
-<details>
+<details markdown="1">
 <summary>📄 Formats</summary>
 
 |![](/links/Eracom_Typotheque_Graphics_v421.jpg)                  |
@@ -214,10 +214,10 @@ OTF, TTF, WOFF, WOFF2
 
 Les polices variables sont une nouvelle technologie qui permet d’inclure **plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police**. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l’animation vidéo.
 
- </details>
+</details>
 
 <a id="-licenses"></a>
-<details>
+<details markdown="1">
 <summary>🔗 Licenses</summary>
 
 Le type de license est toujours spécifié et précisé dans **l’EULA (End User License Agreement)**. C’est un contrat qui définit les conditions d’utilisation des police par l’utilisateur.rice final. Il précise ce que l’utilisateur est **autorisé** à faire (comme installer la police sur un nombre limité d’ordinateurs, l’utiliser pour des projets imprimés ou web) et ce qui est **interdit** (comme redistribuer, modifier, ou copier les polices).
@@ -228,10 +228,10 @@ Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le 
 ### Libre
 Une licence libre (open-source) **permet généralement à l’utilisateur.rice d’utiliser, copier, modifier et redistribuer une fonte, souvent de manière gratuite et sans restriction**. Elle garantit l’accès au code source et la liberté de l’adapter selon les besoins. Néamoins, il est toujours nécessaire d’aller vérifier ce qui est autorisé dans le contrat de license.
 
- </details>
+</details>
 
 <a id="-installation-check-in"></a>
-<details open>
+<details open markdown="1">
 <summary>⚙️ Installation (check-in)</summary>
 
 ## ⚠️ Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.
@@ -269,10 +269,10 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d’in
 
 ![](/links/Eracom_Typotheque_Graphics_v43.jpg)
 
- </details>
+</details>
 
 <a id="-usage-desktop"></a>
-<details>
+<details markdown="1">
 <summary>👩🏼‍💻 Usage Desktop</summary>
 
 ### Choisir une fonte
@@ -366,10 +366,10 @@ Macintosh HD > Library > Application Support > Adobe > Fonts
 |:---:|
 | Filtrer les fichiers de fontes grâce aux tags |
 
- </details>
+</details>
 
 <a id="-usage-web"></a>
-<details>
+<details markdown="1">
 <summary>🌐 Usage Web</summary>
 
 Remplacer *MyFont* par le nom de votre fichier.
@@ -481,10 +481,10 @@ td.tabular {
   font-weight: 800; 
 }
 ```
- </details>
+</details>
 
 <a id="-assemblage"></a>
-<details>
+<details markdown="1">
 <summary>📁 Assemblage</summary>
 
 L’assemblage (InDesign, website, installation sur Figma) des fontes **n’est pas autorisé**: chaque utilisateur.rice peut ouvrir un fichier de design en **activant les polices requises dans sa propre typothèque**. En revanche, le transfert d’un fichier d’**export statique** est possible.
@@ -493,10 +493,10 @@ L’assemblage (InDesign, website, installation sur Figma) des fontes **n’est 
 |:---:|
 | Possibilités de transfert de fichiers |
 
- </details>
+</details>
 
 <a id="-suppression-check-out"></a>
-<details>
+<details markdown="1">
 <summary>🔥 Suppression (check-out)</summary>
 
 ## Chaque utilisateur.rice s’engage à supprimer tous les fichiers de fontes à la fin de son cursus.
@@ -517,10 +517,10 @@ L’assemblage (InDesign, website, installation sur Figma) des fontes **n’est 
 
 ![](/links/Eracom_Typotheque_Graphics_v44.jpg)
 
- </details>
+</details>
 
 <a id="-tags"></a>
-<details>
+<details markdown="1">
 <summary>➡️ Tags</summary>
 
 Grâce aux tags sur mac, il est possible filtrer  les fontes en fonction de critères de recherche directement dans le finder.
@@ -538,10 +538,10 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 
 [^3]: **Inc**(ises) / **Scr**(iptes) / **Sér**(ifs) / **Slab**(-Sérifs) / **Sans**(-Sérifs) / **Exp**(ressives) / **Hyb**(rides) / **NonL**(atines)
 
- </details>
+</details>
 
 <a id="-catalogue"></a>
-<details>
+<details markdown="1">
 <summary>🔠 Catalogue</summary>
 
 | Police         | é_Hst | é_ForP | é_ForC           | é_ForT        | é_Typ                 | é_Lic                 | é_Ext                 |
@@ -681,7 +681,7 @@ Zapf Dingbats | 8_NonL |||| Cla | Pro
 Zapfino Extra | 2.3_Scr_Cursives |||| Cla | Pro |
 
 
- </details>
+</details>
 
 <a id="-sources"></a>
 <details>
