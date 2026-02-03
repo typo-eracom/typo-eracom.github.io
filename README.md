@@ -247,12 +247,11 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 3. Déplacer le/les dossiers dupliqués dans le dossier _Fonts_ de Adobe
 4. Les polices sont immédiatement disponibles dans toutes les applications de la Suite Adobe
 5. Quand vous ne les utilisez plus, supprimez simplement les dossiers de polices du dossier _Fonts_ de Adobe (‼️ mais garder les originaux dans le dossier typothèque jusqu'à la fin du cursus)
+6. Gardez un signet dans le finder de l'emplacement de ce dossier
 
 ```
 Macintosh HD > Library > Application Support > Adobe > Fonts
 ```
-
-6. Gardez un signet dans le finder de l'emplacement de ce dossier.
 
 | ![](/links/Adobe_Fonts_Folder.png) |
 | :--------------------------------: |
