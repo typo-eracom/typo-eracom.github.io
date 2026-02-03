@@ -4,7 +4,7 @@
 /* Collapsible H1-style drawers (kramdown / GitHub Pages) */
 /* Hide empty TOC anchors like <a id="-terminologie"></a> to avoid extra whitespace */
   a[id]:not([href]) {
-    display: block !important;
+    display: none !important;
     height: 0 !important;
     overflow: hidden !important;
     margin: 0 !important;
@@ -136,7 +136,7 @@ Un scripts fait référence à **un système d’écriture** (une langue) que l�
 ## ↪️ Téléchargez, imprimez et signez [la charte](links/Eracom_Charte_Typotheque_v2_0.pdf).
 ## 🔁 Envoyez un scan de la charte signée [ici](mailto:secretariat.eracom@vd.ch?subject=Charte%20Typoth&egrave;que).
 
-![](/links/Eracom_Typotheque_Graphics_v42.jpg)
+<!-- ![](/links/Eracom_Typotheque_Graphics_v42.jpg) -->
 
 La présente charte définit **les droits et les obligations** des utilisateur.trice.s de la typothèque de l’Ecole Romande d’Arts et Communication (Eracom). Elle s’applique à l’ensemble des utilisateur.trice.s.
 
