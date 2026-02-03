@@ -117,71 +117,84 @@ details.drawer[open] > summary::after {
 })();
 </script>
 
-
 <a id="-terminologie"></a>
+
 <details class="drawer" markdown="1">
 <summary>📖 Terminologie</summary>
 
 <div class="section-title-padding"></div>
 
-|![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
-|:---:|
-| Terminologie |
+| ![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif) |
+| :-------------------------------------------------------: |
+|                       Terminologie                        |
 
 ### Typothèque
+
 Une typothèque est une collection organisée de **polices**.
+
 ### Police
+
 Une police désigne un **ensemble de fontes** (un dossier de fontes) qui partagent une identité commune (« le même squelette »). Une police inclut toutes les variations possibles (gras, italique, etc.) d’une même **famille** de fontes.
+
 ### Fonte
+
 Une fonte désigne **l’ensemble des glyphes** (contenu dans un fichier) correspondant aux mêmes caractéristiques (de style) au sein d’une même police (on peut aussi parler d’un caractère). Par exemple, la police « Times », inclut notamment les fontes « Times Regular », « Times Bold », ou « Times Italic ».
+
 ### Glyphe
+
 Un glyphe est **un signe typographique** (un symbole). Cela peut inclure non seulement les lettres et les chiffres, mais aussi les accents, les ligatures (comme « fi » ou « fl »), et d’autres symboles.
+
 ### Script
+
 Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police **en fonction des glyphes** présents au sein de celle-ci (on parle alors de son « jeu de caractères »). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
 
 </details>
 
 <a id="-charte-dutilisation"></a>
+
 <details class="drawer" markdown="1">
 <summary>📝 Charte</summary>
 
 <div class="section-title-padding"></div>
 
 - [x] Téléchargez, imprimez et signez [la charte](links/Eracom_Charte_Typotheque_v2_0.pdf).
-- [x] Envoyez un scan de la charte signée [ici](mailto:secretariat.eracom@vd.ch?subject=Charte%20Typoth&egrave;que).
+- [x] Envoyez un scan de la charte signée [ici](mailto:secretariat.eracom@vd.ch?subject=Charte%20Typothèque).
 
 <!-- ![](/links/Eracom_Typotheque_Graphics_v42.jpg) -->
 
 La présente charte définit **les droits et les obligations** des utilisateur.trice.s de la typothèque de l’Ecole Romande d’Arts et Communication (Eracom). Elle s’applique à l’ensemble des utilisateur.trice.s.
 
 ### Définitions
+
 - Par la mention typothèque de l’Eracom, on entend **toutes les fontes** mises à disposition des utilisateur.trice.s. par l’Eracom.
-- Une fonte est définie comme un ensemble de glyphes représentant les caractères d’un alphabet contenu dans **un fichier digital** (OTF, PS, TTF, WOFF, WOFF2, EOT, SVG, etc.).  Elle possède à la fois un **statut de design** (œuvre) et **de logiciel** (programme informatique). À ce titre, les fontes sont protégées simultanément par le **droit d’auteur** et le **droit des logiciels**.
+- Une fonte est définie comme un ensemble de glyphes représentant les caractères d’un alphabet contenu dans **un fichier digital** (OTF, PS, TTF, WOFF, WOFF2, EOT, SVG, etc.). Elle possède à la fois un **statut de design** (œuvre) et **de logiciel** (programme informatique). À ce titre, les fontes sont protégées simultanément par le **droit d’auteur** et le **droit des logiciels**.
 - Par utilisateur.trice, on entend l’ensemble des membres du personnel administratif et technique, les membres du corps enseignant, les étudiant.e.s de l’école ainsi que **toute personne** à qui la Direction de l’École accorde un accès à la typothèque de l’Eracom.
 
 ### Droits
+
 - Chaque utilisateur.trice a le droit d’utiliser les fontes de la typothèque. Toutefois, ce droit est **limité exclusivement aux projets réalisés dans le cadre académique** et n’inclut donc en aucun cas des projets personnels ou des mandats externes à l’école.
 
 ### Restrictions
+
 - Le **stockage** des fontes sur des serveurs partagés tels que les serveurs de l’école, Teams, OneDrive, Dropbox, GoogleDrive, etc. est interdit.
 - La **diffusion** des fontes est interdite, même au sein de l’école : par exemple se transmettre des fontes entre élèves ou collègues via courriel, messagerie instantanée, Airdrop, WeTransfer, etc.
 - La **modification** des fontes est interdite : par exemple renommer une fonte, modifier ses tracés, son character-set, ses fonctionnalités opentype, son code, ou la convertir dans un autre format.
 - La **copie** des fontes est interdite : par exemple copier/coller des tracés ou une quelconque partie du logiciel.
 
 ### Obligations
+
 - La **suppression** de toutes les fontes de la Typothèque par l’utilisateur.trice à la fin ou en cas d’interuption de son cursus est obligatoire.
 
 ### Violation
+
 Une violation des principes énoncés ci-dessus peut entraîner le **retrait de l’accès aux ressources**. En outre, les abus seront **dénoncés aux autorités** académiques et/ou administratives compétentes en vue de **sanctions disciplinaires**. Sont réservés le remboursement des frais résultant de l’utilisation abusive et de l’identification de son auteur, ainsi que l’ouverture d’éventuelles poursuites judiciaires.
 
 ![](http://eracom-typotheque.github.io/links/graphics/Eracom_Typotheque_Graphics4.jpg)
 
 </details>
 
-
-
-
 <a id="-licenses"></a>
+
 <details class="drawer" markdown="1">
 <summary>🔗 Licenses</summary>
 
@@ -190,18 +203,17 @@ Une violation des principes énoncés ci-dessus peut entraîner le **retrait de 
 Le type de license est toujours spécifié et précisé dans **l’EULA (End User License Agreement)**. C’est un contrat qui définit les conditions d’utilisation des police par l’utilisateur.rice final. Il précise ce que l’utilisateur est **autorisé** à faire (comme installer la police sur un nombre limité d’ordinateurs, l’utiliser pour des projets imprimés ou web) et ce qui est **interdit** (comme redistribuer, modifier, ou copier les polices).
 
 ### Propriétaire
+
 Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le **droit d’utiliser une fonte, mais sans en posséder le code source ou les droits de modification et de redistribution**. Les restrictions sont souvent strictes: l’utilisateur.rice ne peut pas copier, modifier, ni partager le produit sans autorisation explicite.
 
 ### Libre
+
 Une licence libre (open-source) **permet généralement à l’utilisateur.rice d’utiliser, copier, modifier et redistribuer une fonte, souvent de manière gratuite et sans restriction**. Elle garantit l’accès au code source et la liberté de l’adapter selon les besoins. Néamoins, il est toujours nécessaire d’aller vérifier ce qui est autorisé dans le contrat de license.
 
 </details>
 
-
-
-
-
 <a id="-installation-check-in"></a>
+
 <details class="drawer" markdown="1">
 <summary>⚙️ Installation</summary>
 
@@ -224,17 +236,17 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 3. Glisser le dossier dans de polices Font Goggles (vous pouvez en glisser plusieurs)
 4. Enregistrer le fichier de prévisualisation Font Goggles dans votre arborescence de projet
 
-|![](/links/Font_Goggles.png)                  |
-|:---:|
+|    ![](/links/Font_Goggles.png)    |
+| :--------------------------------: |
 | Prévisualisation dans Font Goggles |
 
 ### Activer
 
 1. Une fois la / les familles de polices sélectionnées dans Font Goggles
 2. Dossier > Clic droit > Dupliquer
-3. Déplacer le/les dossiers dupliqués dans le dossier *Fonts* de Adobe
+3. Déplacer le/les dossiers dupliqués dans le dossier _Fonts_ de Adobe
 4. Les polices sont immédiatement disponibles dans toutes les applications de la Suite Adobe
-5. Quand vous ne les utilisez plus, supprimez simplement les dossiers de polices du dossier *Fonts* de Adobe (‼️ mais garder les originaux dans le dossier typothèque jusqu'à la fin du cursus)
+5. Quand vous ne les utilisez plus, supprimez simplement les dossiers de polices du dossier _Fonts_ de Adobe (‼️ mais garder les originaux dans le dossier typothèque jusqu'à la fin du cursus)
 
 ```
 Macintosh HD > Library > Application Support > Adobe > Fonts
@@ -242,49 +254,78 @@ Macintosh HD > Library > Application Support > Adobe > Fonts
 
 6. Gardez un signet dans le finder de l'emplacement de ce dossier.
 
-|![](/links/Adobe_Fonts_Folder.png)                  |
-|:---:|
-| Dossier Fonts de Adobe |
+| ![](/links/Adobe_Fonts_Folder.png) |
+| :--------------------------------: |
+|       Dossier Fonts de Adobe       |
 
 </details>
 
+<a id="-suppression-check-out"></a>
 
+<details class="drawer" markdown="1">
+<summary>🔥 Désinstallation</summary>
+
+<div class="section-title-padding"></div>
+
+- [x] Chaque utilisateur.rice s’engage à supprimer tous les fichiers de fontes à la fin de son cursus.
+
+1. Aller > Se rendre au dossier
+2. Copier le chemin suivant (Macintosh HD > Users > _YourName_ > Bibliothèque > Fonts)
+
+```
+~/Library/Fonts
+```
+
+3. Coller le chemin > Enter
+4. Supprimer toutes les fontes qui appartiennent au catalogue de la typothèque.
+
+| ![](/links/erase_fonts.gif) |
+| :-------------------------: |
+| Supprimer les fontes éracom |
+
+![](/links/Eracom_Typotheque_Graphics_v44.jpg)
+
+</details>
 
 <a id="-formats"></a>
+
 <details class="drawer" markdown="1">
 <summary>📑 Formats</summary>
 
 <div class="section-title-padding"></div>
 
-|![](/links/Eracom_Typotheque_Graphics_v421.jpg)                  |
-|:---:|
-| Formats |
+| ![](/links/Eracom_Typotheque_Graphics_v421.jpg) |
+| :---------------------------------------------: |
+|                     Formats                     |
 
 ### Desktop
+
 OTF, TTF
 
 Les polices destinées à un usage desktop sont installées localement sur l’ordinateur d’un utilisateur et utilisées dans des logiciels comme les **applications de traitements de texte** (Word, Pages,…) et de mise en page (InDesign, Illustrator,…).
 
 ### Web
+
 WOFF, WOFF2, EOT
 
 Les polices destinées à un usage web sont compressées pour être utilisées directement **sur des sites internet** grâce à des langages comme le HTML et le CSS. Elles sont hébergées sur un serveur et chargées par le navigateur des utilisateurs lorsqu’ils visitent une page web.
 
 ### Variable
+
 OTF, TTF, WOFF, WOFF2
 
 Les polices variables sont une nouvelle technologie qui permet d’inclure **plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police**. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l’animation vidéo.
 
 </details>
 
-
 <a id="-usage-web"></a>
+
 <details class="drawer" markdown="1">
 <summary>🌐 Webfonts</summary>
 
 <div class="section-title-padding"></div>
 
-Remplacer *MyFont* par le nom de votre fichier.
+Remplacer _MyFont_ par le nom de votre fichier.
 
 ### Déclarer une fonte
 
@@ -314,6 +355,7 @@ body {
   font-feature-settings: "liga", "clig";
 }
 ```
+
 ```
 /* use small-cap alternate glyphs */
 .small-caps {
@@ -390,12 +432,14 @@ td.tabular {
 /* animate font weight on hover */
 .class:hover {
   transition: font-weight 0.3s ease;
-  font-weight: 800; 
+  font-weight: 800;
 }
 ```
+
 </details>
 
 <a id="-assemblage"></a>
+
 <details class="drawer" markdown="1">
 <summary>📦 Assemblage</summary>
 
@@ -403,42 +447,14 @@ td.tabular {
 
 L’assemblage (InDesign, website, installation sur Figma) des fontes **n’est pas autorisé**: chaque utilisateur.rice peut ouvrir un fichier de design en **activant les polices requises dans sa propre typothèque**. En revanche, le transfert d’un fichier d’**export statique** est possible.
 
-|![](/links/8_Package.gif)                  |
-|:---:|
+|       ![](/links/8_Package.gif)       |
+| :-----------------------------------: |
 | Possibilités de transfert de fichiers |
 
 </details>
 
-<a id="-suppression-check-out"></a>
-<details class="drawer" markdown="1">
-<summary>🔥 Désinstallation</summary>
-
-<div class="section-title-padding"></div>
-
-- [x] Chaque utilisateur.rice s’engage à supprimer tous les fichiers de fontes à la fin de son cursus.
-
-1. Aller > Se rendre au dossier
-2. Copier le chemin suivant (Macintosh HD > Users > *YourName* > Bibliothèque > Fonts)
-
-```
-~/Library/Fonts
-```
-
-3. Coller le chemin > Enter
-4. Supprimer toutes les fontes qui appartiennent au catalogue de la typothèque.
-
-|![](/links/erase_fonts.gif)                  |
-|:---:|
-| Supprimer les fontes éracom |
-
-![](/links/Eracom_Typotheque_Graphics_v44.jpg)
-
-</details>
-
-
-
-
 <a id="-classification"></a>
+
 <details class="drawer" markdown="1">
 <summary>🗂️ Classification</summary>
 
@@ -447,80 +463,82 @@ L’assemblage (InDesign, website, installation sur Figma) des fontes **n’est 
 Dans le cadre des activités professionnelles des graphistes, un système de classification se révèle utile pour identifier, **sélectionner et combiner** les polices de caractères ainsi que **justifier** leur usage en fonction du contexte (sémiotique).
 
 ### Historique
+
 La classification selon le **«principe historique»[^1]** (classification Vox adaptée) est une méthode de **classification pédagogique** des polices de caractères qui permet de répartir toutes les polices dans ordre chronologique lié à **l’histoire de l’écriture et l’évolution des technologies**.
 
 ![](/links/Eracom_Typotheque_Graphics_v47.jpg)
 
-|![](/links/Eracom_Typotheque_Graphics_v48.jpg)                  |
-|:---:|
-| Classification historique |
+| ![](/links/Eracom_Typotheque_Graphics_v48.jpg) |
+| :--------------------------------------------: |
+|           Classification historique            |
 
 1. **Incises**  
-   *Gravure dans la pierre*
+   _Gravure dans la pierre_
 2. **Scriptes**  
-   *Calligraphie (ductus)*  
-   1. Onciales  
-   2. Fractures  
-   3. Cursives  
+   _Calligraphie (ductus)_
+   1. Onciales
+   2. Fractures
+   3. Cursives
 3. **Sérifs**  
-   *Impression à caractères mobiles*  
-   1. Humanes  
-   2. Garaldes  
-   3. Réales  
-   4. Didones  
+   _Impression à caractères mobiles_
+   1. Humanes
+   2. Garaldes
+   3. Réales
+   4. Didones
 4. **Slab-Sérifs**  
-   *Composition à chaud*  
-   1. Mécanes  
-   2. Monospaces  
-6. **Sans-Sérifs**  
-   *Composition à froid (photo-composition)*  
-    1. Grotesques  
-    2. Humanistes  
-    3. Géométriques  
-8. **Expressives**  
-   *Composition en grands corps (aussi décoratives)*
-9. **Hybrides**  
-   *Variations de contrastes et de terminaisons au sein d’une même police*
-10. **Non-Latines**  
-   *Composition digitale (symboles: ornements (Dingbats) & mathématiques (Pi))*
+   _Composition à chaud_
+   1. Mécanes
+   2. Monospaces
+5. **Sans-Sérifs**  
+   _Composition à froid (photo-composition)_
+   1. Grotesques
+   2. Humanistes
+   3. Géométriques
+6. **Expressives**  
+   _Composition en grands corps (aussi décoratives)_
+7. **Hybrides**  
+   _Variations de contrastes et de terminaisons au sein d’une même police_
+8. **Non-Latines**  
+   _Composition digitale (symboles: ornements (Dingbats) & mathématiques (Pi))_
 
-[^1]: Illustration tirée du livre *Type, Sign, Symbol* de Adrian Frutiger (1980).
+[^1]: Illustration tirée du livre _Type, Sign, Symbol_ de Adrian Frutiger (1980).
 
 ### Formelle
+
 La classification selon le **«principe de forme»[^2]** (classification Kupferschmid adaptée) est une méthode de **classification fonctionnelle** des polices de caractères qui permet de répartir toutes les polices selon un système cohérent basé sur 3 paramètres.
 
 ![](/links/Eracom_Typotheque_Graphics_v49.jpg)
 
-|![](/links/Eracom_Typotheque_Graphics_v410.jpg)                  |
-|:---:|
-| Classification formelle |
+| ![](/links/Eracom_Typotheque_Graphics_v410.jpg) |
+| :---------------------------------------------: |
+|             Classification formelle             |
 
 1. **Squelette**
-   -  Dynamique  
-      Plume à bec large (translation)  
-      Axe diagonal + extrémités ouvertes  
-      Voc. sémiotique: *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
-   -  Statique  
-      Plume à bec pointu (expansion)  
-      Axe vertical + extrémités fermées  
-      Voc. sémiotique: *rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire*
-   -  Géométrique  
-      Plume à bec rond (linéaire)  
-      Construction modulaire  
-      Voc. sémiotique: *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
+   - Dynamique  
+     Plume à bec large (translation)  
+     Axe diagonal + extrémités ouvertes  
+     Voc. sémiotique: _convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel_
+   - Statique  
+     Plume à bec pointu (expansion)  
+     Axe vertical + extrémités fermées  
+     Voc. sémiotique: _rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire_
+   - Géométrique  
+     Plume à bec rond (linéaire)  
+     Construction modulaire  
+     Voc. sémiotique: _géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré_
 2. **Graisse**
-   -  Contrasté (avec)
-   -  Linéaire (sans)
+   - Contrasté (avec)
+   - Linéaire (sans)
 3. **Enveloppe**
-   -  Avec (empattements)
-   -  Sans (empattement)
+   - Avec (empattements)
+   - Sans (empattement)
 
-[^2]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
+[^2]: Illustration tirée du livre _Le trait. Une théorie de l’écriture_ de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
 
-|![](/links/Pair_Fonts.gif)                  |
-|:---:|
+|                  ![](/links/Pair_Fonts.gif)                  |
+| :----------------------------------------------------------: |
 | Créer des paires de fontes avec la matrice de classification |
-  
+
 ### Choisir des fontes, combiner des fontes
 
 En se basant sur la classification formelle de Indra Kupferschmid, on peut faire les remarques suivantes concernant les combinaisons:
@@ -538,10 +556,11 @@ Ce système est un point de départ, il n’y a pas de règles absolues en mati�
 - les styles
 - les character-sets
 - etc.
-  
+
 </details>
 
 <a id="-typologie"></a>
+
 <details class="drawer" markdown="1">
 <summary>🧬 Typologie</summary>
 
@@ -550,38 +569,41 @@ Ce système est un point de départ, il n’y a pas de règles absolues en mati�
 <!-- ![](/links/Eracom_Typotheque_Graphics_v45.jpg) -->
 
 ### Revival Classique
+
 Cette catégorie inclut les **digitalisations des fontes classiques** de l’histoire de la typographie, qui datent d’**avant l’ère digitale**. La digitalisation fait référence au processus de conversion d’une police de caractères physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur **conversion en courbes vectorielles**, ce qui permet une mise à l’échelle sans perte de qualité.
 
 ### Revival Moderne
+
 Cette catégorie inclut les **fontes contemporaines** qui ont été conçues **à partir du début du XXIe siècle**. Ces fontes résultent soit d’une réinterprétation d’un classique, soit d’un design original. La réinterprétation d’une police de caractères consiste à créer une nouvelle version d’une fonte existante en introduisant différentes altérations de design dans le but de l’adapter à un contexte spécifique. Cela peut inclure des modifications dans la forme des glyphes, la graisse, le contraste, l’espacement ou même le character-set.
 
 </details>
 
 <a id="-tags"></a>
+
 <details class="drawer" markdown="1">
 <summary>🏷️ Tags</summary>
 
 <div class="section-title-padding"></div>
 
-Grâce aux tags sur mac, il est possible filtrer  les fontes en fonction de critères de recherche directement dans le finder.
+Grâce aux tags sur mac, il est possible filtrer les fontes en fonction de critères de recherche directement dans le finder.
 Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 
-| Tag         | Titre       | Valeur          |
-|:---            |:---            |:---            |
-| ➡️ **é_Hst** | Classification Historique[^3] | **Inc** / **Scr** / **Sér** / **Slab** / **Sans** / **Exp** / **Hyb** / **NonL** |
-| ➡️ **é_ForP** | Classification Formelle Principe | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique) |
-| ➡️ **é_ForC** | Classification Formelle Contraste | **Con**(trasté) / **Lin**(éaire) |
-| ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans** |
-| ➡️ **é_Typ** | Typologie | **Cla**(ssique) / **Mod**(erne) / – |
-| ➡️ **é_Lic** | License | **Pro**(priétaire) / **Lib**(re) |
-| ➡️ **é_Ext** | Extensions | — / **Var**(iable) | 
+| Tag           | Titre                                | Valeur                                                                           |
+| :------------ | :----------------------------------- | :------------------------------------------------------------------------------- |
+| ➡️ **é_Hst**  | Classification Historique[^3]        | **Inc** / **Scr** / **Sér** / **Slab** / **Sans** / **Exp** / **Hyb** / **NonL** |
+| ➡️ **é_ForP** | Classification Formelle Principe     | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique)                             |
+| ➡️ **é_ForC** | Classification Formelle Contraste    | **Con**(trasté) / **Lin**(éaire)                                                 |
+| ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans**                                                              |
+| ➡️ **é_Typ**  | Typologie                            | **Cla**(ssique) / **Mod**(erne) / –                                              |
+| ➡️ **é_Lic**  | License                              | **Pro**(priétaire) / **Lib**(re)                                                 |
+| ➡️ **é_Ext**  | Extensions                           | — / **Var**(iable)                                                               |
 
 <!-- |![](/links/6_Tags.gif)                  |
 |:---:|
 | Afficher les tags d’une fonte | -->
 
-|![](/links/7_Tags_Filter.gif)                  |
-|:---:|
+|         ![](/links/7_Tags_Filter.gif)         |
+| :-------------------------------------------: |
 | Filtrer les fichiers de fontes grâce aux tags |
 
 [^3]: **Inc**(ises) / **Scr**(iptes) / **Sér**(ifs) / **Slab**(-Sérifs) / **Sans**(-Sérifs) / **Exp**(ressives) / **Hyb**(rides) / **NonL**(atines)
@@ -589,202 +611,175 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 </details>
 
 <a id="-catalogue"></a>
+
 <details class="drawer" markdown="1">
 <summary>🧰 Catalogue</summary>
 
 <div class="section-title-padding"></div>
 
-| Police         | é_Hst | é_ForP | é_ForC           | é_ForT        | é_Typ                 | é_Lic                 | é_Ext                 |
-|:---            |:---            |:---            |:---                 |:---            |:---                     |:---                     |:---                     |
-Africa | 6_Exp |||| Mod | Pro |
-Agatha | 3.4_Sér_Didones | Sta | Ctr | Avec || Pro | Var
-Akzidenz Grotesk Next | 5.1_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
-Alaska | 5.3_Sans_Géométriques | Géo | Lin | Sans || Pro | Var
-Allegra | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-Aloha | 4.2_Slab_Monos ||||| Pro | Var
-Alpaga | 4.2_Slab_Monos ||||| Pro | Var
-Alte Schwabacher D | 2.2_Scr_Fractures |||| Cla | Pro |
-Alverata | 1_Inc |||| Mod | Pro |
-Amazonia | 3.4_Sér_Didones | Sta | Ctr | Avec || Pro | Var
-Angela | 6_Exp |||| Mod | Pro |
-Antarctica | 5.1_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
-Antique Legacy | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Apax | 5.3_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
-Armada | 6_Exp |||| Mod | Pro |
-Arnhem | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Arno | 3.1_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
-Artex | 5.3_Sans_Géométriques | Géo | Lin | Sans || Pro | Var
-Atacama | 3.2_Sér_Garaldes | Dyn | Ctr | Avec || Pro | Var
-Atlantique Miami | 3.3_Sér_Réales | Dyn | Ctr | Avec || Pro | Var
-Atlas Grotesk | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Avant Garde Gothic | 5.3_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
-Avenir Next | 5.3_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
-Azaka | 6_Exp |||| Mod | Pro |
-Azteca | 6_Exp |||| Mod | Pro |
-Baikal | 5.1_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
-Balance | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
-Bodoni | 3.4_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
-Bradford | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Breeze Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans || Lib
-Caflisch Script | 2.3_Scr_Cursives |||| Cla | Pro |
-Caslon 224 | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
-Centaur | 3.1_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
-Chaparral | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
-Charter | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
-Clarendon Graphic | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
-Cochin | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
-Cooper Hewitt | 5.1_Sans_Grotesques | Sta | Lin | Sans || Lib
-Courier | 4.2_Slab_Monos |||| Cla | Pro |
-Crystal | 5.1_Sans_Grotesques | Sta | Lin | Sans || Pro | Var
-Custodia | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Didot Elder | 3.4_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
-Didot Modern | 3.4_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
-Didot | 3.4_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
-Dominicale | 6_Exp |||| Mod | Pro |
-Egyptienne F | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
-English 111 | 2.3_Scr_Cursives |||| Cla | Pro |
-Estuary | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-European Pi | 8_NonL |||| Cla | Pro |
-Fedra Mono | 4.2_Slab_Monos |||| Mod | Pro |
-Fedra Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-Fedra SerifAB | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Fedra | 7_Hyb |||| Mod | Pro |
-Fira | 5.2_Sans_Humanistes | Dyn | Lin | Sans || Lib
-Fleischmann | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Founders Grotesk | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Franklin Gothic | 5.1_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
-Fraunces | 6_Exp ||||| Lib
-Frutiger | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
-Futura | 5.3_Sans_Géométriques | Géo | Lin | Sans | Cla | Pro |
-Garamond Premier | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
-Geograph | 5.3_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
-Gill Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
-Glypha | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
-Goudy Text | 2.2_Scr_Fractures |||| Cla | Pro |
-Gradot | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Heldane | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Helvetica Neue | 5.1_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
-Herculanum | 1_Inc |||| Cla | Pro |
-Hermes | 5.3_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
-Humanistika | 2.1_Scr_Onciales |||| Cla | Pro |
-IBM Plex | 7_Hyb ||||| Lib
-Ibarra Real Nova | 3.3_Sér_Réales | Dyn | Ctr | Avec || Lib
-Infini | 1_Inc |||| Mod | Pro |
-JJannon | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Jenson | 3.1_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
-Johnston | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Cla | Pro |
-Lapture | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Literata | 3.3_Sér_Réales | Dyn | Ctr | Avec || Lib
-Lithos | 1_Inc |||| Cla | Pro |
-Ludwig | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Lutetia Nova | 3.1_Sér_Humanes | Dyn | Ctr | Avec | Cla | Pro |
-Mathematical Pi | 8_NonL |||| Cla | Pro |
-Media77 | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Millionaire | 2.3_Scr_Cursives |||| Mod | Pro |
-Minion | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
-Moderne | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-Monaako | 2.3_Scr_Cursives |||| Mod | Pro |
-New Baskerville | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
-Newsreader | 3.2_Sér_Garaldes | Dyn | Ctr | Avec || Lib
-November Slab | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
-November | 7_Hyb |||| Mod | Pro |
-NovemberL | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-OCR F | 4.2_Slab_Monos |||| Cla | Pro |
-Oddity | 6_Exp |||| Mod | Pro |
-Omnia | 2.1_Scr_Onciales |||| Cla | Pro |
-Open Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans || Lib
-Palatino | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Cla | Pro |
-Parmigiano Serif | 3.4_Sér_Didones | Sta | Ctr | Avec | Mod | Pro |
-Pfeffer Mediaeval | 2.1_Scr_Onciales |||| Mod | Pro |
-Pfeffer Simpelgotisch | 2.2_Scr_Fractures |||| Mod | Pro |
-Ping | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-Plain | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Pompeijana | 2.1_Scr_Onciales |||| Cla | Pro |
-Practice | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Public Sans | 5.1_Sans_Grotesques | Sta | Lin | Sans || Lib
-Publico Text | 3.3_Sér_Réales | Dyn | Ctr | Avec | Mod | Pro |
-Red Hat | 7_Hyb ||||| Lib
-Roboto | 7_Hyb ||||| Lib
-Ruder Plakat | 6_Exp |||| Cla | Pro |
-Serifa | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Cla | Pro |
-Snell Roundhand | 2.3_Scr_Cursives |||| Cla | Pro |
-Source | 7_Hyb ||||| Lib
-Space Mono | 4.2_Slab_Monos |||| Lib
-Spectral | 3.3_Sér_Réales | Dyn | Ctr | Avec || Lib
-Stardust | 6_Exp |||| Mod | Pro |
-Supreme | 5.3_Sans_Géométriques | Géo | Lin | Sans | Mod | Pro |
-Syntax Lapidar | 1_Inc |||| Cla | Pro |
-The AntiquaB | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-The Mix Mono | 4.2_Slab_Monos |||| Mod | Pro |
-The Sans | 5.2_Sans_Humanistes | Dyn | Lin | Sans | Mod | Pro |
-The Serif | 4.1_Slab_Mécanes | Sta | Ctr | Avec | Mod | Pro |
-Thesis | 7_Hyb |||| Mod | Pro |
-Tiina | 3.2_Sér_Garaldes | Dyn | Ctr | Avec | Mod | Pro |
-Times New Roman | 3.3_Sér_Réales | Dyn | Ctr | Avec | Cla | Pro |
-Trajan | 1_Inc |||| Cla | Pro |
-Unica77 | 5.1_Sans_Grotesques | Sta | Lin | Sans | Mod | Pro |
-Univers | 5.1_Sans_Grotesques | Sta | Lin | Sans | Cla | Pro |
-Walbaum Fraktur | 2.2_Scr_Fractures |||| Cla | Pro |
-Walbaum | 3.4_Sér_Didones | Sta | Ctr | Avec | Cla | Pro |
-Weiss Rundgotisch D | 2.2_Scr_Fractures |||| Cla | Pro |
-Zapf Dingbats | 8_NonL |||| Cla | Pro
-Zapfino Extra | 2.3_Scr_Cursives |||| Cla | Pro |
+| Police                | é_Hst                 | é_ForP | é_ForC | é_ForT | é_Typ | é_Lic | é_Ext |
+| :-------------------- | :-------------------- | :----- | :----- | :----- | :---- | :---- | :---- |
+| Africa                | 6_Exp                 |        |        |        | Mod   | Pro   |
+| Agatha                | 3.4_Sér_Didones       | Sta    | Ctr    | Avec   |       | Pro   | Var   |
+| Akzidenz Grotesk Next | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   | Cla   | Pro   |
+| Alaska                | 5.3_Sans_Géométriques | Géo    | Lin    | Sans   |       | Pro   | Var   |
+| Allegra               | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   | Mod   | Pro   |
+| Aloha                 | 4.2_Slab_Monos        |        |        |        |       | Pro   | Var   |
+| Alpaga                | 4.2_Slab_Monos        |        |        |        |       | Pro   | Var   |
+| Alte Schwabacher D    | 2.2_Scr_Fractures     |        |        |        | Cla   | Pro   |
+| Alverata              | 1_Inc                 |        |        |        | Mod   | Pro   |
+| Amazonia              | 3.4_Sér_Didones       | Sta    | Ctr    | Avec   |       | Pro   | Var   |
+| Angela                | 6_Exp                 |        |        |        | Mod   | Pro   |
+| Antarctica            | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   |       | Pro   | Var   |
+| Antique Legacy        | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   | Mod   | Pro   |
+| Apax                  | 5.3_Sans_Géométriques | Géo    | Lin    | Sans   | Mod   | Pro   |
+| Armada                | 6_Exp                 |        |        |        | Mod   | Pro   |
+| Arnhem                | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Arno                  | 3.1_Sér_Humanes       | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Artex                 | 5.3_Sans_Géométriques | Géo    | Lin    | Sans   |       | Pro   | Var   |
+| Atacama               | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   |       | Pro   | Var   |
+| Atlantique Miami      | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   |       | Pro   | Var   |
+| Atlas Grotesk         | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   | Mod   | Pro   |
+| Avant Garde Gothic    | 5.3_Sans_Géométriques | Géo    | Lin    | Sans   | Cla   | Pro   |
+| Avenir Next           | 5.3_Sans_Géométriques | Géo    | Lin    | Sans   | Cla   | Pro   |
+| Azaka                 | 6_Exp                 |        |        |        | Mod   | Pro   |
+| Azteca                | 6_Exp                 |        |        |        | Mod   | Pro   |
+| Baikal                | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   |       | Pro   | Var   |
+| Balance               | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   | Cla   | Pro   |
+| Bodoni                | 3.4_Sér_Didones       | Sta    | Ctr    | Avec   | Cla   | Pro   |
+| Bradford              | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Breeze Sans           | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   |       | Lib   |
+| Caflisch Script       | 2.3_Scr_Cursives      |        |        |        | Cla   | Pro   |
+| Caslon 224            | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Centaur               | 3.1_Sér_Humanes       | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Chaparral             | 4.1_Slab_Mécanes      | Sta    | Ctr    | Avec   | Cla   | Pro   |
+| Charter               | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Clarendon Graphic     | 4.1_Slab_Mécanes      | Sta    | Ctr    | Avec   | Mod   | Pro   |
+| Cochin                | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Cooper Hewitt         | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   |       | Lib   |
+| Courier               | 4.2_Slab_Monos        |        |        |        | Cla   | Pro   |
+| Crystal               | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   |       | Pro   | Var   |
+| Custodia              | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Didot Elder           | 3.4_Sér_Didones       | Sta    | Ctr    | Avec   | Mod   | Pro   |
+| Didot Modern          | 3.4_Sér_Didones       | Sta    | Ctr    | Avec   | Mod   | Pro   |
+| Didot                 | 3.4_Sér_Didones       | Sta    | Ctr    | Avec   | Cla   | Pro   |
+| Dominicale            | 6_Exp                 |        |        |        | Mod   | Pro   |
+| Egyptienne F          | 4.1_Slab_Mécanes      | Sta    | Ctr    | Avec   | Cla   | Pro   |
+| English 111           | 2.3_Scr_Cursives      |        |        |        | Cla   | Pro   |
+| Estuary               | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| European Pi           | 8_NonL                |        |        |        | Cla   | Pro   |
+| Fedra Mono            | 4.2_Slab_Monos        |        |        |        | Mod   | Pro   |
+| Fedra Sans            | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   | Mod   | Pro   |
+| Fedra SerifAB         | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Fedra                 | 7_Hyb                 |        |        |        | Mod   | Pro   |
+| Fira                  | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   |       | Lib   |
+| Fleischmann           | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Founders Grotesk      | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   | Mod   | Pro   |
+| Franklin Gothic       | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   | Cla   | Pro   |
+| Fraunces              | 6_Exp                 |        |        |        |       | Lib   |
+| Frutiger              | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   | Cla   | Pro   |
+| Futura                | 5.3_Sans_Géométriques | Géo    | Lin    | Sans   | Cla   | Pro   |
+| Garamond Premier      | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Geograph              | 5.3_Sans_Géométriques | Géo    | Lin    | Sans   | Mod   | Pro   |
+| Gill Sans             | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   | Cla   | Pro   |
+| Glypha                | 4.1_Slab_Mécanes      | Sta    | Ctr    | Avec   | Cla   | Pro   |
+| Goudy Text            | 2.2_Scr_Fractures     |        |        |        | Cla   | Pro   |
+| Gradot                | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Heldane               | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Helvetica Neue        | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   | Cla   | Pro   |
+| Herculanum            | 1_Inc                 |        |        |        | Cla   | Pro   |
+| Hermes                | 5.3_Sans_Géométriques | Géo    | Lin    | Sans   | Mod   | Pro   |
+| Humanistika           | 2.1_Scr_Onciales      |        |        |        | Cla   | Pro   |
+| IBM Plex              | 7_Hyb                 |        |        |        |       | Lib   |
+| Ibarra Real Nova      | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   |       | Lib   |
+| Infini                | 1_Inc                 |        |        |        | Mod   | Pro   |
+| JJannon               | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Jenson                | 3.1_Sér_Humanes       | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Johnston              | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   | Cla   | Pro   |
+| Lapture               | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Literata              | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   |       | Lib   |
+| Lithos                | 1_Inc                 |        |        |        | Cla   | Pro   |
+| Ludwig                | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   | Mod   | Pro   |
+| Lutetia Nova          | 3.1_Sér_Humanes       | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Mathematical Pi       | 8_NonL                |        |        |        | Cla   | Pro   |
+| Media77               | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Millionaire           | 2.3_Scr_Cursives      |        |        |        | Mod   | Pro   |
+| Minion                | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Moderne               | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   | Mod   | Pro   |
+| Monaako               | 2.3_Scr_Cursives      |        |        |        | Mod   | Pro   |
+| New Baskerville       | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Newsreader            | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   |       | Lib   |
+| November Slab         | 4.1_Slab_Mécanes      | Sta    | Ctr    | Avec   | Mod   | Pro   |
+| November              | 7_Hyb                 |        |        |        | Mod   | Pro   |
+| NovemberL             | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   | Mod   | Pro   |
+| OCR F                 | 4.2_Slab_Monos        |        |        |        | Cla   | Pro   |
+| Oddity                | 6_Exp                 |        |        |        | Mod   | Pro   |
+| Omnia                 | 2.1_Scr_Onciales      |        |        |        | Cla   | Pro   |
+| Open Sans             | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   |       | Lib   |
+| Palatino              | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Parmigiano Serif      | 3.4_Sér_Didones       | Sta    | Ctr    | Avec   | Mod   | Pro   |
+| Pfeffer Mediaeval     | 2.1_Scr_Onciales      |        |        |        | Mod   | Pro   |
+| Pfeffer Simpelgotisch | 2.2_Scr_Fractures     |        |        |        | Mod   | Pro   |
+| Ping                  | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   | Mod   | Pro   |
+| Plain                 | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   | Mod   | Pro   |
+| Pompeijana            | 2.1_Scr_Onciales      |        |        |        | Cla   | Pro   |
+| Practice              | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Public Sans           | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   |       | Lib   |
+| Publico Text          | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Red Hat               | 7_Hyb                 |        |        |        |       | Lib   |
+| Roboto                | 7_Hyb                 |        |        |        |       | Lib   |
+| Ruder Plakat          | 6_Exp                 |        |        |        | Cla   | Pro   |
+| Serifa                | 4.1_Slab_Mécanes      | Sta    | Ctr    | Avec   | Cla   | Pro   |
+| Snell Roundhand       | 2.3_Scr_Cursives      |        |        |        | Cla   | Pro   |
+| Source                | 7_Hyb                 |        |        |        |       | Lib   |
+| Space Mono            | 4.2_Slab_Monos        |        |        |        | Lib   |
+| Spectral              | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   |       | Lib   |
+| Stardust              | 6_Exp                 |        |        |        | Mod   | Pro   |
+| Supreme               | 5.3_Sans_Géométriques | Géo    | Lin    | Sans   | Mod   | Pro   |
+| Syntax Lapidar        | 1_Inc                 |        |        |        | Cla   | Pro   |
+| The AntiquaB          | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| The Mix Mono          | 4.2_Slab_Monos        |        |        |        | Mod   | Pro   |
+| The Sans              | 5.2_Sans_Humanistes   | Dyn    | Lin    | Sans   | Mod   | Pro   |
+| The Serif             | 4.1_Slab_Mécanes      | Sta    | Ctr    | Avec   | Mod   | Pro   |
+| Thesis                | 7_Hyb                 |        |        |        | Mod   | Pro   |
+| Tiina                 | 3.2_Sér_Garaldes      | Dyn    | Ctr    | Avec   | Mod   | Pro   |
+| Times New Roman       | 3.3_Sér_Réales        | Dyn    | Ctr    | Avec   | Cla   | Pro   |
+| Trajan                | 1_Inc                 |        |        |        | Cla   | Pro   |
+| Unica77               | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   | Mod   | Pro   |
+| Univers               | 5.1_Sans_Grotesques   | Sta    | Lin    | Sans   | Cla   | Pro   |
+| Walbaum Fraktur       | 2.2_Scr_Fractures     |        |        |        | Cla   | Pro   |
+| Walbaum               | 3.4_Sér_Didones       | Sta    | Ctr    | Avec   | Cla   | Pro   |
+| Weiss Rundgotisch D   | 2.2_Scr_Fractures     |        |        |        | Cla   | Pro   |
+| Zapf Dingbats         | 8_NonL                |        |        |        | Cla   | Pro   |
+| Zapfino Extra         | 2.3_Scr_Cursives      |        |        |        | Cla   | Pro   |
 
 </details>
-
-
 
 <h1 class="h1-link">🔍 <a href="https://fontes.eracom.ch" target="_blank" rel="noopener">Spécimens</a></h1>
 
 <h1 class="h1-link">☎️ <a href="mailto:typo.eracom@eduvaud.ch" target="_blank" rel="noopener">Support</a></h1>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a id="-sources"></a>
+
 <details class="drawer" markdown="1">
 <summary>📎 Sources</summary>
 
 <div class="section-title-padding"></div>
 
 - **Christian Tännler**  
-  *Supports de cours et Supports Typothèque*, 2023
+  _Supports de cours et Supports Typothèque_, 2023
 - **Adrian Frutiger**  
-  *Type, Sign, Symbol*, 1980
+  _Type, Sign, Symbol_, 1980
 - **Karl Gerstner**  
-  *Compendium for Literates, A System of Writing*, 1974
+  _Compendium for Literates, A System of Writing_, 1974
 - **Gerrit Noordzij**  
-  *Le trait. Une théorie de l’écriture*, 2010
+  _Le trait. Une théorie de l’écriture_, 2010
 - **Erik van Blokland**  
-  *The Cube: practical research in theoretical models*, 2019
+  _The Cube: practical research in theoretical models_, 2019
 - **Robert Bringhurst**  
-  *Principes élémentaires de la typographie: une histoire des styles*, 2023
+  _Principes élémentaires de la typographie: une histoire des styles_, 2023
 - **Albert Jan Pool**  
-  *Schriftklassifikation nach Formprinzip*, 2020
+  _Schriftklassifikation nach Formprinzip_, 2020
 - **Indra Kupferschmid**  
   *www.kupferschrift.de*
 - **Oliver Schöndorfer**  
@@ -796,11 +791,9 @@ Zapfino Extra | 2.3_Scr_Cursives |||| Cla | Pro |
 - **Fonts In Use**  
   *www.fontsinuse.com*
 - **Agrégateur de Ressources Art + Design**  
-*www.ar-ad.ch/sujet/eracom*
+  *www.ar-ad.ch/sujet/eracom*
 
 </details>
-
-
 
 <!-- # 📋 Table des matières
 
@@ -818,9 +811,6 @@ Zapfino Extra | 2.3_Scr_Cursives |||| Cla | Pro |
 - [Tags](#%EF%B8%8F-tags)
 - [Catalogue](#-catalogue)
 - [Sources](#-sources) -->
-
-
-
 
 <!-- ### Livre des polices
 
