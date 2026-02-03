@@ -17,7 +17,7 @@ details.drawer > summary {
 
   /* Mimic markdown H1 */
   font-size: 2em;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 1.25;
   margin-top: 24px;
   margin-bottom: 0px;
