@@ -17,8 +17,9 @@ details.drawer > summary {
   font-size: 2em;
   font-weight: 600;
   line-height: 1.25;
-  margin: 0.67em 0;
-  padding: 0 0 0.3em 0;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  padding-bottom: 0.3em;
   border-bottom: 1px solid #eaecef;
 }
 
