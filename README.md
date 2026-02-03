@@ -3,7 +3,13 @@
 <style>
 /* Collapsible H1-style drawers (kramdown / GitHub Pages) */
 /* Hide empty TOC anchors like <a id="-terminologie"></a> to avoid extra whitespace */
-a[id]:not([href]) { display: none !important; }
+  a[id]:not([href]) {
+    display: block !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
 details.drawer {
   margin: 0 0 1.5rem 0;
 }
@@ -42,6 +48,45 @@ details.drawer[open] > summary::after {
   transform: rotate(90deg);
 }
 </style>
+<script>
+(function () {
+  function openDrawerFromHash() {
+    var hash = window.location.hash;
+    if (!hash || hash.length < 2) return;
+
+    var id = decodeURIComponent(hash.slice(1));
+    var target = document.getElementById(id);
+    if (!target) return;
+
+    // Find the drawer to open: either the next <details> after an anchor,
+    // or the closest <details> ancestor if the target is inside.
+    var details = null;
+    if (target.tagName && target.tagName.toLowerCase() === 'a') {
+      var next = target.nextElementSibling;
+      if (next && next.tagName && next.tagName.toLowerCase() === 'details') details = next;
+    }
+    if (!details) details = target.closest ? target.closest('details.drawer') : null;
+    if (!details) return;
+
+    // Close all drawers, then open the target one
+    document.querySelectorAll('details.drawer').forEach(function (d) {
+      d.removeAttribute('open');
+    });
+    details.setAttribute('open', '');
+
+    // Scroll to the drawer header
+    var summary = details.querySelector('summary');
+    if (summary && summary.scrollIntoView) {
+      requestAnimationFrame(function () {
+        summary.scrollIntoView({ block: 'start' });
+      });
+    }
+  }
+
+  window.addEventListener('hashchange', openDrawerFromHash);
+  window.addEventListener('DOMContentLoaded', openDrawerFromHash);
+})();
+</script>
 
 <!-- # 📋 Table des matières
 
@@ -274,7 +319,7 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 </details>
 
 <a id="-installation-check-in"></a>
-<details class="drawer" open markdown="1">
+<details class="drawer" markdown="1">
 <summary>⚙️ Installation</summary>
 
 ## ⚠️ Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.
