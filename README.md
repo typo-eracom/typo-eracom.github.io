@@ -168,8 +168,8 @@ Un scripts fait référence à **un système d’écriture** (une langue) que l�
 
 <div class="section-title-padding"></div>
 
-- [x] Téléchargez, imprimez et signez [la charte](links/Eracom_Charte_Typotheque_v2_0.pdf).
-- [x] Envoyez un scan de la charte signée [ici](mailto:secretariat.eracom@vd.ch?subject=Charte%20Typoth&egrave;que).
+[x] Téléchargez, imprimez et signez [la charte](links/Eracom_Charte_Typotheque_v2_0.pdf).
+[x] Envoyez un scan de la charte signée [ici](mailto:secretariat.eracom@vd.ch?subject=Charte%20Typoth&egrave;que).
 
 <!-- ![](/links/Eracom_Typotheque_Graphics_v42.jpg) -->
 
@@ -367,8 +367,8 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 
 <div class="section-title-padding"></div>
 
-- [x] Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.
-- [x] Assurez-vous de supprimer tous les fichiers sources issus d’une installation précédente.
+[x] Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.
+[x] Assurez-vous de supprimer tous les fichiers sources issus d’une installation précédente.
 
 <!-- ### Livre des polices
 
@@ -623,7 +623,7 @@ L’assemblage (InDesign, website, installation sur Figma) des fontes **n’est 
 
 <div class="section-title-padding"></div>
 
-- [x] Chaque utilisateur.rice s’engage à supprimer tous les fichiers de fontes à la fin de son cursus.
+[x] Chaque utilisateur.rice s’engage à supprimer tous les fichiers de fontes à la fin de son cursus.
 
 1. Aller > Se rendre au dossier
 2. Copier le chemin suivant (Macintosh HD > Users > *YourName* > Bibliothèque > Fonts)
