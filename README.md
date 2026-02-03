@@ -62,6 +62,8 @@ details.drawer[open] > summary::after {
 
 # ☎️ [typo.eracom@eduvaud.ch](mailto:typo.eracom@eduvaud.ch)
 
+# 🔍 [Spécimens](https://fontes.eracom.ch)
+
 <a id="-terminologie"></a>
 <details class="drawer" markdown="1">
 <summary>🌐 Terminologie</summary>
