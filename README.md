@@ -2,6 +2,8 @@
 
 <style>
 /* Collapsible H1-style drawers (kramdown / GitHub Pages) */
+/* Hide empty TOC anchors like <a id="-terminologie"></a> to avoid extra whitespace */
+a[id]:not([href]) { display: none !important; }
 details.drawer {
   margin: 0 0 1.5rem 0;
 }
