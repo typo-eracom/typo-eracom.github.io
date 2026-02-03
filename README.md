@@ -54,12 +54,18 @@ details.drawer[open] > summary::after {
 .h1-link a {
   color: inherit;
   text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
 }
 .h1-link a:hover {
-  text-decoration: underline;
+  color: #0366d6;
+  text-decoration: none;
 }
 .h1-link a::after {
-  content: " ↗";
+  content: "↗";
+  flex: 0 0 auto;
   font-size: 0.85em;
   font-weight: 600;
 }
@@ -128,7 +134,7 @@ details.drawer[open] > summary::after {
 
 <a id="-terminologie"></a>
 <details class="drawer" markdown="1">
-<summary>🌐 Terminologie</summary>
+<summary>📖 Terminologie</summary>
 
 <div class="section-title-padding"></div>
 
