@@ -478,25 +478,11 @@ Afin de pouvoir utiliser les fontes de la typothèque, il est nécessaire d’in
 Macintosh HD > Library > Application Support > Adobe > Fonts
 ```
 
-### Gardez un signet dans le finder de l'emplacement de ce dossier
+6. Gardez un signet dans le finder de l'emplacement de ce dossier.
 
 |![](/links/Adobe_Fonts_Folder.png)                  |
 |:---:|
 | Dossier Fonts de Adobe |
-
-### Informations complémentaires grâce aux tags
-
-1. Choisir une fonte
-2. Clic droit > Afficher dans le finder
-3. Fichier > Afficher les informations (⌘ + I)
-
-<!-- |![](/links/6_Tags.gif)                  |
-|:---:|
-| Afficher les tags d’une fonte | -->
-
-|![](/links/7_Tags_Filter.gif)                  |
-|:---:|
-| Filtrer les fichiers de fontes grâce aux tags |
 
 </details>
 
@@ -675,6 +661,14 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 | ➡️ **é_Typ** | Typologie | **Cla**(ssique) / **Mod**(erne) / – |
 | ➡️ **é_Lic** | License | **Pro**(priétaire) / **Lib**(re) |
 | ➡️ **é_Ext** | Extensions | — / **Var**(iable) | 
+
+<!-- |![](/links/6_Tags.gif)                  |
+|:---:|
+| Afficher les tags d’une fonte | -->
+
+|![](/links/7_Tags_Filter.gif)                  |
+|:---:|
+| Filtrer les fichiers de fontes grâce aux tags |
 
 [^3]: **Inc**(ises) / **Scr**(iptes) / **Sér**(ifs) / **Slab**(-Sérifs) / **Sans**(-Sérifs) / **Exp**(ressives) / **Hyb**(rides) / **NonL**(atines)
 
