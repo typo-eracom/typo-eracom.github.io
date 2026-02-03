@@ -607,7 +607,7 @@ td.tabular {
 
 <a id="-assemblage"></a>
 <details class="drawer" markdown="1">
-<summary>📁 Assemblage</summary>
+<summary>📦 Assemblage</summary>
 
 <div class="section-title-padding"></div>
 
