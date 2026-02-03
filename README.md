@@ -240,7 +240,7 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 | :--------------------------------: |
 | Prévisualisation dans Font Goggles |
 
-### Activer
+### Activer dans la suite Adobe
 
 1. Une fois la / les familles de polices sélectionnées dans Font Goggles
 2. Dossier > Clic droit > Dupliquer
@@ -257,6 +257,15 @@ Macintosh HD > Library > Application Support > Adobe > Fonts
 | ![](/links/Adobe_Fonts_Folder.png) |
 | :--------------------------------: |
 |       Dossier Fonts de Adobe       |
+
+### Activer dans Figma
+
+1. Une fois la / les familles de polices sélectionnées dans Font Goggles
+2. Glisser le dossier dans l'application *Livre des Polices*
+3. Cliquer sur installer
+
+- Attention: n'installer que les fontes utilisées pour un projet figma de cette manière (surtout pas l'entier de la typothèque)
+- Attention: si des fontes sont installées via le *Livre des Polices*, il ne faut pas les installer à double via le dossier *Fonts* de Adobe
 
 </details>
 
