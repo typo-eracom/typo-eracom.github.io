@@ -231,7 +231,7 @@ Macintosh HD > Library > Application Support > Adobe > Fonts
 
 <a id="-formats"></a>
 <details class="drawer" markdown="1">
-<summary>📄 Formats</summary>
+<summary>📑 Formats</summary>
 
 <div class="section-title-padding"></div>
 
