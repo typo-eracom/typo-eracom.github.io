@@ -270,7 +270,7 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 
 <a id="-installation-check-in"></a>
 <details class="drawer" open markdown="1">
-<summary>⚙️ Installation (check-in)</summary>
+<summary>⚙️ Installation</summary>
 
 ## ⚠️ Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.
 ## ⚠️ Assurez-vous de supprimer tous les fichiers sources issus d’une installation précédente.
@@ -535,7 +535,7 @@ L’assemblage (InDesign, website, installation sur Figma) des fontes **n’est 
 
 <a id="-suppression-check-out"></a>
 <details class="drawer" markdown="1">
-<summary>🔥 Suppression (check-out)</summary>
+<summary>🔥 Suppression</summary>
 
 ## Chaque utilisateur.rice s’engage à supprimer tous les fichiers de fontes à la fin de son cursus.
 
