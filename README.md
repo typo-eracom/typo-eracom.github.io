@@ -157,8 +157,8 @@ Un scripts fait référence à **un système d’écriture** (une langue) que l�
 
 <div class="section-title-padding"></div>
 
-- [x] Téléchargez, imprimez et signez [la charte](links/Eracom_Charte_Typotheque_v2_0.pdf).
-- [x] Envoyez un scan de la charte signée [ici](mailto:secretariat.eracom@vd.ch?subject=Charte%20Typothèque).
+- **Téléchargez, imprimez et signez [la charte](links/Eracom_Charte_Typotheque_v2_0.pdf).**
+- **Envoyez un scan de la charte signée [ici](mailto:secretariat.eracom@vd.ch?subject=Charte%20Typothèque).**
 
 <!-- ![](/links/Eracom_Typotheque_Graphics_v42.jpg) -->
 
@@ -219,8 +219,8 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 
 <div class="section-title-padding"></div>
 
-- [x] Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.
-- [x] Assurez-vous de supprimer tous les fichiers sources issus d’une installation précédente.
+- **Les fichiers sont distribués seulement lorsque l’ensemble de la classe a signé la charte.**
+- **Assurez-vous de supprimer tous les fichiers sources issus d’une installation précédente.**
 
 ### Télécharger
 
