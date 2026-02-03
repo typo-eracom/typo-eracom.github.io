@@ -40,7 +40,7 @@ details.drawer[open] > summary::after {
 }
 </style>
 
-# 📋 Table des matières
+<!-- # 📋 Table des matières
 
 - [Terminologie](#-terminologie)
 - [Charte d’utilisation](#-charte-dutilisation)
@@ -55,11 +55,9 @@ details.drawer[open] > summary::after {
 - [Suppression](#-suppression-check-out)
 - [Tags](#%EF%B8%8F-tags)
 - [Catalogue](#-catalogue)
-- [Sources](#-sources)
+- [Sources](#-sources) -->
 
-# ☎️ Contact
-
-### [typo.eracom@eduvaud.ch](mailto:typo.eracom@eduvaud.ch)
+# ☎️ [typo.eracom@eduvaud.ch](mailto:typo.eracom@eduvaud.ch)
 
 <a id="-terminologie"></a>
 <details class="drawer" markdown="1">
