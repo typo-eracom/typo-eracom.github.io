@@ -259,12 +259,16 @@ Macintosh HD > Library > Application Support > Adobe > Fonts
 
 ### Activer dans Figma
 
+- **Attention: n'installer que les fontes utilisées pour un projet figma de cette manière (surtout pas l'entier de la typothèque)**
+- **Attention: si des fontes sont installées via le *Livre des Polices*, il ne faut pas les installer à double via le dossier *Fonts* de Adobe**
+
 1. Une fois la / les familles de polices sélectionnées dans Font Goggles
 2. Glisser le dossier dans l'application *Livre des Polices*
 3. Cliquer sur installer
 
-- Attention: n'installer que les fontes utilisées pour un projet figma de cette manière (surtout pas l'entier de la typothèque)
-- Attention: si des fontes sont installées via le *Livre des Polices*, il ne faut pas les installer à double via le dossier *Fonts* de Adobe
+| ![](/links/Figma_Fonts.png) |
+| :--------------------------------: |
+|       Dossier Fonts dans le Livre des Polices      |
 
 </details>
 
