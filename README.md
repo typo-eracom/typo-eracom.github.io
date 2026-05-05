@@ -244,7 +244,7 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 
 1. Une fois la / les familles de polices sélectionnées dans Font Goggles
 2. Dossier > Clic droit > Dupliquer
-3. Déplacer le/les dossiers dupliqués dans le dossier _Fonts_ de Adobe
+3. Déplacer le/les dossiers dupliqués dans le dossier _Fonts_ de Adobe (uniquement les OTF, surtout pas plusieurs formats du même fichier fonte)
 4. Les polices sont immédiatement disponibles dans toutes les applications de la Suite Adobe
 5. Quand vous ne les utilisez plus, supprimez simplement les dossiers de polices du dossier _Fonts_ de Adobe (‼️ mais garder les originaux dans le dossier typothèque jusqu'à la fin du cursus)
 6. Gardez un signet dans le finder de l'emplacement de ce dossier
