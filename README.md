@@ -231,19 +231,19 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 
 ### Créer le dossier Fonts de Adobe
 
-1. Rendez-vous à l'emplacement suivant dans le finder
+\1. Rendez-vous à l'emplacement suivant dans le finder
 
 ```
 Macintosh HD > Library > Application Support > Adobe
 ```
 
-2. Créer dans le dossier Adobe un dossier qui s'appelle *Fonts* (‼️ avec exactement cette orthographe)
+\2. Créer dans le dossier Adobe un dossier qui s'appelle *Fonts* (‼️ avec exactement cette orthographe)
 
 ```
 Macintosh HD > Library > Application Support > Adobe > Fonts
 ```
 
-3. Gardez ce dossier dans vos favoris du finder (barre latérale)
+\3. Gardez ce dossier dans vos favoris du finder (barre latérale)
 
 | ![](/links/Adobe_Fonts_Folder.png) |
 | :--------------------------------: |
@@ -266,8 +266,8 @@ Macintosh HD > Library > Application Support > Adobe > Fonts
 2. Clic droit > Révéler le fichier font de le Finder (Reveal font file in finder)
 3. Fichier font > Clic droit > Copier
 4. Dans le dossier _Fonts_ de Adobe > Clic droit > Coller (‼️ uniquement les OTF, surtout pas plusieurs formats du même fichier fonte)
-5. Les polices sont immédiatement disponibles dans toutes les applications de la Suite Adobe
-6. Quand vous ne les utilisez plus, supprimez simplement les dossiers de polices du dossier _Fonts_ de Adobe (‼️ mais garder les originaux dans le dossier typothèque jusqu'à la fin du cursus)
+5. La police est immédiatement disponible dans toutes les applications de la Suite Adobe
+6. Quand vous ne l’utilisez plus, supprimez-la du dossier _Fonts_ de Adobe (‼️ mais garder les originaux dans le dossier typothèque jusqu'à la fin du cursus)
 
 
 ### Activer dans Figma
