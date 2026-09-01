@@ -229,11 +229,31 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 3. Télécharger et décompresser le dossier
 4. Placer le dossier à la racine de votre dossier Eracom
 
+### Créer le dossier Fonts de Adobe
+
+1. Rendez-vous à l'emplacement suivant dans le finder
+
+```
+Macintosh HD > Library > Application Support > Adobe
+```
+
+2. Créer dans le dossier Adobe un dossier qui s'appelle *Fonts* (‼️ avec exactement cette orthographe)
+
+```
+Macintosh HD > Library > Application Support > Adobe > Fonts
+```
+
+3. Gardez ce dossier dans vos favoris du finder (barre latérale)
+
+| ![](/links/Adobe_Fonts_Folder.png) |
+| :--------------------------------: |
+|       Dossier Fonts de Adobe       |
+
 ### Prévisualiser
 
 1. Téléchargez [Font Goggles](https://fontgoggles.org).
-2. Choisir un dossier de polices (contenant des fichiers fontes directement, ‼️ sans sous-dossier)
-3. Glisser le dossier dans de polices Font Goggles (vous pouvez en glisser plusieurs)
+2. Choisir une police (‼️ fichier au format OTF)
+3. Glisser la police dans Font Goggles (vous pouvez en glisser plusieurs)
 4. Enregistrer le fichier de prévisualisation Font Goggles dans votre arborescence de projet
 
 |    ![](/links/Font_Goggles.png)    |
@@ -242,20 +262,13 @@ Une licence libre (open-source) **permet généralement à l’utilisateur.rice 
 
 ### Activer dans Adobe Creative Suite
 
-1. Une fois la / les familles de polices sélectionnées dans Font Goggles
-2. Dossier > Clic droit > Dupliquer
-3. Déplacer le/les dossiers dupliqués dans le dossier _Fonts_ de Adobe (uniquement les OTF, surtout pas plusieurs formats du même fichier fonte)
-4. Les polices sont immédiatement disponibles dans toutes les applications de la Suite Adobe
-5. Quand vous ne les utilisez plus, supprimez simplement les dossiers de polices du dossier _Fonts_ de Adobe (‼️ mais garder les originaux dans le dossier typothèque jusqu'à la fin du cursus)
-6. Gardez un signet dans le finder de l'emplacement de ce dossier
+1. Une fois la de police sélectionnée dans Font Goggles
+2. Clic droit > Révéler le fichier font de le Finder (Reveal font file in finder)
+3. Fichier font > Clic droit > Copier
+4. Dans le dossier _Fonts_ de Adobe > Clic droit > Coller (‼️ uniquement les OTF, surtout pas plusieurs formats du même fichier fonte)
+5. Les polices sont immédiatement disponibles dans toutes les applications de la Suite Adobe
+6. Quand vous ne les utilisez plus, supprimez simplement les dossiers de polices du dossier _Fonts_ de Adobe (‼️ mais garder les originaux dans le dossier typothèque jusqu'à la fin du cursus)
 
-```
-Macintosh HD > Library > Application Support > Adobe > Fonts
-```
-
-| ![](/links/Adobe_Fonts_Folder.png) |
-| :--------------------------------: |
-|       Dossier Fonts de Adobe       |
 
 ### Activer dans Figma
 
