@@ -519,6 +519,7 @@ La classification selon le **«principe historique»[^1]** (classification Vox a
    1. Grotesques
    2. Humanistes
    3. Géométriques
+   4. Néo-Grotesques
 6. **Expressives**  
    _Composition en grands corps (aussi décoratives)_
 7. **Hybrides**  
@@ -615,7 +616,7 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 
 | Tag           | Titre                                | Valeur                                                                           |
 | :------------ | :----------------------------------- | :------------------------------------------------------------------------------- |
-| ➡️ **é_Hst**  | Classification Historique[^3]        | **Inc** / **Scr** / **Sér** / **Slab** / **Sans** / **Exp** / **Hyb** / **NonL** |
+| ➡️ **é_Hst**  | Classification Historique[^3]        | **Inc** / **Scr** / **Sér** / **Sla** / **San** / **Exp** / **Hyb** / **NoL** |
 | ➡️ **é_ForP** | Classification Formelle Principe     | **Dyn**(amique) / **Sta**(tique) / **Géo**(métrique)                             |
 | ➡️ **é_ForC** | Classification Formelle Contraste    | **Con**(trasté) / **Lin**(éaire)                                                 |
 | ➡️ **é_ForT** | Classification Formelle Terminaisons | **Avec** / **Sans**                                                              |
@@ -631,7 +632,7 @@ Sur windows, il faut se référer au tableau du catalogue ci-dessous.
 | :-------------------------------------------: |
 | Filtrer les fichiers de fontes grâce aux tags |
 
-[^3]: **Inc**(ises) / **Scr**(iptes) / **Sér**(ifs) / **Slab**(-Sérifs) / **Sans**(-Sérifs) / **Exp**(ressives) / **Hyb**(rides) / **NonL**(atines)
+[^3]: **Inc**(ises) / **Scr**(iptes) / **Sér**(ifs) / **Sla**(b-Sérifs) / **Sans**(-Sérifs) / **Exp**(ressives) / **Hyb**(rides) / **NoL**(Non-Latines)
 
 </details>
 
